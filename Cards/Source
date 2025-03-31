@@ -275,7 +275,7 @@ Land
 
 Breach the Skylight
 Sorcery
-{2}{UU}
+{2}{U}
 Counter target spell. Create a 1/1 Angel Creature with Indestructible.
 
 Spawn the Child
@@ -287,9 +287,40 @@ Create a 1/1 Infant Legendary Token named Jesus with Indestructible.
 
 Teach the Elders
 Sorcery
-{2}{W}{G}
+{2}{R}{G}
 Choose one:
 *Deliver a Lesson*: All creatures gain Inspire.
 *Rebuke*: Legendary creatures get -2/-2 until end of turn.
 *Flip the Table*: Destroy target legendary creature. Create 2 food tokens and Treasure Token.
+
+Absorb his Mercy
+Sorcery
+{1}{W}
+Flip a coin. If it is heads, you lose 3 life. If it's taila you gain 3 life.
+
+Michael
+Creature - Angel
+{4}
+4/4
+When CARDNAME enters, create a 2/2 Human Token named Adam. Draw a card.
+
+The True Cross
+Artifact
+{0}
+{T}: Add {2} 
+
+Pontious Pilate
+Creature - Human
+{3}{RR}
+Sacrifice a Legendary creature or destroy a Legendary creature controlled by opponent: Gain {RRR}
+{W}: Create a food Token.
+
+Christ, Savior of Man
+Legendary Planeswalker
+6
++1: *Communion*: Create two Blood tokens which enter tapped.
+-2: *Protection*: Creatures you control gain Indestructible.
+-8: *Ressurection*: Return all cretures from all graveyards onto the battlefield under your control. They gain Haste.
+
+
 
