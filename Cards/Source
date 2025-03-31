@@ -86,7 +86,7 @@ Legendary Planeswalker
 Job
 {3}{B}
 2/3
-Sacrifice three creatures: Put two +1/+1 counters on CARDNAME
+Sacrifice three creatures: Put two +1/+1 counters on CARDNAME.
 
 Adam's Rib
 Artifact
@@ -142,7 +142,7 @@ Gain 3 life.
 Palm Sunday
 Enchantment
 {2}{U}{G}
-On your upkeep, create a 1/1 White Donkey Creature. If you control a Donkey, create an additional token.
+On your upkeep, create a 1/1 White Donkey Creature. If you control a Donkey, create an additional Donkey token.
 
 Douse the Lintels
 Sorcery
@@ -276,7 +276,7 @@ Land
 Breach the Skylight
 Sorcery
 {2}{U}
-Counter target spell. Create a 1/1 Angel Creature with Indestructible.
+Counter target spell. Create a 1/1 White Angel Creature with Indestructible.
 
 Spawn the Child
 Sorcery
@@ -318,10 +318,57 @@ Sacrifice a Legendary creature or destroy a Legendary creature controlled by opp
 Christ, Savior of Man
 {2}{W}{UU}{R}
 Legendary Planeswalker
+This card is named Jesus
 6
 +1: *Communion*: Create two Blood tokens which enter tapped.
 -2: *Protection*: Creatures you control gain Indestructible.
 -8: *Ressurection*: Return all cretures from all graveyards onto the battlefield under your control. They gain Haste.
 
+Joseph of Areamethea
+Creaure - Human
+{2}{W}
+1/2
+{R} *Reveal the Stone*: Sacrifice this creature. Deal damage equal to its toughness to any target.
 
+John, Brother of Christ
+Creature - Human
+{1}{RR}
+2/2
+{W}: Sacrifice a 1/1 Creture. Target Creature gains Indestructible until end of turn.
+
+Samaritan's Blessing
+Sorcery
+{1}{G}
+Put a +1/+1 counter on target Creature.
+
+Mary Magdaline, Weeping
+Creture - Human
+{U}{B}
+1/2
+If the True Cross is on the battlefiled, CARDNAME enters with 2 +1/+1 counters.
+If Jesus is on the battlefield, CARDNAME enters with an additional +1/+1 counter.
+
+Manifest Flesh
+Sorcery
+{1}{U}{G}
+If you control two tokens named Adam and Eve, draw three cards. Exile CARDNAME.
+
+Visit of the Magi
+Instant
+{1}{B}
+Create a Treasure Token. If Jesus is on the battlefield, create two additional Treasure Tokens.
+
+Forty Days
+Sorcery
+Suspend {R}, 4
+Each time CARDNAME removes a time counter, put an Ash token on one creature target opponent controls.
+When CARDNAME is cast, destroy all creatures with an Ash counter.
+
+Abiogenesis
+Sorcery
+{U}{G}
+Kicker {U}{GG}
+Create a 1/1 Human Token Creature named Adam and a 1/1 Human Token named Eve.
+If this spell was kicked, create a 1/1 Infant Human Creature Token with Indestructible named Jesus.
+Flashback: {UUU}.
 
