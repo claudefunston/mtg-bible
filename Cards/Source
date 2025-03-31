@@ -367,8 +367,18 @@ When CARDNAME is cast, destroy all creatures with an Ash counter.
 Abiogenesis
 Sorcery
 {U}{G}
-Kicker {U}{GG}
+Kicker {U}{G}
 Create a 1/1 Human Token Creature named Adam and a 1/1 Human Token named Eve.
 If this spell was kicked, create a 1/1 Infant Human Creature Token with Indestructible named Jesus.
 Flashback: {UUU}.
 
+Serenity
+Instant
+{1}{W}
+Exile all cards from targer player's graveyard.
+
+Teffelin
+Artifact - Phylactery Equiptment
+{0}
+Equip {1}
+Equppied creature has +1/+1 and Lifelink.
