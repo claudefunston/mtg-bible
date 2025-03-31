@@ -296,7 +296,7 @@ Choose one:
 Absorb his Mercy
 Sorcery
 {1}{W}
-Flip a coin. If it is heads, you lose 3 life. If it's taila you gain 3 life.
+Flip a coin. If it is heads, you lose 3 life. If it's tails you gain 3 life.
 
 Michael
 Creature - Angel
@@ -316,6 +316,7 @@ Sacrifice a Legendary creature or destroy a Legendary creature controlled by opp
 {W}: Create a food Token.
 
 Christ, Savior of Man
+{2}{W}{UU}{R}
 Legendary Planeswalker
 6
 +1: *Communion*: Create two Blood tokens which enter tapped.
