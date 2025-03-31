@@ -278,7 +278,18 @@ Sorcery
 {2}{UU}
 Counter target spell. Create a 1/1 Angel Creature with Indestructible.
 
+Spawn the Child
+Sorcery
+{1}{G}
+Gift a tapped Fish.
+If the gift wasn't given, you lose 2 life.
+Create a 1/1 Infant Legendary Token named Jesus with Indestructible.
 
-
-
+Teach the Elders
+Sorcery
+{2}{W}{G}
+Choose one:
+*Deliver a Lesson*: All creatures gain Inspire.
+*Rebuke*: Legendary creatures get -2/-2 until end of turn.
+*Flip the Table*: Destroy target legendary creature. Create 2 food tokens and Treasure Token.
 
