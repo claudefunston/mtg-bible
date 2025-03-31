@@ -1,0 +1,281 @@
+Aaron's Rage
+{1}{U}{G}
+Sorcery
+Target artifact becomes a 4/4 Snake creature with deathtouch until end of turn. It's still an artifact.
+
+Elisha's Justice
+Sorcery
+{1}{RR}
+Destroy all token creatures. Create a 3/3 Bear token with Trample.
+
+Centurion
+Creature - Human
+{1}{W}
+1/2
+{T}, Sacrifice CARDNAME. Prevent all damage dealt to up to one target creature.
+If Jesus is on the battlefiled, return CARDNAME to your hand
+
+Herod
+{2}{U}{B}{RR}
+Creature - King
+4/5
+Flying, Trample
+{R}: *Kill the Firstborn*: Destroy all creatures with power 2 or less
+{W}: *Taxation* For each player, vote travel or pay. <<To be filled in>>
+
+Sodom
+Legendary Land - Plains
+CARDNAME enters tapped with one Salt counter
+{T}: Add a Salt counter to CARDNAME
+{T}: Add {C}
+{T}, {4}: Remove 4 Salt counters from CARDNAME. Sacrifice it. Destroy all creatures.
+
+Judas
+Creature - Goblin
+{3}{R}
+2/2
+When CARDNAME enters, create two treasure tokens.
+{1}, {T}: Sacrifice CARDNAME. Destroy target legendary creature or Planeswalker. Create two treasure tokens.
+
+Peter's Wisdom
+Instant
+{2}{W}
+Choose one:
+*Deny Christ*: Create 3 1/1 Rooster tokens with haste
+*Serve Him*: Gain 3 life. Create a food token
+*:*:
+
+Lazarus
+Creature - Zombie
+2/2
+{2}{B}
+When a legendary creature or Plansewalker enters, return CARDNAME from your graveyard to the battlefiled tapped
+
+Judas' Rebuke
+Sorcery
+{1}{BB}
+Destroy target creature. Create a Treasure token.
+
+Flood
+Sorcery
+{UUU}
+Destroy all lands and non-legendary creatures
+
+Sermon on the Mount
+Enchantment
+{3}{W}{G}
+When CARDNAME enters, create a Food token, a Clue token, and a Treasure token.
+Creatures you control have Inspire (When an Inspired creature dies, create a Food token)
+ 
+Mary
+Creature - Human
+1/4
+{3}{G}
+When CARDNAME enters, create a 1/1 Legendary Infant token named Jesus with Indestructible
+Players cannot attack you as long as you control a 1/1 creature
+CARDNAME cannot attack
+
+Paul
+Legendary Planeswalker
+4
+{3}{G}{U}
++1 Target creature gains Inspire
+-1: {G} Search your library for target forest, place it on to the battlefiled tapped, then shuffle.
+-6:
+
+Job
+{3}{B}
+2/3
+Sacrifice three creatures: Put two +1/+1 counters on CARDNAME
+
+Adam's Rib
+Artifact
+{3}
+{T}: Add {CC}
+Sacrifice CARDNAME: Create a 2/2 Human Token named Eve.
+
+Transfiguration
+Instant
+{W}{U}{R}
+As an additional cost to cast this card, sacrifice a creature.
+Create a 2/2 Human Creature Token named Moses, and a 2/3 Human Creature Token named Elijah.
+Flashback: {4}{W}{U}{R}
+
+Walk on Water
+Instant
+{1}{U}
+Return target creature to its owner's hand. Draw a card.
+
+Smite the Fig Tree
+Sorcery
+{2}{G}
+Destroy target Forest, Artifact, or creature with Flying.
+
+The Ass saw the Angel
+Creature - Donkey
+{2}{W}
+2/3
+Lifelink
+
+David, Killer of Giants
+Creature - Human Druid
+{2}{W}{G}
+1/2
+Pay 3 life: Deal 5 damage to target creature with power 5 or higher
+
+Holofernes
+Creature - Devil
+1/3
+{T}, {B}: Sacrifice this creature. Create a 1/1 Head token named Holofernes.
+
+Eve's Apple
+Artifact
+{2}
+{1}, {T}: Add one mana of any color
+{4}, {T}: Create a food token
+{T}: Create a 1/1 Snake token with deathtouch
+
+Honeycomb
+{1}{W}
+Gain 3 life.
+
+Palm Sunday
+Enchantment
+{2}{U}{G}
+On your upkeep, create a 1/1 White Donkey Creature. If you control a Donkey, create an additional token.
+
+Douse the Lintels
+Sorcery
+{1}{R}
+Deal two damage to any target.
+
+Enter the Eucharist
+Sorcery
+{3}{WWW}
+Create 3 4/4 Angel Creature tokens with Vigilance and Flying.
+Flashback: {5}{WW}
+
+Fishers of Men
+Sorcery
+{1}{G}
+Gift a tapped fish. Draw a card.
+
+Jesus' Sandals
+Artifact - Equiptment
+{2}
+Equip {3}
+Equipped creature has +1/+1, trample, and lifelink.
+
+Noah's Blessing
+Sorcery
+{3}{G}
+Choose any number of pairs of creatures that share a creature type. Put 2 +1/+1 counters on them
+
+Uriah the Hittite
+Creature - Human
+1/3
+
+David's Mighty Men
+Enchantment - Saga
+{2}{BB}
+1: Create 3 1/1 Human Soldier Tokens
+2: *Summon the Three*: Choose one: Summon a 3/2 Avatar Token named Ishbaal; Summon a 1/4 Human Token named Eleazer, or summon a 2/2 Human Druid named Shammah.
+3: Creatures you control gain Indestructible until end of turn.
+
+Pierce the Shroud
+Instant
+{1}{WW}
+Deal 5 damage to target attacking or blocking creature.
+
+Hem of the Savior
+Instant
+{1}{U}{R}
+Gain 3 life. Create a blood token.
+
+Dumah
+Creature - Druid
+{2}{G}
+2/3
+*Landfall*: When a land enters, regenerate CARDNAME.
+
+The Curse of Frogs
+Enchantment - Curse
+{1}{G}{U}
+Enchant targer player. They create a 1/1 Frog Token
+At the beginning of Enchanted player's upkeep, they put a -1/-1 counter on each creature for every Frog controlled.
+
+The Curse of Locusts
+Enchantment - Curse
+{X}{U}{R}
+Enchant target player. You create X 1/1 Locust cretures with Flying and Haste. Enchanted player gets one poison counter for each damage dealt by a creature with power one or less.
+
+The Curse of Lice
+{2}{W}{B}
+Enchantment - Curse
+Enchant target player. That player's creatures enter with a -1/-1 counter.
+
+The Curse of Hail
+Enchantment - Curse
+{1}{U}{B}
+Enchant target player. When that player casts a Blue spell, they must sacrifice a land.
+
+Shofar
+Artifact
+{2}
+{T}: Target creature gains flying until end of turn.
+{W}: Target creature gains +1/+0 until end of turn.
+
+Satan, Spawn of Evil
+{U}
+1/1
+{U}{B}{R} Sacrifice 5 creatures. Transform CARDNAME.
+///
+Satan - Legendary Planeswalker
+4
++1: Deal 3 damage to any target
+-2: Create 2 1/1 Devil Token creatures with haste.
+-7: Exile all creatures. Place them in Hell. Any player can cast exiled cards from Hell as 1/1 Creatures with deathtouch.
+
+Thomas' Insight
+Instant
+{1}{R}{W}
+Choose one:
+*Faith*: Gain 3 life and deal one damage to any target.
+*Doubt*: Deal 3 damage to any target.
+
+Crown of Thorns
+Artifact
+{2}
+Equip {0}
+Equipped creature gains -1/-1
+When target creature is equipped, draw a card.
+
+The Afterlife
+Enchantment
+{1}{WW}{U}{G}
+Creatures you control have Insipire (when an Inspired creature dies, create a food Token)
+Whenever a food token enters or when you sacrifice one, create a 4/4 Angel token with vigilance.
+
+Hell
+Legendary Land - Swamp Mountain
+{1], {T}: Add {B} or {R}
+{1}, {T}: Create a 1/1 Devil Token with haste. Sacrifice it at the beginning of the next end step. Untap CARDNAME.
+{4}, {T}: Sacrifice CARDNAME. Deal 3 damage to each creature.
+
+Heaven
+Legendary Land - Plains Forest
+{1}, {T}: Add {W} or {G}
+{3}, {T}: Create a 3/3 Angel token with Flying
+{T}: Sacrifice CARDNAME. If you have exactly one life, you win the game.
+
+Limbo
+Land
+{T}: Add {1}
+{T}, Sacrifice CARDNAME: search your library for a Forest, place it onto the Battlefield tapped, then shuffle.
+
+
+
+
+
+
+
