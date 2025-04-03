@@ -26,7 +26,7 @@
         <card>
             <name>Elisha's Justice</name>
             <text>Destroy all creatures. 
-            Create a 3/3 Bear Token with Trabple.
+            Create a 3/3 Bear Token with Trample.
             </text>
             <prop>
                 <type>Sorcery</type>
@@ -34,6 +34,20 @@
                 <manacost>1RR</manacost>
                 <cmc>3</cmc>
                 <colors>R</colors>
+            </prop>
+            <set>BIB</set>
+        </card>
+        <card>
+            <name>Centurion</name>
+            <text>{T}, Sacrifice CARDNAME. Prevent all damage dealt to up to one target creature.
+If Jesus is on the battlefiled, return CARDNAME to your hand</text>
+            <prop>
+                <type>Creature - Human</type>
+                <pt>1/2</pt>
+                <coloridentity>W</coloridentity>
+                <manacost>1W</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
             </prop>
             <set>BIB</set>
         </card>
