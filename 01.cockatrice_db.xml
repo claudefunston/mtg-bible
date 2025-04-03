@@ -74,5 +74,16 @@ If Jesus is on the battlefiled, return CARDNAME to your hand</text>
 			</prop>
 			<set>BIB</set>
 		</card>
+        <card>
+            <name>Walk on Water</name>
+            <text>Return target creature to its owner's hand. Draw a card.</text>
+            <prop>
+                <type>Instant</type>
+                <manacost>1U</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+            </prop>
+            <set>BIB</set>
+        </card>
     </cards>
 </cockatrice_carddatabase>
