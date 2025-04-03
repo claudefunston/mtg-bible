@@ -2,13 +2,13 @@ Aaron's Rage
 {1}{U}{G}
 Sorcery
 Target artifact becomes a 4/4 Snake creature with deathtouch until end of turn. It's still an artifact.
-[[CONVERSION STATUS]] - done
+[[CONVERSION STATUS]] - adequate
 
 Elisha's Justice
 Sorcery
 {1}{RR}
 Destroy all token creatures. Create a 3/3 Bear token with Trample.
-[[CONVERSION STATUS]] - done
+[[CONVERSION STATUS]] - adequate
 
 Centurion
 Creature - Human
@@ -16,7 +16,7 @@ Creature - Human
 1/2
 {T}, Sacrifice CARDNAME. Prevent all damage dealt to up to one target creature.
 If Jesus is on the battlefiled, return CARDNAME to your hand
-[[CONVERSION STATUS]] - done
+[[CONVERSION STATUS]] - adequate
 
 Herod
 {2}{U}{B}{RR}
