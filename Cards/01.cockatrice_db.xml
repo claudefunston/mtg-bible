@@ -47,6 +47,7 @@ If Jesus is on the battlefiled, return CARDNAME to your hand</text>
                 <manacost>1W</manacost>
                 <cmc>2</cmc>
                 <colors>W</colors>
+                <tablerow>2</tablerow>
             </prop>
             <set>BIB</set>
         </card>
@@ -60,6 +61,7 @@ If Jesus is on the battlefiled, return CARDNAME to your hand</text>
                 <manacost>3R</manacost>
                 <cmc>4</cmc>
                 <colors>R</colors>
+                <tablerow>2</tablerow>
             </prop>
             <set>BIB</set>
         </card>    
@@ -68,6 +70,7 @@ If Jesus is on the battlefiled, return CARDNAME to your hand</text>
 			<text> {T}: Add a Salt counter to CARDNAME. {T}: Add {C}. {T}, {4}: Remove 4 Salt counters from CARDNAME. Sacrifice it. Destroy all creatures.</text>
 			<prop>
 				<type>Legendary Land</type>
+                <tablerow>0</tablerow>
 			</prop>
 			<set>BIB</set>
 		</card>
