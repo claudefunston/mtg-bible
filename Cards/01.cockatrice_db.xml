@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+    <info>
+        <author>Claude Funston</author>
+    </info>
+    <sets>
+        <set>
+            <name>BIB</name>
+            <longname>The Holy Bible</longname>
+            <settype>Expansion</settype>
+        </set>
+    </sets>
+    <cards>
+        <card>
+            <name>Aaron's Rage</name>
+            <text>
+                Target artifact becomes a 4/4 Snake creature with deathtouch until end of turn. It's still an artifact.
+            </text>
+            <prop>
+                <type>Instant</type>
+                <coloridentity>UG</coloridentity>
+                <manacost>1UG</manacost>
+                <cmc>3</cmc>
+                <colors>UG</colors>
+            </prop>
+            <set>BIB</set>
+        </card>
+    </cards>
+</cockatrice_carddatabase>
