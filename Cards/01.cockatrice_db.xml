@@ -25,5 +25,19 @@
             </prop>
             <set>BIB</set>
         </card>
+        <card>
+            <name>Elisha's Justice</name>
+            <text>
+                Destroy all creatures. Create a 3/3 Bear Token with Trabple.
+            </text>
+            <prop>
+                <type>Sorcery</type>
+                <coloridentity>R</coloridentity>
+                <manacost>1RR</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+            </prop>
+            <set>BIB</set>
+        </card>
     </cards>
 </cockatrice_carddatabase>
