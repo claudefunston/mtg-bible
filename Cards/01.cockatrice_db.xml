@@ -50,5 +50,18 @@ If Jesus is on the battlefiled, return CARDNAME to your hand</text>
             </prop>
             <set>BIB</set>
         </card>
+        <card>
+            <name>Judas</name>
+            <text>{T}, When CARDNAME enters, create two treasure tokens. {1}, {T}: Sacrifice CARDNAME. Destroy target legendary creature or Planeswalker. Create two treasure tokens.</text>
+        <prop>
+            <type>Creature - Goblin</type>
+            <pt>2/2</pt>
+            <coloridentity>R</coloridentity>
+            <manacost>3R</manacost>
+            <cmc>4</cmc>
+            <colors>R</colors>
+        </prop>
+        <set>BIB</set>
+        </card>
     </cards>
 </cockatrice_carddatabase>
