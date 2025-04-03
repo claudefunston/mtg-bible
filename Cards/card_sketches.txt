@@ -69,11 +69,6 @@ Instant
 As an additional cost to cast this card, sacrifice a creature.
 Create a 2/2 Human Creature Token named Moses, and a 2/3 Human Creature Token named Elijah.
 Flashback: {4}{W}{U}{R}
-    
-Walk on Water
-Instant
-{1}{U}
-Return target creature to its owner's hand. Draw a card.
 
 Smite the Fig Tree
 Sorcery
