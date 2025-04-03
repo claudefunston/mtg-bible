@@ -13,6 +13,8 @@ Place `01.cockatrice_db.xml` into `~\Cockatrice\Cockatrice\customsets` (or `%APP
 These are whiteboarded cards envisioned in an ad-hoc, top-down style. They are presented in a non-standard format which should be sufficient enough to communicate the nature, effects, and idea of each card. For now, the cards considered as MVP in the proper db are flagged with [[CONVERSION STATUS]] - adequate. When additional tags, artwork, andd UUIDs are added to these cards, a possible status option will be [[CONVERSION STATUS]] - complete.
 ## db
 A standardized .XML database tested to load into Cockatrice for custom games.
+## Converted Cards
+An archive of cards from the Card Sketches file which have been minimally converted to .XML. To be placed here, the information in the Sketches file must not have any information relevant to producing the final card.
 
 # Contributing
 ## Design a card!
