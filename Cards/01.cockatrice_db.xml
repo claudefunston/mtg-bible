@@ -13,9 +13,7 @@
     <cards>
         <card>
             <name>Aaron's Rage</name>
-            <text>
-                Target artifact becomes a 4/4 Snake creature with deathtouch until end of turn. It's still an artifact.
-            </text>
+            <text>Target artifact becomes a 4/4 Snake creature with deathtouch until end of turn. It's still an artifact.</text>
             <prop>
                 <type>Instant</type>
                 <coloridentity>UG</coloridentity>
@@ -27,8 +25,8 @@
         </card>
         <card>
             <name>Elisha's Justice</name>
-            <text>
-                Destroy all creatures. Create a 3/3 Bear Token with Trabple.
+            <text>Destroy all creatures. 
+            Create a 3/3 Bear Token with Trabple.
             </text>
             <prop>
                 <type>Sorcery</type>
