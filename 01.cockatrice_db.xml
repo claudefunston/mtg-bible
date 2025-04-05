@@ -25,7 +25,7 @@
         </card>
         <card>
             <name>Elisha's Justice</name>
-            <text>Destroy all creatures. Create a 3/3 Bear Token with Trample.
+            <text>Destroy all creatures. Create a 3/3 Green Bear Token with Trample.
             </text>
             <prop>
                 <type>Sorcery</type>
@@ -84,6 +84,15 @@ If Jesus is on the battlefiled, return CARDNAME to your hand</text>
                 <colors>U</colors>
             </prop>
             <set>BIB</set>
+        </card>
+        <card>
+            <name>Adam's Rib</name>
+            <text>Sacrifice CARDNAME: Create a 2/2 Human Token named Eve. {T}: Add {C}.</text>
+            <prop>
+                <type>Artifact</type>
+                <manacost>3</manacost>
+            </prop>
+            <set>BIB</set>  
         </card>
     </cards>
 </cockatrice_carddatabase>
