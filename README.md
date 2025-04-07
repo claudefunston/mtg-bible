@@ -13,6 +13,8 @@ Place `01.cockatrice_db.xml` into `~\Cockatrice\Cockatrice\customsets` (or `%APP
 These are whiteboarded cards envisioned in an ad-hoc, top-down style. They are presented in a non-standard format which should be sufficient enough to communicate the nature, effects, and idea of each card. For now, the cards considered as MVP in the proper db are flagged with [[CONVERSION STATUS]] - adequate. When additional tags, artwork, andd UUIDs are added to these cards, a possible status option will be [[CONVERSION STATUS]] - complete.
 ## db
 A standardized .XML database tested to load into Cockatrice for custom games.
+## Images
+This is slowly growing. Images must have proper attribution, and evidence of propriety of use in this context
 ## Converted Cards
 An archive of cards from the Card Sketches file which have been minimally converted to .XML. To be placed here, the information in the Sketches file must not have any information relevant to producing the final card.
 
@@ -20,14 +22,15 @@ An archive of cards from the Card Sketches file which have been minimally conver
 ## Design a card!
 Simply think of your favorite Biblical hero or event, and create something that makes sense in that context. Slight violations of the color pie are acceptable, so long as the color aligns to the card in question. Heros are heros, afterall.
 
-The only restriction is that everying has to come directly from the Bible, so no tangential things which might seem to fit but don't - Enoch, Josephus, Helena &c. References to Deuterocanonical works are gladly included.
+Keep the content safe. Do not contribute cards which advocate or condone sexual violence. Smiting, and the destroying of cities is fine, but keep it neutral - like the classic MTG card Wrath of God.
+
+The only other restriction is that everying has to come directly from the Bible, so no tangential things which might seem to fit but don't - Enoch, Josephus, Helena &c. References to Deuterocanonical works are gladly included.
 ## Convert to .XML
-Take a card from `card_sketches.txt` and make a proper file out of it. I am using the specification from [Cockatrice](https://github.com/Cockatrice/Cockatrice). For now, minimalistic tagging is fine; we will update the file if exotic fields become necessary.
+Take a card from `card_sketches.txt` and make a proper file out of it. We are using the specification from [Cockatrice](https://github.com/Cockatrice/Cockatrice). For now, minimalistic tagging is fine; we will update the File if exotic fields become necessary.
 ## Artwork and Flavor Text
 Up for grabs. From the shell of proper frames and borders to a nice picture of Moses striking a rock, let's make it look special. Automated tools to incorporate existing card frames are under consideration. Flavor text is probably best when it has a reference to chapter and verse.
 
-Ideally, we would have something that clones a frame+border from an existing Magic card that shares the same type and (exact) mana cost as the custom card. Fancy chrome such as getting Enchantment frames and hybrid mana costs with crossthrough backgrounds can come later, but a simple frame that's easy to make and automatically fills in mana cost, *types, power and toughness, and the text box would be awsesome. One for each color, an artifact frame, a colorless frame, and a gold frame sounds a whole lot like MVP.
-## Formatting Niceties
-Currently, cards with typically multiline text boxes and bulleted modal effects aren't rendered particularly cleanly. This can be done properly in concert with current MTG file formats, or shoehorning HTML tags into the text boxes that will kind of work. Let's do the former.
+For now, we are using [MSE](https://magicseteditor.boards.net/) to make the frames.
+
 ## Organize archetypes and run statistics on colors, meta-effects, and balance
-Now, it's time to make a set!
+Now, it's time to make a set! MSE runs stats, but there sure are tools out there to link everything together.

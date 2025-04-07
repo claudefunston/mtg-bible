@@ -25,7 +25,7 @@
         </card>
         <card>
             <name>Elisha's Justice</name>
-            <text>Destroy all creatures. Create a 3/3 Green Bear Token with Trample.
+            <text>Destroy all creatures with power 2 or less and all tokens. Create a 3/3 Green Bear Token with Trample.
             </text>
             <prop>
                 <type>Sorcery</type>
