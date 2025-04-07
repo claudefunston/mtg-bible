@@ -5,12 +5,14 @@ The cards are not desiged in any way to insult relegion. They are a respecful wa
 
 I am not a set designer nor scholar, but I can get to a concept of a biblical figure and just throw a card out there. If you are a good set designer, I would appreciate any feedback on balance.
 
+This project aims to adhere to WotC's [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). This project does not, and will not, accept money at any time. Any potential contradictions to the policy should be flagged immediately, and will be corrected by us.
+
 # Usage
 Place `01.cockatrice_db.xml` into `~\Cockatrice\Cockatrice\customsets` (or `%APPDATA%\Local\Cockatrice\Cockatrice\customsets`). From the Cockatrice menu (Card Database -> Manage Sets), you should see your custom set available to load amongst all the rest.
 
 Images may be placed in `~Cockatrice\Cockatrice\pics\CUSTOM`. You can use the pictures from this repo, or make images of your own. If you place a .png or .jpg image in this folder, and the name of the image matches the name of a card, the image will load. Apostrophes matter.
 
-No guarantees if a new card needs a circumflex.
+No guarantees that names like Barad-dûr will be rendered properly! Extended character sets under exploration.
 
 # Contents
 ## Card Sketches
