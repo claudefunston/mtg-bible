@@ -12,7 +12,7 @@
     </sets>
     <cards>
         <card>
-            <name>Aaron's Rage</name>
+            <name>Aaron's Impulse</name>
             <text>Target artifact becomes a 4/4 Snake creature with deathtouch until end of turn. It's still an artifact.</text>
             <prop>
                 <type>Instant</type>

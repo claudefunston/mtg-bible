@@ -63,7 +63,7 @@ Artifact
 {T}: Add {CC}
 Sacrifice CARDNAME: Create a 2/2 Human Token named Eve.
 
-Transfiguration
+The Transfiguration
 Instant
 {W}{U}{R}
 As an additional cost to cast this card, sacrifice a creature.
@@ -92,8 +92,8 @@ Creature - Devil
 1/3
 {T}, {B}: Sacrifice this creature. Create a 1/1 Head token named Holofernes.
 
-Eve's Apple
-Artifact
+Forbidden Fruit
+Artifact - Food
 {2}
 {1}, {T}: Add one mana of any color
 {4}, {T}: Create a food token
@@ -109,9 +109,9 @@ Enchantment
 On your upkeep, create a 1/1 White Donkey Creature. If you control a Donkey, create an additional Donkey token.
 
 Douse the Lintels
-Sorcery
+Enchant land
 {1}{R}
-Deal two damage to any target.
+Enchanted land has {T}, {1}: target creature gains Indestructible until end of turn.
 
 Enter the Eucharist
 Sorcery
@@ -121,7 +121,7 @@ Flashback: {5}{WW}
 
 Fishers of Men
 Sorcery
-{1}{G}
+{1}{U}
 Gift a tapped fish. Draw a card.
 
 Jesus' Sandals
@@ -141,9 +141,9 @@ Creature - Human
 
 David's Mighty Men
 Enchantment - Saga
-{2}{BB}
+{2}{WW}
 1: Create 3 1/1 Human Soldier Tokens
-2: *Summon the Three*: Choose one: Summon a 3/2 Avatar Token named Ishbaal; Summon a 1/4 Human Token named Eleazer, or summon a 2/2 Human Druid named Shammah.
+2: *Summon*: Choose one: Summon a 3/2 Avatar Token named Ishbaal; Summon a 1/4 Human Token named Eleazer, or summon a 2/2 Human Druid named Shammah.
 3: Creatures you control gain Indestructible until end of turn.
 
 Pierce the Shroud
@@ -244,7 +244,7 @@ Counter target spell. Create a 1/1 White Angel Creature with Indestructible.
 
 Spawn the Child
 Sorcery
-{1}{G}
+{1}{U}
 Gift a tapped Fish.
 If the gift wasn't given, you lose 2 life.
 Create a 1/1 Infant Legendary Token named Jesus with Indestructible.
@@ -283,15 +283,15 @@ Christ, Savior of Man
 {2}{W}{UU}{R}
 Legendary Planeswalker - Jesus
 6
-+1: *Communion*: Create two Blood tokens which enter tapped.
--2: *Protection*: Creatures you control gain Indestructible until end of turn.
++1: *Communion*: Create two Blood tokens and one food token.
+-2: *Protection*: Creatures you control gain Indestructible until end of turn. You may activate this ability as an instant.
 -8: *Ressurection*: Return all cretures from all graveyards onto the battlefield under your control. They gain Haste.
 
 Joseph of Areamethea
 Creaure - Human
-{2}{W}
+{2}{G}
 1/2
-{R} *Reveal the Stone*: Sacrifice this creature. Deal damage equal to its toughness to any target.
+{B} *Open the Tomb*: Return target creature with power 3 or less from your graveyard to your hand. Activate only as a sorcery.
 
 John, Brother of Christ
 Creature - Human
@@ -302,7 +302,7 @@ Creature - Human
 Samaritan's Blessing
 Sorcery
 {1}{G}
-Put a +1/+1 counter on target Creature.
+Regenerate target creture.
 
 Mary Magdaline, Weeping
 Creture - Human
@@ -318,7 +318,7 @@ If you control two tokens named Adam and Eve, draw three cards. Exile CARDNAME.
 
 Visit of the Magi
 Instant
-{1}{B}
+{1}{U}
 Create a Treasure Token. If Jesus is on the battlefield, create two additional Treasure Tokens.
 
 Forty Days
@@ -330,9 +330,7 @@ When CARDNAME is cast, destroy all creatures with an Ash counter.
 Abiogenesis
 Sorcery
 {U}{G}
-Kicker {U}{G}
-Create a 1/1 Human Token Creature named Adam and a 1/1 Human Token named Eve.
-If this spell was kicked, create a 1/1 Infant Human Creature Token with Indestructible named Jesus.
+Create a 1/1 Human Token Creature named Adam and a 1/1 Human Token named Eve. Search your library for a basic land card, place it onto the battlefield tapped, then shuffle.
 Flashback: {UUU}.
 
 Serenity
