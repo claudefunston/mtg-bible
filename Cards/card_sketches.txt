@@ -122,7 +122,7 @@ Flashback: {5}{WW}
 Fishers of Men
 Sorcery
 {1}{U}
-Gift a tapped fish. Draw a card.
+Gift a tapped fish. Draw a card. If the gift was given, counter target spell.
 
 Jesus' Sandals
 Artifact - Equiptment
@@ -242,7 +242,7 @@ Sorcery
 {2}{U}
 Counter target spell. Create a 1/1 White Angel Creature with Indestructible.
 
-Spawn the Child
+The Child is Born
 Sorcery
 {1}{U}
 Gift a tapped Fish.
@@ -302,7 +302,7 @@ Creature - Human
 Samaritan's Blessing
 Sorcery
 {1}{G}
-Regenerate target creture.
+Put a +1/+1 counter on target creature.
 
 Mary Magdaline, Weeping
 Creture - Human
@@ -318,7 +318,7 @@ If you control two tokens named Adam and Eve, draw three cards. Exile CARDNAME.
 
 Visit of the Magi
 Instant
-{1}{U}
+{1}{U}{R}
 Create a Treasure Token. If Jesus is on the battlefield, create two additional Treasure Tokens.
 
 Forty Days

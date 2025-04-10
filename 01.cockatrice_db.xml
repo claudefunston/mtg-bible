@@ -12,7 +12,7 @@
     </sets>
     <cards>
         <card>
-            <name>Aaron's Impulse</name>
+            <name>Aaron's Reproach</name>
             <text>Target artifact becomes a 4/4 Snake creature with deathtouch until end of turn. It's still an artifact.</text>
             <prop>
                 <type>Instant</type>
@@ -53,7 +53,7 @@ If Jesus is on the battlefiled, return Centurion to your hand</text>
         </card>
         <card>
             <name>Judas</name>
-            <text>{T}, When Judas enters, create two treasure tokens. {1}, {T}: Sacrifice CARDNAME. Destroy target legendary creature or Planeswalker. Create two treasure tokens.</text>
+            <text>{T}, When Judas enters, create two treasure tokens. {1}, {T}: Sacrifice Judas. Destroy target Legendary creature or Planeswalker. Create two treasure tokens.</text>
             <prop>
                 <type>Creature - Deserter</type>
                 <pt>2/2</pt>
@@ -97,11 +97,42 @@ If Jesus is on the battlefiled, return Centurion to your hand</text>
         </card>
         <card>
             <name>Judas' Kiss</name>
-            <text>Put a finality counter on targt creature. If that target is legendary, create a treasure token.</text>
+            <text>Put a Finality counter on target creature. If that creture is legendary, create two treasure tokens.</text>
             <prop>
                 <type>Sorcery</type>
-                <manacost>1BB</manacost>
+                <manacost>B</manacost>
+                <cmc>1</cmc>
+            </prop>
+            <set>BIB</set>
+        </card>
+        <card>
+            <name>Smite the Fig Tree</name>
+            <text>Destroy target Forest, Artifact, or creature with Flying.</text>
+            <prop>
+                <type>Sorcery</type>
+                <manacost>2G</manacost>
                 <cmc>3</cmc>
+            </prop>
+            <set>BIB</set>
+        </card>
+        <card>
+            <name>Serenity</name>
+            <text>Exile all creatures from target player's graveyard. You gain 3 life</text>
+            <prop>
+                <type>Sorcery</type>
+                <manacost>1WW</manacost>
+                <cmc>3</cmc>
+            </prop>
+            <set>BIB</set>
+        </card>
+        <card>
+            <name>Pontius Pilate</name>
+            <text>When Pontius Pilate enters, sacrifice a Legendary creature or destroy a Legendary creature an opponent controls. Gain RRR.</text>
+            <prop>
+                <type>Creature</type>
+                <pt>1/3</type>
+                <manacost>1WRR</manacost>
+                <cmc>4</cmc>
             </prop>
             <set>BIB</set>
         </card>
