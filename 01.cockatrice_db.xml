@@ -55,7 +55,7 @@ If Jesus is on the battlefiled, return Centurion to your hand</text>
             <name>Judas</name>
             <text>{T}, When Judas enters, create two treasure tokens. {1}, {T}: Sacrifice CARDNAME. Destroy target legendary creature or Planeswalker. Create two treasure tokens.</text>
             <prop>
-                <type>Creature - Goblin</type>
+                <type>Creature - Deserter</type>
                 <pt>2/2</pt>
                 <coloridentity>R</coloridentity>
                 <manacost>3R</manacost>
@@ -67,7 +67,7 @@ If Jesus is on the battlefiled, return Centurion to your hand</text>
         </card>    
 		<card>
 			<name>Sodom</name>
-			<text> {T}: Add a Salt counter to Sodom. {T}: Add {C}. {T}, {4}: Remove 4 Salt counters from CARDNAME. Sacrifice it. Destroy all creatures.</text>
+			<text> {T}: Add a Salt counter to Sodom. {T}: Add {C}. {T}, {4}: Remove 4 Salt counters from Sodom. Sacrifice it. Destroy all creatures.</text>
 			<prop>
 				<type>Legendary Land</type>
                 <tablerow>0</tablerow>
@@ -76,7 +76,7 @@ If Jesus is on the battlefiled, return Centurion to your hand</text>
 		</card>
         <card>
             <name>Walk on Water</name>
-            <text>Return target creature to its owner's hand. Draw a card. If Jesus is on the battlefield, reduce the cost of this spell by 2</text>
+            <text>Return target creature to its owner's hand. Draw a card. If Jesus is on the battlefield, reduce the cost of this spell by {2}</text>
             <prop>
                 <type>Instant</type>
                 <manacost>1UU</manacost>
