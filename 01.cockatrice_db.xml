@@ -38,8 +38,8 @@
         </card>
         <card>
             <name>Centurion</name>
-            <text>{T}, Sacrifice CARDNAME. Prevent all damage dealt to up to one target creature.
-If Jesus is on the battlefiled, return CARDNAME to your hand</text>
+            <text>{T}, Sacrifice Centurion. Prevent all damage dealt to up to one target creature.
+If Jesus is on the battlefiled, return Centurion to your hand</text>
             <prop>
                 <type>Creature - Human</type>
                 <pt>1/2</pt>
@@ -53,7 +53,7 @@ If Jesus is on the battlefiled, return CARDNAME to your hand</text>
         </card>
         <card>
             <name>Judas</name>
-            <text>{T}, When CARDNAME enters, create two treasure tokens. {1}, {T}: Sacrifice CARDNAME. Destroy target legendary creature or Planeswalker. Create two treasure tokens.</text>
+            <text>{T}, When Judas enters, create two treasure tokens. {1}, {T}: Sacrifice CARDNAME. Destroy target legendary creature or Planeswalker. Create two treasure tokens.</text>
             <prop>
                 <type>Creature - Goblin</type>
                 <pt>2/2</pt>
@@ -67,7 +67,7 @@ If Jesus is on the battlefiled, return CARDNAME to your hand</text>
         </card>    
 		<card>
 			<name>Sodom</name>
-			<text> {T}: Add a Salt counter to CARDNAME. {T}: Add {C}. {T}, {4}: Remove 4 Salt counters from CARDNAME. Sacrifice it. Destroy all creatures.</text>
+			<text> {T}: Add a Salt counter to Sodom. {T}: Add {C}. {T}, {4}: Remove 4 Salt counters from CARDNAME. Sacrifice it. Destroy all creatures.</text>
 			<prop>
 				<type>Legendary Land</type>
                 <tablerow>0</tablerow>
@@ -76,23 +76,34 @@ If Jesus is on the battlefiled, return CARDNAME to your hand</text>
 		</card>
         <card>
             <name>Walk on Water</name>
-            <text>Return target creature to its owner's hand. Draw a card.</text>
+            <text>Return target creature to its owner's hand. Draw a card. If Jesus is on the battlefield, reduce the cost of this spell by 2</text>
             <prop>
                 <type>Instant</type>
-                <manacost>1U</manacost>
-                <cmc>2</cmc>
+                <manacost>1UU</manacost>
+                <cmc>3</cmc>
                 <colors>U</colors>
             </prop>
             <set>BIB</set>
         </card>
         <card>
             <name>Adam's Rib</name>
-            <text>Sacrifice CARDNAME: Create a 2/2 Human Token named Eve. {T}: Add {C}.</text>
+            <text>Sacrifice Adam's Rib: Create a 2/2 Human Token named Eve. {T}: Add {C}.</text>
             <prop>
                 <type>Artifact</type>
                 <manacost>3</manacost>
+                <tablerow>1</tablerow>
             </prop>
-            <set>BIB</set>  
+            <set>BIB</set>
+        </card>
+        <card>
+            <name>Judas' Kiss</name>
+            <text>Put a finality counter on targt creature. If that target is legendary, create a treasure token.</text>
+            <prop>
+                <type>Sorcery</type>
+                <manacost>1BB</manacost>
+                <cmc>3</cmc>
+            </prop>
+            <set>BIB</set>
         </card>
     </cards>
 </cockatrice_carddatabase>
