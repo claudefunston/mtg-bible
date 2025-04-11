@@ -38,8 +38,7 @@
         </card>
         <card>
             <name>Centurion</name>
-            <text>{T}, Sacrifice Centurion. Prevent all damage dealt to up to one target creature.
-If Jesus is on the battlefiled, return Centurion to your hand</text>
+            <text>{T}, Sacrifice Centurion. Prevent all damage dealt to up to one target creature. If Jesus is on the battlefiled, return Centurion to your hand</text>
             <prop>
                 <type>Creature - Human</type>
                 <pt>1/2</pt>
@@ -117,22 +116,33 @@ If Jesus is on the battlefiled, return Centurion to your hand</text>
         </card>
         <card>
             <name>Serenity</name>
-            <text>Exile all creatures from target player's graveyard. You gain 3 life</text>
+            <text>Exile all creatures from target player's graveyard. Draw a card and lose one life.</text>
             <prop>
                 <type>Sorcery</type>
-                <manacost>1WW</manacost>
+                <manacost>1WB</manacost>
                 <cmc>3</cmc>
             </prop>
             <set>BIB</set>
         </card>
         <card>
             <name>Pontius Pilate</name>
-            <text>When Pontius Pilate enters, sacrifice a Legendary creature or destroy a Legendary creature an opponent controls. Gain RRR.</text>
+            <text>When Pontius Pilate enters, put a Finality counter on target creature opponent controls. If that creature is legendary, gain RRR.</text>
             <prop>
-                <type>Creature</type>
-                <pt>1/3</type>
+                <type>Creature - Human Soldier</type>
+                <pt>1/4</pt>
                 <manacost>1WRR</manacost>
                 <cmc>4</cmc>
+            </prop>
+            <set>BIB</set>
+        </card>
+        <card>
+            <name>Dorcas</name>
+            <text>When Dorcas enters, gain two life. {T}: Target creature with power 2 or less gains indestructible until end of turn</text>
+            <prop>
+                <type>Creature - Human</type>
+                <pt>2/2</pt>
+                <manacost>2W</manacost>
+                <cmc>3</cmc>
             </prop>
             <set>BIB</set>
         </card>
