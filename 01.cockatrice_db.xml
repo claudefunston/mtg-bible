@@ -38,7 +38,7 @@
         </card>
         <card>
             <name>Centurion</name>
-            <text>{T}, Sacrifice Centurion. Prevent all damage dealt to up to one target creature. If Jesus is on the battlefiled, return Centurion to your hand</text>
+            <text>{T}, Sacrifice this creature. Prevent all damage dealt to up to one target creature. If Jesus is on the battlefiled, return Centurion to your hand</text>
             <prop>
                 <type>Creature - Human</type>
                 <pt>1/2</pt>
@@ -52,7 +52,7 @@
         </card>
         <card>
             <name>Judas</name>
-            <text>{T}, When Judas enters, create two treasure tokens. {1}, {T}: Sacrifice Judas. Destroy target Legendary creature or Planeswalker. Create two treasure tokens.</text>
+            <text>{T}, When this creature enters, create two treasure tokens. {1}, {T}: Sacrifice Judas. Destroy target Legendary creature or Planeswalker. Create two treasure tokens.</text>
             <prop>
                 <type>Creature - Deserter</type>
                 <pt>2/2</pt>
@@ -66,7 +66,7 @@
         </card>    
 		<card>
 			<name>Sodom</name>
-			<text> {T}: Add a Salt counter to Sodom. {T}: Add {C}. {T}, {4}: Remove 4 Salt counters from Sodom. Sacrifice it. Destroy all creatures.</text>
+			<text> {T}: Add a Salt counter to this land. {T}: Add {C}. {T}, {4}: Remove 4 Salt counters from Sodom. Sacrifice it. Destroy all creatures.</text>
 			<prop>
 				<type>Legendary Land</type>
                 <tablerow>0</tablerow>
@@ -86,7 +86,7 @@
         </card>
         <card>
             <name>Adam's Rib</name>
-            <text>Sacrifice Adam's Rib: Create a 2/2 Human Token named Eve. {T}: Add {C}.</text>
+            <text>Sacrifice this artifact: Create a 2/2 Human Token named Eve. {T}: Add {C}.</text>
             <prop>
                 <type>Artifact</type>
                 <manacost>3</manacost>
@@ -126,7 +126,7 @@
         </card>
         <card>
             <name>Pontius Pilate</name>
-            <text>When Pontius Pilate enters, put a Finality counter on target creature opponent controls. If that creature is legendary, gain RRR.</text>
+            <text>When this creature enters, put a Finality counter on target creature opponent controls. If that creature is legendary, gain RRR.</text>
             <prop>
                 <type>Creature - Human Soldier</type>
                 <pt>1/4</pt>
@@ -137,7 +137,7 @@
         </card>
         <card>
             <name>Dorcas</name>
-            <text>When Dorcas enters, gain two life. {T}: Target creature with power 2 or less gains indestructible until end of turn</text>
+            <text>When this creature enters, gain two life. {T}: Target creature with power 2 or less gains indestructible until end of turn</text>
             <prop>
                 <type>Creature - Human</type>
                 <pt>1/2</pt>
@@ -148,7 +148,7 @@
         </card>
         <card>
             <name>Lazarus</name>
-            <text>When a Legendary creature or Plansewalker enters, return Lazarus from your graveyard to the battlefiled tapped</text>
+            <text>When a Legendary creature or Plansewalker enters, return this creature from your graveyard to the battlefiled tapped</text>
             <prop>
                 <type>Creature - Zombie</type>
                 <manacost>2B</manacost>
