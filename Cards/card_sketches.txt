@@ -14,12 +14,6 @@ Choose one:
 *Serve Him*: Gain 3 life. Create a food token
 *:*:
 
-Lazarus
-Creature - Zombie
-2/2
-{2}{B}
-When a legendary creature or Plansewalker enters, return CARDNAME from your graveyard to the battlefiled tapped
-
 Judas' Rebuke
 Sorcery
 {1}{BB}
@@ -272,12 +266,6 @@ The True Cross
 Artifact
 {0}
 {T}: Add {2} 
-
-Pontious Pilate
-Creature - Human
-{3}{RR}
-Sacrifice a Legendary creature or destroy a Legendary creature controlled by opponent: Gain {RRR}
-{W}: Create a food Token.
 
 Christ, Savior of Man
 {2}{W}{UU}{R}
