@@ -12,12 +12,12 @@ We adhere to WotC's [Fan Content Policy](https://company.wizards.com/en/legal/fa
 
 # Contents
 ## db 
-* Refers to `01.cockatrice_db.xml`.
+* `01.cockatrice_db.xml`.
 * This is an .XML file tested to load into Cockatrice. Cards here are under consideration for inclusion in the set.
 ** The numerical prefix is necessary to load multiple custom sets in a Cockatrice instance.
 ## Card Sketches 
-* Refers to `card_sketches.txt`.
-* These are Whiteboarded cards envisioned in an ad-hoc, top-down style. They are presented in a non-standard format, sufficient to communicate the nature, effects, and idea of each card. The style mimics, but does not stricly adhere to standard card templating.
+* `card_sketches.txt`.
+** These are Whiteboarded cards envisioned in an ad-hoc, top-down style. They are presented in a non-standard format, sufficient to communicate the nature, effects, and idea of each card. The style mimics, but does not stricly adhere to standard card templating.
 
 Once moved to db, cards here are deleted.
 
@@ -28,10 +28,10 @@ Cards in the db have a non-standard `<imgsrc>` tag. They will not load into Cock
 Images are drawn from sources using the [CC0](https://creativecommons.org/public-domain/cc0/) license.
 
 ### Raw Images
-* Refers to `images_raw`
+* `images_raw`
 * Cropped images linked to cards as a 1-1 mapping. This is a recordkeeping mechanism.
 ### Images
-* Refers to `images`
+* `images`
 * After loading an image from `images_raw`, cards are placed into frames using [Magic Set Editor](https://magicseteditor.boards.net/)
 ### `mse_db`
 The Set Editor file used to created framed images of artwork. Work in progress.
