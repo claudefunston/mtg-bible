@@ -1,5 +1,5 @@
 # Overview
-These are cards meant to interact with the game system of Magic: the Gathering. The conepts are based upon the Bible.
+These are cards meant to interact with the game system of Magic: the Gathering. The concepts are based upon the Bible.
 
 We are neutral on the concept of religion. The cards are aimed to be a respecful way to interact with the Bible as a historical and literary work.
 
