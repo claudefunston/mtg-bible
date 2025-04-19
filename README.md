@@ -1,5 +1,5 @@
 # Overview
-These are cards meant to interact with the game system of Magic: the Gathering. The conepts are based upon the Bible.
+These are cards meant to interact with the game system of Magic: the Gathering. The concepts are based upon the Bible.
 
 We are neutral on the concept of religion. The cards are aimed to be a respecful way to interact with the Bible as a historical and literary work.
 
@@ -14,8 +14,8 @@ We adhere to WotC's [Fan Content Policy](https://company.wizards.com/en/legal/fa
 ## db 
 * `01.cockatrice_db.xml`.
 * This is an .XML file tested to load into Cockatrice. Cards here are under consideration for inclusion in the set.
-** The numerical prefix is necessary to load multiple custom sets in a Cockatrice instance.
-## Card Sketches 
+* The numerical prefix is necessary to load multiple custom sets in a Cockatrice instance.
+## Card Sketches
 * `card_sketches.txt`.
 ** These are Whiteboarded cards envisioned in an ad-hoc, top-down style. They are presented in a non-standard format, sufficient to communicate the nature, effects, and idea of each card. The style mimics, but does not stricly adhere to standard card templating.
 
