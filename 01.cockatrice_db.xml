@@ -200,7 +200,7 @@ When this creature dies, send it to Heaven.</text>
             <set>BIB</set>
         </card>
         <card>
-            <name>Peter's Call</name>
+            <name>The Cock Crows</name>
             <text>Chose one:
 Create 3 1/1 Rooster tokens with haste.
 Gain 3 life. Create a food token.</text>
@@ -226,7 +226,7 @@ Equipped creature has +1/+1, trample and lifelink.</text>
         </card>
         <card>
             <name>Reverse Animate</name>
-            <text>Send two target creatures from your graveyard into Heaven, Hell or Limbo. Chose a destination for each.</text>
+            <text>Send two target creatures from a graveyard into Heaven, Hell or Limbo. Chose a destination for each.</text>
             <prop>
                 <type>Sorcery</type>
                 <manacost>BGGG</manacost>
@@ -237,14 +237,34 @@ Equipped creature has +1/+1, trample and lifelink.</text>
         <card>
             <name>Douse the Lintels</name>
             <text>As an additional cost to play this card, pay 1 life or sacrifice a creature.
-Vanishing 3.
+Vanishing 2.
 You have Protection from Curses.
 You gain 2 life each turn.
-1/1 and 2/2 Creatures you control have Hexproof.
+Creatures you control have Hexproof.
             <prop>
                 <type>Enchantment</type>
                 <manacost>BR</manacost>
                 <cmc>2</cmc>
+            </prop>
+            <set>BIB</set>
+        </card>
+        <card>
+            <name>The Wolf and the Lamb</name>
+            <text>Target Creature you control and target Creature an Opponent controls each gain indestructible until end of turn.
+If you can't target an opponent's creature, gain a life.</text>
+            <prop>
+                <type>Instant</type>
+                <manacost>WW</manacost>
+                <cmc>2</cmc>
+            </prop>
+            <set>BIB</set>
+        </card>
+        <card>
+            <name>The True Cross</name>
+            <text>{T}: Add {2}. You lose 1 life.</text>
+            <prop>
+                <type>Artifact</type>
+                <manacost>1</manacost>
             </prop>
             <set>BIB</set>
         </card>

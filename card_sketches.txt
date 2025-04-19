@@ -189,7 +189,7 @@ Legendary Land - Swamp Mountain
 Heaven
 Legendary Land - Plains Forest
 {1}, {T}: Add {W} or {G}
-{3}, {T}: Create a 3/3 Angel token with Flying
+{4}, {T}: Create a 3/3 Angel token with Flying
 {T}: Sacrifice CARDNAME. If you have exactly one life, you win the game.
 
 Limbo
@@ -226,7 +226,7 @@ When CARDNAME enters, create a 2/2 Human Token named Adam. Draw a card.
 The True Cross
 Artifact
 {0}
-{T}: Add {2} 
+{T}: Add {2}. Lose 2 life.
 
 Christ, Savior of Man
 {2}{W}{UU}{R}
@@ -249,7 +249,7 @@ Creature - Human
 {W}: Sacrifice a 1/1 Creture. Target Creature gains Indestructible until end of turn.
 
 Samaritan's Blessing
-Sorcery
+Instant
 {1}{G}
 Put a +1/+1 counter on target creature.
 
@@ -317,4 +317,4 @@ III: Return target instant or sorcery card from your graveyard to your hand.
 Flight to Egypt
 Instant
 {1}{G}
-Prevent all damage done to creatures you control with power 3 or less.`
+Prevent all damage done to creatures you control with power 3 or less.

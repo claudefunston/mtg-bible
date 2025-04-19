@@ -25,16 +25,17 @@ Once moved to db, cards here are deleted.
 ### Recordkeeping and Attribution
 Cards in the db have a non-standard `<imgsrc>` tag. They will not load into Cockatrice, but as now don't break anything.
 
-Images are drawn from sources using the [CC0](https://creativecommons.org/public-domain/cc0/) license.
+All images are strictly limited to those under [CC0](https://creativecommons.org/public-domain/cc0/). Nonetheless method of attribution are described in this document.
 
 ### Raw Images
 * `images_raw`
-* Cropped images linked to cards as a 1-1 mapping. This is a recordkeeping mechanism.
+* These are cropped from the `<imgsrc>` of each card. It is a recordkeeping mechanism.
 ### Images
 * `images`
-* After loading an image from `images_raw`, cards are placed into frames using [Magic Set Editor](https://magicseteditor.boards.net/)
+* Cards are placed into frames using [Magic Set Editor](https://magicseteditor.boards.net/)
 ### `mse_db`
-The Set Editor file used to created framed images of artwork. Work in progress.
+An MSE file used to created framed images of artwork. Work in progress.
+
 # Release Notes
 ## Returning Mechanics
 Finality Counters have returned. When a creature with a Finality Counter on it dies, it is exiled instead of being sent to the graveyard.
