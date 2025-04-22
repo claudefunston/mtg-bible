@@ -54,7 +54,8 @@ An MSE file used to create framed images of artwork.
 ## Returning Mechanics
 Finality Counters have returned. When a creature with a Finality Counter on it dies, it is exiled instead of being sent to the graveyard.
 
-Stun is also key to the dual land cycle.
+## The Lands
+Dual lands enter tapped with a stun counter, but they give you a treasure token. All ten pairs are represented.
 
 ## New Mechanics and Special Creatures
 We have one new mechanic: Inspire: When an Inspired creature dies, its controller creates a food token.
@@ -73,6 +74,8 @@ For now, יהוה is considered too powerful to include.
 There are three new named zones - Heaven, Hell, and Limbo. The Lands naming them needn't be in play for the zones to exist.
 
 Sending a creature to any of these is not an exile effect (unless specified by another card). Those creatures do enter the graveyard before they meet their destiny.
+
+Creatures in these zones lose all attributes and abilities. Specicically, they do not contribute to Devotion and the number of creatures you control.
 
 Just as the exile zone operates, each player has their own version of each.
 
