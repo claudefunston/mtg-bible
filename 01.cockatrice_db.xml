@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+    <info>
+        <author>Claude Funston</author>
+    </info>
+    <sets>
+        <set>
+            <name>BIB</name>
+            <longname>The Holy Bible</longname>
+            <settype>Expansion</settype>
+        </set>
+    </sets>
+    <cards>
+        <card>
+            <name>Aaron's Reproach</name>
+            <text>Target artifact becomes a 4/4 Snake creature with deathtouch until end of turn. It's still an artifact.</text>
+            <prop>
+                <type>Instant</type>
+                <coloridentity>UG</coloridentity>
+                <manacost>1UG</manacost>
+                <cmc>3</cmc>
+                <colors>UG</colors>
+            </prop>
+            <set>BIB</set>
+            <tablerow>3</tablerow>
+            <imgsrc>https://commons.wikimedia.org/wiki/File:Foster_Bible_Pictures_0060-2_Aaron%27s_Rod_Changed_into_a_Serpent.jpg</imgsrc>
+        </card>
+        <card>
+            <name>Elisha's Justice</name>
+            <text>Destroy all creatures with power 2 or less and all tokens. 
+Create a 3/3 Green Bear Token with Trample.</text>
+            <prop>
+                <type>Sorcery</type>
+                <coloridentity>R</coloridentity>
+                <manacost>1RR</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+            </prop>
+            <set>BIB</set>
+            <tablerow>3</tablerow>
+            <imgsrc>https://commons.wikimedia.org/wiki/File:Bears_savaging_the_youths_from_a_French_Manuscript.jpg</imgsrc>
+        </card>
+        <card>
+            <name>Centurion</name>
+            <text>{T}, Sacrifice this creature. Prevent all damage dealt to up to one target creature.
+If Jesus is on the battlefiled, return Centurion to your hand
+When this creature dies, send it to Heaven.</text>
+            <prop>
+                <type>Creature - Human</type>
+                <pt>1/2</pt>
+                <coloridentity>W</coloridentity>
+                <manacost>1W</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <tablerow>2</tablerow>
+            </prop>
+            <set>BIB</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Judas</name>
+            <text>{T}, When this creature enters, create two Treasure Tokens. 
+{1}, {T}: Sacrifice this creature. Destroy target Legendary Creature or Planeswalker. Create two Treasure Tokens.
+When this creature dies, send it to Hell.</text>
+            <prop>
+                <type>Creature - Deserter</type>
+                <pt>3/3</pt>
+                <coloridentity>R</coloridentity>
+                <manacost>3R</manacost>
+                <cmc>4</cmc>
+                <colors>R</colors>
+            </prop>
+            <set>BIB</set>
+            <tablerow>2</tablerow>
+            <imgsrc>https://commons.wikimedia.org/wiki/File:Molin_Le_Baiser_rendu_Judas_et_Satan.jpg</imgsrc>
+        </card>    
+		<card>
+			<name>Sodom</name>
+			<text>{T}: Add {C}.
+{T}: Add a Salt counter to this land.
+{T}, {4}: Remove 4 Salt counters from Sodom. Sacrifice it. Destroy all creatures.</text>
+			<prop>
+				<type>Legendary Land</type>
+                <tablerow>0</tablerow>
+			</prop>
+			<set>BIB</set>
+            <tablerow>0</tablerow>
+            <imgsrc>https://commons.wikimedia.org/wiki/File:Sodom_and_Gomorrah_afire,_by_Jacob_Jacobsz._de_Wet_d._J.,_probably_K%C3%B6ln,_c._1680,_oil_on_canvas_-_Hessisches_Landesmuseum_Darmstadt_-_Darmstadt,_Germany_-_DSC01149.jpg</imgsrc>
+		</card>
+        <card>
+            <name>Walk on Water</name>
+            <text>Return target creature to its owner's hand. 
+Draw a card. 
+If Jesus is on the battlefield, reduce the cost of this spell by {1U}</text>
+            <prop>
+                <type>Instant</type>
+                <manacost>1UU</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+            </prop>
+            <set>BIB</set>
+            <tablerow>3</tablerow>
+            <imgsrc>https://commons.wikimedia.org/wiki/File:CodexEgberti-Fol027v-WalkOnTheWater.jpg</imgsrc>
+        </card>
+        <card>
+            <name>Adam's Rib</name>
+            <text> {T}: Add {CC}.
+Sacrifice this artifact: Create a 2/2 Green and White Human Token named Eve.</text>
+            <prop>
+                <type>Artifact</type>
+                <manacost>3</manacost>
+                <tablerow>1</tablerow>
+            </prop>
+            <set>BIB</set>
+            <tablerow>1</tablerow>
+            <imgsrc>https://commons.wikimedia.org/wiki/File:Adam%27s_Rib_-_1923_(cropped).jpg</imgsrc>
+        </card>
+        <card>
+            <name>Judas' Kiss</name>
+            <text>Put a Finality counter on target creature. If that creature is Legendary, create two treasure tokens.</text>
+            <prop>
+                <type>Sorcery</type>
+                <manacost>B</manacost>
+                <cmc>1</cmc>
+            </prop>
+            <set>BIB</set>
+            <tablerow>3</tablerow>
+            <imgsrc>https://commons.wikimedia.org/wiki/File:Judas_kiss_Betton_MNMA_Cl9548.jpg</imgsrc>
+        </card>
+        <card>
+            <name>Smite the Fig Tree</name>
+            <text>Destroy target Forest, Artifact, or creature with Flying.</text>
+            <prop>
+                <type>Sorcery</type>
+                <manacost>2B</manacost>
+                <cmc>3</cmc>
+            </prop>
+            <set>BIB</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Serenity</name>
+            <text>Exile all creatures from target player's graveyard. Draw a card and lose one life.</text>
+            <prop>
+                <type>Sorcery</type>
+                <manacost>1WB</manacost>
+                <cmc>3</cmc>
+            </prop>
+            <set>BIB</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Pontius Pilate</name>
+            <text>When this creature enters, put a Finality counter on target creature opponent controls.
+If that creature is legendary, gain RRR.
+When this creature dies, send it to Limbo.</text>
+            <prop>
+                <type>Creature - Human Soldier</type>
+                <pt>1/4</pt>
+                <manacost>1WRR</manacost>
+                <cmc>4</cmc>
+            </prop>
+            <set>BIB</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Dorcas</name>
+            <text>When this creature enters, gain two life.
+{T}: Target creature with power 2 or less gains indestructible until end of turn</text>
+            <prop>
+                <type>Creature - Human</type>
+                <pt>1/2</pt>
+                <manacost>2W</manacost>
+                <cmc>3</cmc>
+            </prop>
+            <set>BIB</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Lazarus</name>
+            <text>When a Legendary creature or Plansewalker enters, return this creature from your graveyard to the battlefiled tapped</text>
+            <prop>
+                <type>Creature - Zombie</type>
+                <manacost>2B</manacost>
+                <pt>2/2</pt>
+            </prop>
+            <set>BIB</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Sermon on the Mount</name>
+            <text>When this card enters, create a Food token, a Clue token, and a Treasure token.
+Creatures you control have Inspire (When an Inspired creature dies, create a Food token)</text>
+            <prop>
+                <type>Enchantment</type>
+                <manacost>2WG</manacost>
+                <cmc>4</cmc>
+            </prop>
+            <set>BIB</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Mary</name>
+            <text>When this creature enters, create a 1/1 Blue Infant token named Jesus with Indestructible.
+This creature cannot attack.
+When this creature dies, send it to Heaven.</text>
+            <prop>
+                <type>Creature - Human</type>
+                <manacost>2G</manacost>
+                <cmc>3</cmc>
+                <pt>1/4</pt>
+            </prop>
+            <imgsrc>https://www.nga.gov/collection/art-object-page.45598.html</imgsrc>
+            <set>BIB</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>The Cock Crows</name>
+            <text>Chose one:
+Create 3 1/1 Rooster tokens with haste.
+Create a Treasure Token and lose 3 life.</text>
+            <prop>
+                <type>Sorcery</type>
+                <manacost>2W</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+            </prop>
+            <set>BIB</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Jesus' Sandals</name>
+            <text>Equip {3}
+Equip Legendary: {0}
+Equipped creature has +1/+1, trample and lifelink.</text>
+            <prop>
+                <type>Artifact - Equipment</type>
+                <manacost>2</manacost>
+                <cmc>2</cmc>
+            </prop>
+            <set>BIB</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Reverse Animate</name>
+            <text>Send two target creatures from a graveyard into Heaven, Hell or Limbo. Chose a destination for each.</text>
+            <prop>
+                <type>Sorcery</type>
+                <manacost>BGGG</manacost>
+                <cmc>3</cmc>
+            </prop>
+            <set>BIB</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Douse the Lintels</name>
+            <text>As an additional cost to play this card, pay 1 life or sacrifice a creature.
+Vanishing 3.
+You have Protection from Curses.
+You gain 2 life each turn.
+Creatures you control have Hexproof.</text>
+            <prop>
+                <type>Enchantment</type>
+                <manacost>RR</manacost>
+                <cmc>2</cmc>
+            </prop>
+            <set>BIB</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>The Wolf and the Lamb</name>
+            <text>Target Creature you control and target Creature an Opponent controls each gain indestructible until end of turn.
+If you can't target an opponent's creature, gain a life.</text>
+            <prop>
+                <type>Instant</type>
+                <manacost>WW</manacost>
+                <cmc>2</cmc>
+            </prop>
+            <set>BIB</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>The True Cross</name>
+            <text>{T}: Add {2}. You lose 2 life.</text>
+            <prop>
+                <type>Artifact</type>
+                <manacost>0</manacost>
+            </prop>
+            <set>BIB</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Resolve Fate</name>
+            <text>Send Target Creature to Heaven or Hell.</text>
+            <prop>
+                <type>Sorcery</type>
+                <manacost>1B</manacost>
+                <cmc>2</cmc>
+            </prop>
+            <set>BIB</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Diluted River</name>
+            <text>This land enters tapped with a stun counter. Create a treasure token.
+{T}: Add U or B.</text>
+            <prop>
+                <type>Land - Island Swamp</type>
+                <manacost>0</manacost>
+            </prop>
+            <set>BIB</set>
+            <tablerow>0</tablerow>
+            <cipt>1</cipt>
+        </card>
+        <card>
+            <name>Renewing Pasture</name>
+            <text>This land enters tapped with a stun counter. Create a treasure token.
+{T}: Add W or G.</text>
+            <prop>
+                <type>Land - Plains Forest</type>
+                <manacost>0</manacost>
+            </prop>
+            <set>BIB</set>
+            <tablerow>0</tablerow>
+            <cipt>1</cipt>
+        </card>
+                <card>
+            <name>Field of Chaff</name>
+            <text>This land enters tapped with a stun counter. Create a treasure token when it enters.
+{T}: Add W or R.</text>
+            <prop>
+                <type>Land - Plains Mountain</type>
+                <manacost>0</manacost>
+            </prop>
+            <set>BIB</set>
+            <tablerow>0</tablerow>
+            <cipt>1</cipt>
+        </card>
+        <card>
+            <name>Contemplative Islet</name>
+            <text>This land enters tapped with a stun counter. Create a treasure token when it enters.
+{T}: Add W or U.</text>
+            <prop>
+                <type>Land - Plains Island</type>
+                <manacost>0</manacost>
+            </prop>
+            <set>BIB</set>
+            <tablerow>0</tablerow>
+            <cipt>1</cipt>
+        </card>
+        <card>
+            <name>Revered Tomb</name>
+            <text>This land enters tapped with a stun counter. Create a treasure token when it enters.
+{T}: Add B or G.</text>
+            <prop>
+                <type>Land - Swamp Forest</type>
+                <manacost>0</manacost>
+            </prop>
+            <set>BIB</set>
+            <tablerow>0</tablerow>
+            <cipt>1</cipt>
+        </card>
+        <card>
+            <name>Life's Cradle</name>
+            <text>This land enters tapped with a stun counter. Create a treasure token when it enters.
+{T}: Add U or G.</text>
+            <prop>
+                <type>Land - Island Forest</type>
+                <manacost>0</manacost>
+            </prop>
+            <set>BIB</set>
+            <tablerow>0</tablerow>
+            <cipt>1</cipt>
+        </card>
+        <card>       
+            <name>Gnashing Firefield</name>
+            <text>This land enters tapped with a stun counter. Create a treasure token when it enters.
+{T}: Add B or R.</text>
+            <prop>
+                <type>Land - Swamp Mountain</type>
+                <manacost>0</manacost>
+            </prop>
+            <set>BIB</set>
+            <tablerow>0</tablerow>
+            <cipt>1</cipt>       
+        </card>
+        <card>
+            <name>Ascetics' Refuge</name>
+            <text>This land enters tapped with a stun counter. Create a treasure token when it enters.
+{T}: Add W or B.</text>
+            <prop>
+                <type>Land - Plains Swamp</type>
+                <manacost>0</manacost>
+            </prop>
+            <set>BIB</set>
+            <tablerow>0</tablerow>
+            <cipt>1</cipt>
+        </card>
+        <card>
+            <name>Moss Junction</name>
+            <text>This land enters tapped with a stun counter. Create a treasure token when it enters.
+{T}: Add R or G.</text>
+            <prop>
+                <type>Land - Mountain Forest</type>
+                <manacost>0</manacost>
+            </prop>
+            <set>BIB</set>
+            <tablerow>0</tablerow>
+            <cipt>1</cipt>
+        </card>          
+    </cards>
+</cockatrice_carddatabase>
