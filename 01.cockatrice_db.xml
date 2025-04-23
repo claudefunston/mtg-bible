@@ -139,11 +139,12 @@ Sacrifice this artifact: Create a 2/2 Green and White Human Token named Eve.</te
             <tablerow>3</tablerow>
         </card>
         <card>
-            <name>Serenity</name>
+            <name>Peaceful Finality</name>
             <text>Exile all creatures from target player's graveyard. Draw a card and lose one life.</text>
             <prop>
                 <type>Sorcery</type>
                 <manacost>1WB</manacost>
+                <colors>WB</colors>
                 <cmc>3</cmc>
             </prop>
             <set>BIB</set>
@@ -159,6 +160,7 @@ When this creature dies, send it to Limbo.</text>
                 <pt>1/4</pt>
                 <manacost>1WRR</manacost>
                 <cmc>4</cmc>
+                <colors>WR</colors>
             </prop>
             <set>BIB</set>
             <tablerow>2</tablerow>

@@ -3,7 +3,7 @@ These are cards meant to interact with the game system of Magic: the Gathering. 
 
 We are neutral on the concept of religion. The cards are aimed to be a respecful way to interact with the Bible as a historical and literary work.
 
-__mtg-bible__ is unofficial Fan Content permitted under the WotC's [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). This content is not approved nor endorsed by Wizards. Portions of the materials herein are property of Wizards of the Coast.
+__mtg-bible__ is unofficial Fan Content permitted under Wizards' [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). This content is not approved nor endorsed by Wizards. Portions of the materials herein are property of Wizards of the Coast.
 
 # Usage
 * Install [Cockatrice](https://cockatrice.github.io/).
@@ -26,7 +26,7 @@ Once moved to db, cards here are deleted.
 ### Recordkeeping and Attribution
 Cards in the db have a non-standard `<imgsrc>` tag. They will not load diretly into Cockatrice, but as now don't break anything.
 
-All images are strictly limited to those under [CC0](https://creativecommons.org/public-domain/cc0/).
+All images are licensed under [CC0](https://creativecommons.org/public-domain/cc0/).
 
 We very much enjoy artwork pulled from [The National Gallery](https://www.nga.gov/collection/collection-search.html). [The Met](https://www.metmuseum.org/art/collection/search) is a good source as well.
 
@@ -51,11 +51,11 @@ An MSE file used to create framed images of artwork.
 * BG, tertiary R: The Lifegivers
 * RG, tertiary B: The Giants
 # Release Notes
-## Returning Mechanics
+## Existing Mechanics
 Finality Counters have returned. When a creature with a Finality Counter on it dies, it is exiled instead of being sent to the graveyard.
 
 ## The Lands
-Dual lands enter tapped with a stun counter, but they give you a treasure token. All ten pairs are represented.
+Dual lands enter tapped with a stun counter, but they give you a treasure token. Lands are typed. All ten pairs are represented.
 
 ## New Mechanics and Special Creatures
 We have one new mechanic: Inspire: When an Inspired creature dies, its controller creates a food token.
@@ -66,7 +66,7 @@ There are two new creature types:
 * Donkey. In rules text and cardnames, it should be considered synonymous with ass.
 * Infant.
 
-Because this set is both Biblical and Trinitarian, yes, you can target Jesus with a spell that wants to target the Holy Spirit.
+Because this set is both Biblical and Trinitarian in nature, yes, you can target Jesus with a spell that wants to target the Holy Spirit.
 
 For now, יהוה is considered too powerful to include.
 
@@ -75,13 +75,14 @@ There are three new named zones - Heaven, Hell, and Limbo. The Lands naming them
 
 Sending a creature to any of these is not an exile effect (unless specified by another card). Those creatures do enter the graveyard before they meet their destiny.
 
-Creatures in these zones lose all attributes and abilities. Specicically, they do not contribute to Devotion and the number of creatures you control.
+Creatures in these zones lose all attributes and abilities. Specicically, they do not contribute to devotion nor the number of creatures you control.
 
-Just as the exile zone operates, each player has their own version of each.
+Just as the exile zone operates, each player has their own version of these zones.
 
 * When a creature is in Heaven, it gains {T}: Add 2 life.
-* When a creature is in Hell, it gains {T}: Add {BR}. You lose two life.
+* When a creature is in Hell, it gains {T}: Add B or R. You lose two life.
 * When a creature is in Limbo, it gains {T}: Add {C}.
+
 # Contributing
 ## Design a card
 Simply think of your favorite Biblical hero or event, and create something that makes sense in that context. Slight violations of the color pie are acceptable.
