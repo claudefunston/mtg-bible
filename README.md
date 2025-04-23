@@ -54,6 +54,8 @@ An MSE file used to create framed images of artwork.
 ## Existing Mechanics
 Finality Counters have returned. When a creature with a Finality Counter on it dies, it is exiled instead of being sent to the graveyard.
 
+One land produces Salt counters. They have no effect on gameplay aside from what they do to that land.
+
 ## The Lands
 Dual lands enter tapped with a stun counter, but they give you a treasure token. Lands are typed. All ten pairs are represented.
 
