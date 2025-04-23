@@ -427,6 +427,23 @@ If you can't target an opponent's creature, gain a life.</text>
             <set>BIB</set>
             <chvs>Deuteronomy 8:19</chvs>
             <tablerow>3</tablerow>
-        </card>       
+        </card>
+        <card>
+            <name>Goliath</name>
+            <text>When this creature enters, it deals 1 damage to each non-giant creature.
+Trample.
+Haste.
+If damage is dealt to this creature by a creature with power 1 or less, destroy it and send it to Limbo.
+</text>
+            <prop>
+                <type>Creature - Giant</type>
+                <manacost>2RG</manacost>
+                <colors>RG</colors>
+                <pt>5/5</pt>
+            </prop>
+            <set>BIB</set>
+            <tablerow>2</tablerow>
+            <chvs>1 Samuel 17:4</chvs>
+        </card>
     </cards>
 </cockatrice_carddatabase>

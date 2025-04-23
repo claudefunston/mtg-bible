@@ -49,7 +49,7 @@ An MSE file used to create framed images of artwork.
 * WB, tertiary R: The Essenes
 * UR, tertiary G: The Mystics
 * BG, tertiary R: The Lifegivers
-* RG, tertiary B: The Giants
+* RG, tertiary B: The Nephilim
 # Release Notes
 ## Existing Mechanics
 Finality Counters have returned. When a creature with a Finality Counter on it dies, it is exiled instead of being sent to the graveyard.
