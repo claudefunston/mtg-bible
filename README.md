@@ -105,4 +105,4 @@ The primary author of this Set uses [RSVCE](https://www.biblegateway.com/version
 
 We adopt the stance that characters adhere to the loosely-defined concept of "what the populace understands about this person or story."
 ## Citations
-Whenever reasonable, we attach a custom tag to each card: `<chvs>`. Chapter and verse. Consistency between Acts and the Synopic Gospels is not always guaranteed. These tags have no function on gameplay.
+Whenever reasonable, we attach a custom tag to each card: `<chvs>`. Chapter and verse. Consistency between Acts and the Synoptic Gospels is not always guaranteed. These tags have no function on gameplay.
