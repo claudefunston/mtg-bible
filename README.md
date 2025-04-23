@@ -22,6 +22,8 @@ These are Whiteboarded cards envisioned in an ad-hoc, top-down style. They are p
 
 Once moved to db, cards here are deleted.
 
+This file is intended for deprecation.
+
 ## Images
 ### Recordkeeping and Attribution
 Cards in the db have a non-standard `<imgsrc>` tag. They will not load diretly into Cockatrice, but as now don't break anything.
@@ -79,7 +81,7 @@ There are three new named zones - Heaven, Hell, and Limbo. The Lands naming them
 
 Sending a creature to any of these is not an exile effect (unless specified by another card). Those creatures do enter the graveyard before they meet their destiny.
 
-Creatures in these zones lose all attributes and abilities. Specifically, they do not contribute to devotion nor the number of creatures you control.
+Creatures in these zones lose all attributes and abilities apart from type. Specifically, they do not contribute to devotion nor the number of creatures you control.
 
 Just as the exile zone operates, each player has their own version of these zones.
 
