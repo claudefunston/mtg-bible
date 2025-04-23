@@ -1,7 +1,7 @@
 # Overview
 These are cards meant to interact with the game system of Magic: the Gathering. The concepts are based upon the Bible.
 
-We are neutral on the concept of religion. The cards are aimed to be a respecful way to interact with the Bible as a historical and literary work.
+We adopt a neutral stance towards religion. These cards are a respecful way to interact with the Bible as a historical and literary work.
 
 __mtg-bible__ is unofficial Fan Content permitted under Wizards' [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). This content is not approved nor endorsed by Wizards. Portions of the materials herein are property of Wizards of the Coast.
 
@@ -75,7 +75,7 @@ There are three new named zones - Heaven, Hell, and Limbo. The Lands naming them
 
 Sending a creature to any of these is not an exile effect (unless specified by another card). Those creatures do enter the graveyard before they meet their destiny.
 
-Creatures in these zones lose all attributes and abilities. Specicically, they do not contribute to devotion nor the number of creatures you control.
+Creatures in these zones lose all attributes and abilities. Specifically, they do not contribute to devotion nor the number of creatures you control.
 
 Just as the exile zone operates, each player has their own version of these zones.
 
@@ -102,3 +102,5 @@ We are by and large translation agnostic, because meaning can be difficult to de
 The primary author of this Set uses [RSVCE](https://www.biblegateway.com/versions/Revised-Standard-Version-Catholic-Edition-RSVCE-Bible/).
 
 We adopt the stance that characters adhere to the loosely-defined concept of "what the populace understands about this person or story."
+## Citations
+Whenever reasonable, we attach a custom tag to each card: `<chvs>`. Chapter and verse. Consistency between Acts and the Synopic Gospels is not always guaranteed.

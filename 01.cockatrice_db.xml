@@ -24,6 +24,7 @@
             <set>BIB</set>
             <tablerow>3</tablerow>
             <imgsrc>https://commons.wikimedia.org/wiki/File:Foster_Bible_Pictures_0060-2_Aaron%27s_Rod_Changed_into_a_Serpent.jpg</imgsrc>
+            <chvs>Exodus 7 8-13</chvs>
         </card>
         <card>
             <name>Elisha's Justice</name>
@@ -39,6 +40,7 @@ Create a 3/3 Green Bear Token with Trample.</text>
             <set>BIB</set>
             <tablerow>3</tablerow>
             <imgsrc>https://commons.wikimedia.org/wiki/File:Bears_savaging_the_youths_from_a_French_Manuscript.jpg</imgsrc>
+            <chvs>2 Kings 2:23-24</chvs>
         </card>
         <card>
             <name>Centurion</name>
@@ -86,6 +88,7 @@ When this creature dies, send it to Hell.</text>
 			<set>BIB</set>
             <tablerow>0</tablerow>
             <imgsrc>https://commons.wikimedia.org/wiki/File:Sodom_and_Gomorrah_afire,_by_Jacob_Jacobsz._de_Wet_d._J.,_probably_K%C3%B6ln,_c._1680,_oil_on_canvas_-_Hessisches_Landesmuseum_Darmstadt_-_Darmstadt,_Germany_-_DSC01149.jpg</imgsrc>
+            <chvs>Genesis 19</chvs>
 		</card>
         <card>
             <name>Walk on Water</name>
@@ -114,6 +117,7 @@ Sacrifice this artifact: Create a 2/2 Green and White Human Token named Eve.</te
             <set>BIB</set>
             <tablerow>1</tablerow>
             <imgsrc>https://commons.wikimedia.org/wiki/File:Adam%27s_Rib_-_1923_(cropped).jpg</imgsrc>
+            <chvs>Genesis 2:21 - 22</chvs>
         </card>
         <card>
             <name>Judas' Kiss</name>
@@ -137,6 +141,7 @@ Sacrifice this artifact: Create a 2/2 Green and White Human Token named Eve.</te
             </prop>
             <set>BIB</set>
             <tablerow>3</tablerow>
+            <chvs>Mark 11:12 - 14</chvs>
         </card>
         <card>
             <name>Peaceful Finality</name>
