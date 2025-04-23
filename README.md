@@ -66,6 +66,8 @@ There are two new creature types:
 * Donkey. In rules text and cardnames, it should be considered synonymous with ass.
 * Infant.
 
+The Deserter creature type has appeared before only on tokens, but is present in this set on a proper creature.
+
 Because this set is both Biblical and Trinitarian in nature, yes, you can target Jesus with a spell that wants to target the Holy Spirit.
 
 For now, יהוה is considered too powerful to include.
@@ -103,4 +105,4 @@ The primary author of this Set uses [RSVCE](https://www.biblegateway.com/version
 
 We adopt the stance that characters adhere to the loosely-defined concept of "what the populace understands about this person or story."
 ## Citations
-Whenever reasonable, we attach a custom tag to each card: `<chvs>`. Chapter and verse. Consistency between Acts and the Synopic Gospels is not always guaranteed.
+Whenever reasonable, we attach a custom tag to each card: `<chvs>`. Chapter and verse. Consistency between Acts and the Synopic Gospels is not always guaranteed. These tags have no function on gameplay.
