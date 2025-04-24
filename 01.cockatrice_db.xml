@@ -24,7 +24,7 @@
             <set>BIB</set>
             <tablerow>3</tablerow>
             <imgsrc>https://commons.wikimedia.org/wiki/File:Foster_Bible_Pictures_0060-2_Aaron%27s_Rod_Changed_into_a_Serpent.jpg</imgsrc>
-            <chvs>Exodus 7 8-13</chvs>
+            <chvs>Exodus 7:8-13</chvs>
         </card>
         <card>
             <name>Elisha's Justice</name>
@@ -157,7 +157,7 @@ Sacrifice this artifact: Create a 2/2 Green and White Human Token named Eve.</te
         </card>
         <card>
             <name>Pontius Pilate</name>
-            <text>When this creature enters, put a Finality counter on target creature opponent controls.
+            <text>When this creature enters, put a Finality counter on target creature an opponent controls.
 If that creature is legendary, gain RRR.
 When this creature dies, send it to Limbo.</text>
             <prop>
@@ -224,11 +224,12 @@ When this creature dies, send it to Heaven.</text>
         <card>
             <name>The Cock Crows</name>
             <text>Chose one:
-Create 3 1/1 Rooster tokens with haste.
-Create a Treasure Token and lose 3 life.</text>
+Create 3 1/1 Red Rooster tokens with haste.
+Create a Treasure Token and lose 3 life.
+Send a creature to Hell.</text>
             <prop>
                 <type>Sorcery</type>
-                <manacost>2W</manacost>
+                <manacost>1WB</manacost>
                 <cmc>3</cmc>
                 <colors>W</colors>
             </prop>
@@ -481,6 +482,17 @@ Draw a card.</text>
             <set>BIB</set>
             <tablerow>3</tablerow>
             <chvs>Judges 14</chvs>
+        </card>
+        <card>
+            <name>Hem of the Savior</name>
+            <text>Gain 3 life.
+Create a blood token.</text>
+            <prop>
+                <type>Sorcery</type>
+                <manacost>1WR</manacost>
+            </prop>
+            <set>BIB</set>
+            <chvs>Matthew 9:20-22</chvs>
         </card>
     </cards>
 </cockatrice_carddatabase>

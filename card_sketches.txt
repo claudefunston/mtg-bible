@@ -51,10 +51,6 @@ Artifact - Food
 {4}, {T}: Create a food token.
 {T}: Create a 1/1 black Snake token with deathtouch.
 
-Honeycomb
-{1}{W}
-Gain 3 life.
-
 Palm Sunday
 Enchantment
 {2}{W}{G}
@@ -67,14 +63,14 @@ Create 3 4/4 Angel Creature tokens with Vigilance and Flying.
 Flashback: {5}{WW}
 
 Fishers of Men
-Sorcery
+Instant
 {1}{U}
 Gift a tapped fish. Draw a card. If the gift was given, counter target spell.
 
 Noah's Blessing
 Instant
 {G}
-Two Creatures that share a Creature type gain Indestructible until end of turn.
+Creatures that share a Creature type gain Indestructible until end of turn.
 Put a +1/+1 counter on each of them.
 
 Uriah the Hittite
