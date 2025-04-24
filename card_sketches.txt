@@ -1,8 +1,8 @@
 The Burning Bush
-{B}{R}
+{G}{R}
 Enchantment
-Lands you control cannot be destroyed.
-When The Burning Bush enters, exile target non-Creature, non-Land from your opponent's hand.
+When this enchantment enters, scry 3.
+When a creature you control enters, scry 1.
 
 Herod
 {2}{U}{B}{RR}
@@ -11,14 +11,6 @@ Creature - King
 Flying, Trample
 {R}: *Kill the Firstborn*: Destroy all creatures with power 2 or less
 {W}: *Taxation* For each player, vote travel or pay. For each player that votes Taxation, create a treasure token. For each player that votes travel, you may search your library for a land. You may only activate this ability once.
-
-Peter's Choice
-Instant
-{2}{W}
-Choose one:
-*Deny Christ*: Create 3 1/1 Rooster tokens with haste
-*Serve Him*: Gain 3 life. Create a food token.
-*Flee*: Return target creature to its owner's hand.
 
 Flood
 Sorcery
@@ -55,9 +47,9 @@ Pay 2 life: Deal 5 damage to target creature with power 4 or greater.
 The Fruit
 Artifact - Food
 2
-{1}, {T}: Add one mana of any color. Lose 1 life.
+{1}, {T}: Add one mana of any color. Lose 2 life.
 {4}, {T}: Create a food token.
-{T}: Create a 1/1 Snake token with deathtouch.
+{T}: Create a 1/1 black Snake token with deathtouch.
 
 Honeycomb
 {1}{W}
@@ -142,13 +134,13 @@ Enchant target player. When that player casts a Blue spell, they sacrifice a lan
 Shofar
 Artifact
 {2}
-{T}: Target creature gains flying until end of turn.
-{W}: Target creature gains +1/+0 until end of turn.
+{W}: Target creature gains flying until end of turn.
+{R}: Target creature gains +1/+0 until end of turn.
 
 Satan, Source of Evil
 {U}
 1/1
-{U}{B}{R} Sacrifice 3 creatures. Transform CARDNAME.
+{U}{B}{R}, Sacrifice 3 creatures: Transform CARDNAME.
 ///
 Satan - Legendary Planeswalker
 4
@@ -170,17 +162,11 @@ Equip {0}
 Equipped creature gains -1/-1
 When target creature is equipped, draw a card.
 
-The Afterlife
-Enchantment
-{1}{WW}{U}{G}
-Creatures you control have Insipire (when an Inspired creature dies, create a food Token)
-Whenever a food token enters or when you sacrifice one, create a 4/4 Angel token with vigilance.
-
 Hell
 Legendary Land - Swamp Mountain
 {1}, {T}: Add {B} or {R}
 {1}, {T}: Create a 1/1 Devil Token with haste. Sacrifice it at the beginning of the next end step. Untap CARDNAME.
-{4}, {T}: Sacrifice CARDNAME. Deal 3 damage to each creature.
+{4}, {T}: Sacrifice CARDNAME. Deal 5 damage to each creature.
 
 Heaven
 Legendary Land - Plains Forest
@@ -189,9 +175,8 @@ Legendary Land - Plains Forest
 {T}: Sacrifice CARDNAME. If you have exactly one life, you win the game.
 
 Limbo
-Land
-{T}: Add {1}
-{T}, Sacrifice CARDNAME: search your library for a Forest, place it onto the Battlefield tapped, then shuffle.
+Legendary Land
+{T}: Add {C}.
 
 Breach the Skylight
 Sorcery
@@ -218,11 +203,6 @@ Creature - Angel
 {4}
 4/4
 When CARDNAME enters, create a 2/2 Human Token named Adam. Draw a card.
-
-The True Cross
-Artifact
-{0}
-{T}: Add {2}. Lose 2 life.
 
 Christ, Savior of Man
 {2}{W}{UU}{R}
@@ -262,7 +242,7 @@ Sorcery
 If you control two tokens named Adam and Eve, draw three cards. Exile CARDNAME.
 
 Visit of the Magi
-Instant
+Sorcery
 {1}{U}{R}
 Create a Treasure Token. If Jesus is on the battlefield, create two additional Treasure Tokens.
 
@@ -277,12 +257,6 @@ Sorcery
 {U}{G}
 Create a 1/1 Human Token Creature named Adam and a 1/1 Human Token named Eve. Search your library for a basic land card, place it onto the battlefield tapped, then shuffle.
 Flashback: {UUU}.
-
-Teffelin
-Artifact - Phylactery Equiptment
-{1}
-Equip {1}
-Equppied creature has +1/+1 and Lifelink.
 
 Daniel
 Creature - Human
