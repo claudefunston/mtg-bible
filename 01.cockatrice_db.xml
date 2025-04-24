@@ -449,7 +449,7 @@ If damage is dealt to this creature by a creature with power 1 or less, destroy 
             <chvs>1 Samuel 17:4</chvs>
         </card>
         <card>
-            <name>Nephilim</name>
+            <name>Enter Nephilim</name>
             <text>Create 2 3/3 green Giant token creatures with trample.</text>
             <prop>
                 <type>Sorcery</type>
@@ -467,9 +467,9 @@ If damage is dealt to this creature by a creature with power 1 or less, destroy 
 Whenever a food enters or when you sacrifice one, create a 4/4 white Angel token with vigilance and flying.</text>
             <prop>
                 <type>Enchantment</type>
-                <manacost>1WWG</manacost>
+                <manacost>1WWGG</manacost>
                 <colors>WG</colors>
-                <cmc>4</cmc>
+                <cmc>5</cmc>
             </prop>
             <set>BIB</set>
             <tablerow>1</tablerow>
