@@ -117,7 +117,7 @@ Sacrifice this artifact: Create a 2/2 Green and White Human Token named Eve.</te
             <set>BIB</set>
             <tablerow>1</tablerow>
             <imgsrc>https://commons.wikimedia.org/wiki/File:Adam%27s_Rib_-_1923_(cropped).jpg</imgsrc>
-            <chvs>Genesis 2:21 - 22</chvs>
+            <chvs>Genesis 2:21-22</chvs>
         </card>
         <card>
             <name>Judas' Kiss</name>
@@ -141,7 +141,7 @@ Sacrifice this artifact: Create a 2/2 Green and White Human Token named Eve.</te
             </prop>
             <set>BIB</set>
             <tablerow>3</tablerow>
-            <chvs>Mark 11:12 - 14</chvs>
+            <chvs>Mark 11:12-14</chvs>
         </card>
         <card>
             <name>Peaceful Finality</name>
@@ -197,14 +197,17 @@ When this creature dies, send it to Limbo.</text>
         <card>
             <name>Sermon on the Mount</name>
             <text>When this card enters, create a Food token, a Clue token, and a Treasure token.
-Creatures you control have Inspire (When an Inspired creature dies, create a Food token)</text>
+Proliforate and populate.
+Creatures you control have Inspire.</text>
             <prop>
                 <type>Enchantment</type>
-                <manacost>2WG</manacost>
-                <cmc>4</cmc>
+                <manacost>2WWG</manacost>`
+                <cmc>5</cmc>
+                <colors>WG</colors>
             </prop>
             <set>BIB</set>
             <tablerow>1</tablerow>
+            <chvs>Matthew 5-7</chvs>
         </card>
         <card>
             <name>Mary</name>
@@ -492,6 +495,7 @@ Create a blood token.</text>
                 <manacost>1WR</manacost>
             </prop>
             <set>BIB</set>
+            <tablerow>3</tablerow>
             <chvs>Matthew 9:20-22</chvs>
         </card>
     </cards>
