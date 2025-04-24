@@ -498,5 +498,17 @@ Create a blood token.</text>
             <tablerow>3</tablerow>
             <chvs>Matthew 9:20-22</chvs>
         </card>
+        <card>
+            <name>Crown of Thorns</name>
+            <text>Equipped creature gains -1/-1
+When a creature is equipped with this artifact, draw a card.
+Equip 0</text>
+        <prop>
+            <type>Artifact</type>
+            <manacost>2</manacost>
+        </prop>
+            <set>BIB</set>
+            <tablerow>1</tablerow>
+        </card>
     </cards>
 </cockatrice_carddatabase>

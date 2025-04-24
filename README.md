@@ -22,8 +22,6 @@ These are Whiteboarded cards envisioned in an ad-hoc, top-down style. They are p
 
 Once moved to db, cards here are deleted.
 
-This file is intended for deprecation.
-
 ## Images
 ### Recordkeeping and Attribution
 Cards in the db have a non-standard `<imgsrc>` tag. They will not load diretly into Cockatrice, but as now don't break anything.

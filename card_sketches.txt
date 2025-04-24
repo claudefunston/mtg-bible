@@ -89,11 +89,6 @@ Instant
 {1}{WW}
 Deal 5 damage to target attacking or blocking creature.
 
-Hem of the Savior
-Instant
-{1}{U}{R}
-Gain 3 life. Create a blood token.
-
 Dumah
 Creature - Druid
 {2}{G}
@@ -130,7 +125,7 @@ Enchant target player. When that player casts a Blue spell, they sacrifice a lan
 Shofar
 Artifact
 {2}
-{W}: Target creature gains flying until end of turn.
+{T}, {W}: Target creature gains flying until end of turn.
 {R}: Target creature gains +1/+0 until end of turn.
 
 Satan, Source of Evil
@@ -142,14 +137,7 @@ Satan - Legendary Planeswalker
 4
 +1: Deal 3 damage to any target
 -2: Create 2 1/1 Devil Token creatures with haste.
--7: Exile all creatures. Place them in Hell. Any player can cast exiled cards from Hell as 1/1 Creatures with deathtouch.
-
-Thomas' Insight
-Instant
-{1}{R}{W}
-Choose one:
-*Faith*: Gain 3 life and deal one damage to any target.
-*Doubt*: Deal 3 damage to any target.
+-7: Exile all creatures. Send them to your Hell zone. You gain an emblem with "You may cast cards cards from Hell as 1/1 colorless token Creatures with deathtouch."
 
 Crown of Thorns
 Artifact
