@@ -76,7 +76,7 @@ For now, יהוה is considered too powerful to include.
 ## Zones
 There are three new named zones - Heaven, Hell, and Limbo. The Lands naming them needn't be in play for the zones to exist.
 
-Sending a creature to any of these is not an exile effect (unless specified by another card). Those creatures do enter the graveyard before they meet their destiny.
+Sending a creature to any of these is not an exile effect (unless specified by another card). Those creatures do enter the graveyard before they meet their destiny. As tokens cease to exist when they enter the graveyard, tokens can't reach these zones.
 
 Creatures in these zones lose all attributes and abilities apart from type. Specifically, they contribute to devotion, and count for the number of creatures you control.
 
@@ -98,7 +98,9 @@ Some considerations:
 ## Make some Art
 Either find a CC0 source, or draw something of your own.
 ## Balance the Wheels
-This set needs some organization, and a skeleton to take the cards from isolated ideas into a proper system.
+This set needs some organization, and a skeleton to take the cards from isolated ideas into a proper system. Rarity is currently ambiguous.
+
+The plague cycle needs finishing, and some sense of alignment with the color pairs of the set.
 # Biblcal Translations
 We are by and large translation agnostic, because meaning can be difficult to decipher if you don't know Hebrew and Greek (&c), and the purpose of this set is to produce fun, not communicate Theology.
 
