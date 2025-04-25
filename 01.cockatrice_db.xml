@@ -61,8 +61,8 @@ When this creature dies, send it to Heaven.</text>
         </card>
         <card>
             <name>Judas</name>
-            <text>{T}, When this creature enters, create two Treasure Tokens. 
-{1}, {T}: Sacrifice this creature. Destroy target Legendary Creature or Planeswalker. Create two Treasure Tokens.
+            <text>{T}, When this creature enters, create a treasure token. 
+{T}: Put a finality counter on target legendary creature or Planeswalker. Create two Treasure Tokens.
 When this creature dies, send it to Hell.</text>
             <prop>
                 <type>Creature - Deserter</type>
