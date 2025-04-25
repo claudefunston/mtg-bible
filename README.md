@@ -14,8 +14,6 @@ You can access both of these folders from the Cockatrice UI via the Card Databas
 # Contents
 ## db 
 * `01.cockatrice_db.xml`.
-    * Tested to load into Cockatrice. Cards here are under consideration for inclusion in the set.
-    * The numerical prefix is necessary to load multiple custom sets in a Cockatrice instance.
 ## Card Sketches
 * `card_sketches.txt`.
 These are Whiteboarded cards envisioned in an ad-hoc, top-down style. They are presented in a non-standardized format, but mimicking WotC's. They are sufficient to communicate the nature, effects, and idea of each card.
