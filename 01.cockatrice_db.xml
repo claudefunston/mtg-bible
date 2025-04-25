@@ -103,7 +103,7 @@ If Jesus is on the battlefield, reduce the cost of this spell by {1U}</text>
             </prop>
             <set>BIB</set>
             <tablerow>3</tablerow>
-            <imgsrc>https://commons.wikimedia.org/wiki/File:CodexEgberti-Fol027v-WalkOnTheWater.jpg</imgsrc>
+            <imgsrc>C/imgsrc>
         </card>
         <card>
             <name>Adam's Rib</name>
