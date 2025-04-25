@@ -139,15 +139,8 @@ Satan - Legendary Planeswalker
 -2: Create 2 1/1 Devil Token creatures with haste.
 -7: Exile all creatures. Send them to your Hell zone. You gain an emblem with "You may cast cards cards from Hell as 1/1 colorless token Creatures with deathtouch."
 
-Crown of Thorns
-Artifact
-{2}
-Equip {0}
-Equipped creature gains -1/-1
-When target creature is equipped, draw a card.
-
 Hell
-Legendary Land - Swamp Mountain
+Legendary Land
 {1}, {T}: Add {B} or {R}
 {1}, {T}: Create a 1/1 Devil Token with haste. Sacrifice it at the beginning of the next end step. Untap CARDNAME.
 {4}, {T}: Sacrifice CARDNAME. Deal 5 damage to each creature.

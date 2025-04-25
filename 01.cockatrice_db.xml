@@ -500,7 +500,7 @@ Create a blood token.</text>
         </card>
         <card>
             <name>Crown of Thorns</name>
-            <text>Equipped creature gains -1/-1
+            <text>Equipped creature has -1/-1
 When a creature is equipped with this artifact, draw a card.
 Equip 0</text>
         <prop>
@@ -509,6 +509,20 @@ Equip 0</text>
         </prop>
             <set>BIB</set>
             <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Shofar</name>
+            <text>As an additional cost to cast this artifact, sacrifice a creature. If that creature was a Donkey, create a blood counter.
+{T}, {W}: Target creature gains flying until end of turn.
+{R}: Target creature gains +1/+0 until end of turn.</text>
+        <prop>
+            <type>Artifact</type>
+            <manacost>2B</manacost>
+            <cmc>2</cmc>
+        </prop>
+        <set>BIB</set>
+        <tablerow>2</tablerow>
+        <chvs>Numbers 10:9</chvs>
         </card>
     </cards>
 </cockatrice_carddatabase>
