@@ -531,7 +531,7 @@ Equip 0</text>
             <text>Target creature goes to Heaven.
 You gain 2 life.</text>
             <prop>
-                <type>Sorcery</type>
+                <type>Instant</type>
                 <manacost>1WG</manacost>
                 <cmc>3</cmc>
             </prop>
