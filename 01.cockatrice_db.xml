@@ -212,7 +212,7 @@ Creatures you control have Inspire.</text>
             <chvs>Matthew 5-7</chvs>
         </card>
         <card>
-            <name>Mary</name>
+            <name>Alba Madonna</name>
             <text>When this creature enters, create a 1/1 Blue Infant token named Jesus with Indestructible.
 This creature cannot attack.
 When this creature dies, send it to Heaven.</text>
@@ -224,6 +224,7 @@ When this creature dies, send it to Heaven.</text>
             </prop>
             <set>BIB</set>
             <tablerow>2</tablerow>
+            <imgsrc>https://www.nga.gov/collection/art-object-page.26.html</imgsrc>
         </card>
         <card>
             <name>The Cock Crows</name>
