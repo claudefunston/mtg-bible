@@ -81,7 +81,7 @@ When this creature dies, send it to Hell.</text>
 			<name>Sodom</name>
 			<text>{T}: Add {C}.
 {T}: Add a Salt counter to this land.
-{T}, {4}: Remove 4 Salt counters from Sodom. Sacrifice it. Destroy all creatures.</text>
+{T}, {4}: Remove 4 Salt counters from this land. Sacrifice it. Destroy all creatures.</text>
 			<prop>
 				<type>Legendary Land</type>
                 <tablerow>0</tablerow>
