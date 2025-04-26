@@ -158,7 +158,7 @@ Sacrifice this artifact: Create a 2/2 Green and White Human Token named Eve.</te
         <card>
             <name>Pontius Pilate</name>
             <text>When this creature enters, put a finality counter on target creature an opponent controls.
-If that creature is legendary, gain RRR.
+If that creature is legendary, add RRR.
 When this creature dies, send it to Limbo.</text>
             <prop>
                 <type>Creature - Human Soldier</type>
@@ -525,6 +525,20 @@ Equip 0</text>
         <set>BIB</set>
         <tablerow>2</tablerow>
         <chvs>Numbers 10:9</chvs>
+        </card>
+        <card>
+            <name>Assumption</name>
+            <text>Target creature goes to Heaven.
+You gain 2 life.</text>
+            <prop>
+                <type>Sorcery</type>
+                <manacost>1WG</manacost>
+                <cmc>3</cmc>
+            </prop>
+            <set>BIB</set>
+            <chvs>Revelation 12</chvs>
+            <tablerow>3</tablerow>
+            <imgsrc>https://commons.wikimedia.org/wiki/File:L%27Assomption_de_la_Vierge,_Le_Brun.jpg</imgsrc>
         </card>
     </cards>
 </cockatrice_carddatabase>
