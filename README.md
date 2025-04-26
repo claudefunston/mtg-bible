@@ -22,11 +22,15 @@ Once moved to db, cards here are deleted.
 
 ## Images
 ### Recordkeeping and Attribution
-Cards in the db have a non-standard `<imgsrc>` tag. They will not load diretly into Cockatrice, but as now don't break anything.
+Cards in the db have a non-standard but an apparantly compliant `<imgsrc>` tag.
 
-All images are licensed under [CC0](https://creativecommons.org/public-domain/cc0/).
+All images are [CC0](https://creativecommons.org/public-domain/cc0/) licensed.
 
-We very much enjoy artwork pulled from [The National Gallery](https://www.nga.gov/collection/collection-search.html). [The Met](https://www.metmuseum.org/art/collection/search) is a good source as well.
+We very much enjoy works from [The National Gallery of Art](https://www.nga.gov/collection/collection-search.html).
+
+Images with an NGA source are considered to be credited by us as _Courtesy National Gallery of Art, Washington_.
+
+[The Met](https://www.metmuseum.org/art/collection/search) is a good source as well.
 
 ### Raw Images
 * `images_raw`
