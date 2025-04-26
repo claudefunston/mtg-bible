@@ -104,7 +104,6 @@ If Jesus is on the battlefield, reduce the cost of this spell by {1U}</text>
             </prop>
             <set>BIB</set>
             <tablerow>3</tablerow>
-            <imgsrc>C/imgsrc>
         </card>
         <card>
             <name>Adam's Rib</name>
@@ -170,7 +169,7 @@ When this creature dies, send it to Limbo.</text>
             </prop>
             <set>BIB</set>
             <tablerow>2</tablerow>
-            <imgsrc>https://www.nga.gov/collection/art-object-page.6770.html<imgsrc>
+            <imgsrc>https://www.nga.gov/collection/art-object-page.6770.html</imgsrc>
         </card>
         <card>
             <name>Dorcas</name>
