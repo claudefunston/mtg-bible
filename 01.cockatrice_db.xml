@@ -134,7 +134,7 @@ Sacrifice this artifact: Create a 2/2 Green and White Human Token named Eve.</te
         </card>
         <card>
             <name>Smite the Fig Tree</name>
-            <text>Destroy target Forest, Artifact, or creature with Flying.</text>
+            <text>Destroy target Forest, Artifact, or creature with flying.</text>
             <prop>
                 <type>Sorcery</type>
                 <manacost>2B</manacost>
@@ -158,7 +158,7 @@ Sacrifice this artifact: Create a 2/2 Green and White Human Token named Eve.</te
         </card>
         <card>
             <name>Pontius Pilate</name>
-            <text>When this creature enters, put a Finality counter on target creature an opponent controls.
+            <text>When this creature enters, put a finality counter on target creature an opponent controls.
 If that creature is legendary, gain RRR.
 When this creature dies, send it to Limbo.</text>
             <prop>
@@ -170,6 +170,7 @@ When this creature dies, send it to Limbo.</text>
             </prop>
             <set>BIB</set>
             <tablerow>2</tablerow>
+            <imgsrc>https://www.nga.gov/collection/art-object-page.6770.html<imgsrc>
         </card>
         <card>
             <name>Dorcas</name>
