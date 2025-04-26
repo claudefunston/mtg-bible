@@ -44,20 +44,21 @@ Create a 3/3 Green Bear Token with Trample.</text>
         </card>
         <card>
             <name>Centurion</name>
-            <text>{T}, Sacrifice this creature. Prevent all damage dealt to up to one target creature.
-If Jesus is on the battlefiled, return Centurion to your hand
-When this creature dies, send it to Heaven.</text>
+            <text>If Jesus is on the battlefield, prevent all damage to 1/1 creatures you control.
+</text>
             <prop>
                 <type>Creature - Human</type>
                 <pt>1/2</pt>
                 <coloridentity>W</coloridentity>
-                <manacost>1W</manacost>
-                <cmc>2</cmc>
+                <manacost>W</manacost>
+                <cmc>1</cmc>
                 <colors>W</colors>
                 <tablerow>2</tablerow>
             </prop>
             <set>BIB</set>
             <tablerow>2</tablerow>
+            <imgsrc>https://www.nga.gov/collection/art-object-page.30276.html</imgsrc>
+            <chvs>Matthew 8:5-13</chvs>
         </card>
         <card>
             <name>Judas</name>
