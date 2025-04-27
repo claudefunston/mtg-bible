@@ -91,7 +91,7 @@ There are three new named zones - Heaven, Hell, and Limbo. The Lands naming them
 
 Sending a creature to any of these is not an exile effect (unless specified by another card). Those creatures do enter the graveyard before they meet their destiny. As tokens cease to exist when they enter the graveyard, tokens can't reach these zones.
 
-Creatures in these zones lose all attributes and abilities apart from type. Specifically, they contribute to devotion, and count for the number of creatures you control.
+Creatures in each zone lose all attributes and abilities apart from type. Specifically, they contribute to devotion, and count for the number of creatures you control.
 
 Just as the exile zone operates, each player has their own version of these zones.
 
