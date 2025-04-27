@@ -62,14 +62,13 @@ The framed and designed cards.
 * UR, tertiary G: The Mystics
 * BG, tertiary R: The Lifegivers
 * RG, tertiary B: The Nephilim
+## The Lands
+Dual lands enter tapped with a stun counter, but they give you a treasure token. Lands are typed. All ten pairs are represented.
+## The Curse Cycle
+The ten plagues are each represented.
 # Release Notes
 ## Existing Mechanics
 Finality Counters have returned. When a creature with a Finality Counter on it dies, it is exiled instead of being sent to the graveyard.
-
-One land produces Salt counters. They have no effect on gameplay aside from what they do to that land.
-
-## The Lands
-Dual lands enter tapped with a stun counter, but they give you a treasure token. Lands are typed. All ten pairs are represented.
 
 ## New Mechanics and Special Creatures
 We have one new mechanic: Inspire: When an Inspired creature dies, its controller creates a food token.
@@ -81,7 +80,7 @@ There are three new creature types:
 * Infant.
 * Rooster.
 
-The Deserter creature type has appeared before only on tokens, but is present in this set on a proper creature.
+The Deserter creature type has appeared before only on tokens. It is present in this set on a proper creature.
 
 Because this set is both Biblical and Trinitarian in nature, yes, you can target Jesus with a spell that wants to target the Holy Spirit.
 
@@ -114,7 +113,6 @@ Either find a CC0 source, or draw something of your own.
 ## Balance the Wheels
 This set needs some organization, and a skeleton to take the cards from isolated ideas into a proper system. Rarity is currently ambiguous.
 
-The plague cycle needs finishing, and some sense of alignment with the color pairs of the set.
 # Biblcal Translations
 We are by and large translation agnostic, because meaning can be difficult to decipher if you don't know Hebrew and Greek (&c), and the purpose of this set is to produce fun, not communicate Theology.
 

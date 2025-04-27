@@ -67,12 +67,6 @@ Instant
 {1}{U}
 Gift a tapped fish. Draw a card. If the gift was given, counter target spell.
 
-Noah's Blessing
-Instant
-{G}
-Creatures that share a Creature type gain Indestructible until end of turn.
-Put a +1/+1 counter on each of them.
-
 Uriah the Hittite
 Creature - Human
 1/3
