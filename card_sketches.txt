@@ -123,12 +123,6 @@ Enchantment - Curse
 Vanishing 4
 Enchant target player. When that player casts a Blue spell, they sacrifice a land.
 
-Shofar
-Artifact
-{2}
-{T}, {W}: Target creature gains flying until end of turn.
-{R}: Target creature gains +1/+0 until end of turn.
-
 Satan, Source of Evil
 {U}
 1/1
