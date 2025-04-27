@@ -50,7 +50,7 @@ The framed and designed cards.
     * Pharasees are either neutral or positive towards Jesus.
 * WG, tertiary U: The Believers
     * This group will sacrifice their lives to support the message of Christ.
-    * Black sacrifice effects are considered off-type for the Believers.
+    * Black sacrifice effects are considered off-type for the Believers, despite their willingness to sacrifice.
 * WR, tertiary G: The Government
     * The Government can be neutral, beneficial, or harmful.
     * Romans and Jewish actors belong here.
@@ -62,7 +62,11 @@ The framed and designed cards.
 * WB, tertiary R: The Essenes
 * UR, tertiary G: The Mystics
 * BG, tertiary R: The Lifegivers
+    * Creatures remove themselves from the graveyard.
+    * Lifegain effects are possible but not required.
 * RG, tertiary B: The Nephilim
+    * These are generally giants.
+    * They are large creatures.
 # Release Notes
 ## Existing Mechanics
 Finality Counters have returned. When a creature with a Finality Counter on it dies, it is exiled instead of being sent to the graveyard.
