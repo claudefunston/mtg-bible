@@ -62,8 +62,6 @@ The framed and designed cards.
 * WB, tertiary R: The Essenes
 * UR, tertiary G: The Mystics
 * BG, tertiary R: The Lifegivers
-    * Creatures remove themselves from the graveyard.
-    * Lifegain effects are possible but not required.
 * RG, tertiary B: The Nephilim
     * These are generally giants.
     * They are large creatures.
