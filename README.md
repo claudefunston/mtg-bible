@@ -53,7 +53,7 @@ The framed and designed cards.
     * Black sacrifice effects are considered off-type for the Believers, despite their willingness to die.
 * WR, tertiary G: The Government
     * The Government can be neutral, beneficial, or harmful.
-* UG, tertiary R: The Creators
+* UG, tertiary B: The Creators
     * This tribe is a liminal one; actors can violate the laws of nature.
     * We attempt to use the lifegiving power of water and forests to this tribe.
 * BR, tertiary U: The Heretics
