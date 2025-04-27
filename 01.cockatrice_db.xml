@@ -541,5 +541,18 @@ You gain 2 life.</text>
             <tablerow>3</tablerow>
             <imgsrc>https://commons.wikimedia.org/wiki/File:L%27Assomption_de_la_Vierge,_Le_Brun.jpg</imgsrc>
         </card>
+        <card>
+            <name>Noah's Blessing</name>
+            <text>Creatures that share a Creature type gain Indestructible until end of turn.
+Put a +1/+1 counter on each of them.</text>
+            <prop>
+                <type>Instant</type>
+                <manacost>GG</manacost>
+                <cmc>2</cmc>
+                <colors>G</colors>
+            </prop>
+            <set>BIB</set>
+            <tablerow>3</tablerow>
+        </card>
     </cards>
 </cockatrice_carddatabase>
