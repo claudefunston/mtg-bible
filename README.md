@@ -28,7 +28,7 @@ All images are [CC0](https://creativecommons.org/public-domain/cc0/) licensed.
 
 We very much enjoy works from [The National Gallery of Art](https://www.nga.gov/collection/collection-search.html).
 
-Images with an NGA source are considered to be credited by us as _Courtesy National Gallery of Art, Washington_.
+Images with an NGA source are credited by us as _Courtesy National Gallery of Art, Washington_.
 
 [The Met](https://www.metmuseum.org/art/collection/search) is a good source as well.
 
@@ -39,15 +39,26 @@ Images with an NGA source are considered to be credited by us as _Courtesy Natio
 * `images`
 * Cards are placed into frames using [Magic Set Editor](https://magicseteditor.boards.net/)
 ### `mse_db`
-An MSE file used to create framed images of artwork.
-# Bottom-up Design Framework
+The framed and designed cards.
+# Set Design
 ## Color pairs
 * UB, tertiary R: The Sadducees
+    * This group strongly rejects predestination, and does not believe in an afterlife.
+    * The law is important, so we use the colors of UB to enforce it.
 * UW, tertiary G: The Pharisees
+    * This group believes in tradition.
+    * Pharasees are either neutral or positive towards Jesus.
 * WG, tertiary U: The Believers
+    * This group will sacrifice their lives to support the message of Christ.
+    * Black sacrifice effects are considered off-type for the Believers.
 * WR, tertiary G: The Government
+    * The Government can be neutral, beneficial, or harmful.
+    * Romans and Jewish actors belong here.
 * UG, tertiary R: The Creators
+    * This tribe is a liminal one; actors can violate the laws of nature.
+    * We attempt to use the lifegiving power of water and forests to this tribe.
 * BR, tertiary U: The Heretics
+    * It's just Satan and his mininons.
 * WB, tertiary R: The Essenes
 * UR, tertiary G: The Mystics
 * BG, tertiary R: The Lifegivers
