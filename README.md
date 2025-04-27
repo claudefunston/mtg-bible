@@ -57,7 +57,7 @@ The framed and designed cards.
     * This tribe is a liminal one; actors can violate the laws of nature.
     * We attempt to use the lifegiving power of water and forests to this tribe.
 * BR, tertiary U: The Heretics
-    * It's just Satan and his mininons.
+    * It's just Satan and his minions.
 * WB, tertiary R: The Essenes
 * UR, tertiary G: The Mystics
 * BG, tertiary R: The Lifegivers
