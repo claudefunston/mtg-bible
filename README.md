@@ -1,6 +1,8 @@
 # Overview
 These are cards meant to interact with the game system of Magic: the Gathering. The concepts are based upon the Bible.
 
+Our aim is to design cards, then find art that aligns with it.
+
 We adopt a neutral stance towards religion. These cards are a respecful way to engage the Bible as a historical and literary work.
 
 __mtg-bible__ is unofficial Fan Content permitted under Wizards' [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). This content is not approved nor endorsed by Wizards. Portions of the materials herein are property of Wizards of the Coast.
