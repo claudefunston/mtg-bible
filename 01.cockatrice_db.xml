@@ -520,7 +520,7 @@ Equip 0</text>
 {R}: Target creature gains +1/+0 until end of turn.</text>
         <prop>
             <type>Artifact</type>
-            <manacost>2B</manacost>
+            <manacost>2</manacost>
             <cmc>2</cmc>
         </prop>
         <set>BIB</set>
