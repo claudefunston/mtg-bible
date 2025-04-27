@@ -63,8 +63,6 @@ The framed and designed cards.
 * UR, tertiary G: The Mystics
 * BG, tertiary R: The Lifegivers
 * RG, tertiary B: The Nephilim
-    * These are generally giants.
-    * They are large creatures.
 # Release Notes
 ## Existing Mechanics
 Finality Counters have returned. When a creature with a Finality Counter on it dies, it is exiled instead of being sent to the graveyard.
