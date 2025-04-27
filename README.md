@@ -50,7 +50,7 @@ The framed and designed cards.
     * Pharasees are either neutral or positive towards Jesus.
 * WG, tertiary U: The Believers
     * This group will sacrifice their lives to support the message of Christ.
-    * Black sacrifice effects are considered off-type for the Believers, despite their willingness to sacrifice.
+    * Black sacrifice effects are considered off-type for the Believers, despite their willingness to die.
 * WR, tertiary G: The Government
     * The Government can be neutral, beneficial, or harmful.
     * Romans and Jewish actors belong here.
