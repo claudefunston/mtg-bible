@@ -5,7 +5,7 @@ We adopt a neutral stance towards religion. These cards are a respecful way to e
 
 __mtg-bible__ is unofficial Fan Content permitted under Wizards' [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). This content is not approved nor endorsed by Wizards. Portions of the materials herein are property of Wizards of the Coast.
 
-This project is a work in progress, and welcomes any feedback.
+This project welcomes any feedback.
 
 # Usage
 * Install [Cockatrice](https://cockatrice.github.io/).
