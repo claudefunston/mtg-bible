@@ -25,7 +25,7 @@ Once moved to db, cards here are deleted.
 
 ## Images
 ### Recordkeeping and Attribution
-Cards in the db have a non-standard but an apparantly compliant `<imgsrc>` tag.
+Cards in the db have a non-standard `<imgsrc>` tag to record their sources.
 
 All images are [CC0](https://creativecommons.org/public-domain/cc0/) licensed.
 
@@ -37,12 +37,11 @@ Images with an NGA source are credited by us as _Courtesy National Gallery of Ar
 
 ### Raw Images
 * `images_raw`
-* These are cropped from the `<imgsrc>` of each card. It is a recordkeeping archive.
+* These are cropped from the `<imgsrc>` of each card. It is a recordkeeping mechanism.
 ### Images
 * `images`
 * Cards are placed into frames using [Magic Set Editor](https://magicseteditor.boards.net/)
 ### `mse_db`
-The framed and designed cards.
 # Set Design
 ## Color pairs
 * UB, tertiary R: The Sadducees
@@ -57,18 +56,16 @@ The framed and designed cards.
 * WR, tertiary G: The Government
     * The Government can be neutral, beneficial, or harmful.
 * UG, tertiary B: The Creators
-    * This tribe is a liminal one; actors can violate the laws of nature.
-    * We attempt to use the lifegiving power of water and forests to this tribe.
-* BR, tertiary U: The Heretics
+    * Actors from this tribe can violate the laws of nature.
+* BR, tertiary U: The Free
     * It's just Satan and his minions.
 * WB, tertiary R: 
 * UR, tertiary G: The Essenes
 * BG, tertiary R: 
 * RG, tertiary B: The Nephilim
 ## The Lands
-Dual lands enter tapped with a stun counter, but they give you a treasure token. Lands are typed. All ten pairs are represented.
+Dual lands enter tapped with a stun counter, but they create a treasure token. Dual lands are typed. All ten pairs are represented.
 ## The Curse Cycle
-The ten plagues are each represented.
 # Release Notes
 ## Existing Mechanics
 Finality Counters have returned. When a creature with a Finality Counter on it dies, it is exiled instead of being sent to the graveyard.
@@ -76,14 +73,14 @@ Finality Counters have returned. When a creature with a Finality Counter on it d
 ## New Mechanics and Special Creatures
 We have one new mechanic: Inspire: When an Inspired creature dies, its controller creates a food token.
 
-The names Jesus, Adam and Eve all have cross-referenced rules text. Assume that the infant you created and the very powerful grownup Jesus are the same person. (Teenager schooling the temple, too.)
+The creature names Jesus, Adam and Eve all have cross-referenced rules text. Assume that the infant you created and the very powerful grownup Jesus are the same person. (Teenager schooling the temple, too.)
 
 There are three new creature types:
 * Donkey. In rules text and cardnames, it should be considered synonymous with ass.
 * Infant.
 * Rooster.
 
-The Deserter creature type has appeared before only on tokens. It is present in this set on a proper creature.
+The Deserter creature type has appeared before on tokens. It is present in this set on a proper creature.
 
 Because this set is both Biblical and Trinitarian in nature, yes, you can target Jesus with a spell that wants to target the Holy Spirit.
 
@@ -104,23 +101,23 @@ Just as the exile zone operates, each player has their own version of these zone
 
 # Contributing
 ## Design a card
-Simply think of your favorite Biblical hero or event, and create something that makes sense in that context. Slight violations of the color pie are acceptable.
+Think of your favorite Biblical hero or event and get cracking.
 
 Some considerations:
 * Absolutely no advocation nor condoning of sexual violence.
 * Smiting sinful individuals and Armogeddening an entire city are acceptable acts and concepts, as are horrible diseases, plagues and Divine mind control.
-* We prefer that everything comes directly from the Bible. References to Deuterocanonical works are gladly included.
-* Cards can suggest, imply or compel that a Biblical character made an alternate choice otherwise not described in the original story if it makes for a better card or interesting thought.
+* Deuterocanonical works are gladly included; Apocrypha are not. Maybe for the expansion.
+* Cards can suggest, imply or compel that a character made a choice not described in the Bible if it makes a better card or produces interesting thought.
 ## Make some Art
 Either find a CC0 source, or draw something of your own.
 ## Balance the Wheels
-This set needs some organization, and a skeleton to take the cards from isolated ideas into a proper system. Rarity is currently ambiguous.
+This set needs organization, and a skeleton to take the cards from isolated ideas into a proper system. Rarity is currently ambiguous.
 
 # Biblcal Translations
-We are by and large translation agnostic, because meaning can be difficult to decipher if you don't know Hebrew and Greek (&c), and the purpose of this set is to produce fun, not communicate Theology.
+We are by and large translation agnostic, because meaning can be difficult to decipher if you don't know Hebrew and Greek (&c). The purpose of this set is to produce fun, not communicate Theology.
 
 The primary author of this Set uses [RSVCE](https://www.biblegateway.com/versions/Revised-Standard-Version-Catholic-Edition-RSVCE-Bible/).
 
 We adopt the stance that characters adhere to the loosely-defined concept of "what the populace understands about this person or story."
 ## Citations
-Whenever reasonable, we attach a custom tag cards: `<chvs>`. Chapter and verse. Consistency between Acts and the Synoptic Gospels is not always guaranteed. These tags have no gameplay effect.
+Whenever sensible, we attach a custom tag to cards: `<chvs>`. Chapter and verse. Consistency between Acts and the Synoptic Gospels is not always guaranteed. These tags have no gameplay effect.
