@@ -8,10 +8,9 @@ __mtg-bible__ is unofficial Fan Content permitted under Wizards' [Fan Content Po
 This project welcomes any feedback.
 
 # Usage
-Yes, this is for Windows and our authors understand we should do something more universal.
 * Install [Cockatrice](https://cockatrice.github.io/).
-* Place `01.cockatrice_db.xml` into `%LOCALAPPDATA%\Cockatrice\Cockatrice\customsets`.
-* Optionally, move contents of `images` into `%LOCALAPPDATA%\Cockatrice\Cockatrice\pics\CUSTOM`.
+* Place `01.cockatrice_db.xml` into your customsets folder.
+* Optionally, if you want to use our images, place them into your custompics folder.
 
 You can access both of these folders from the Cockatrice UI via the Card Database menu.
 # Contents
