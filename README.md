@@ -61,9 +61,9 @@ The framed and designed cards.
     * We attempt to use the lifegiving power of water and forests to this tribe.
 * BR, tertiary U: The Heretics
     * It's just Satan and his minions.
-* WB, tertiary R: The Essenes
-* UR, tertiary G: The Mystics
-* BG, tertiary R: The Lifegivers
+* WB, tertiary R: 
+* UR, tertiary G: The Essenes
+* BG, tertiary R: 
 * RG, tertiary B: The Nephilim
 ## The Lands
 Dual lands enter tapped with a stun counter, but they give you a treasure token. Lands are typed. All ten pairs are represented.
@@ -92,9 +92,9 @@ For now, יהוה is considered too powerful to include.
 ## Zones
 There are three new named zones - Heaven, Hell, and Limbo. The Lands naming them needn't be in play for the zones to exist.
 
-Sending a creature to any of these is not an exile effect (unless specified by another card). Those creatures do enter the graveyard before they meet their destiny. As tokens cease to exist when they enter the graveyard, tokens can't reach these zones.
+Sending a creature to any of these is not an exile effect (unless specified by another card). Creatures do enter the graveyard before they meet their destiny. As tokens cease to exist when they enter the graveyard, tokens can't reach these zones.
 
-Creatures in each zone lose all attributes and abilities apart from type. Specifically, they contribute to devotion, and count for the number of creatures you control.
+Creatures in these zones lose all attributes and abilities apart from type. Specifically, they contribute to devotion, and count for the number of creatures you control.
 
 Just as the exile zone operates, each player has their own version of these zones.
 
@@ -123,4 +123,4 @@ The primary author of this Set uses [RSVCE](https://www.biblegateway.com/version
 
 We adopt the stance that characters adhere to the loosely-defined concept of "what the populace understands about this person or story."
 ## Citations
-Whenever reasonable, we attach a custom tag to each card: `<chvs>`. Chapter and verse. Consistency between Acts and the Synoptic Gospels is not always guaranteed. These tags have no function on gameplay.
+Whenever reasonable, we attach a custom tag cards: `<chvs>`. Chapter and verse. Consistency between Acts and the Synoptic Gospels is not always guaranteed. These tags have no gameplay effect.
