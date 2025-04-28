@@ -1,7 +1,7 @@
 # Overview
 These are Magic: the Gathering cards based upon the Bible.
 
-We adopt a neutral stance towards religion. These cards are a respecful way to engage the Bible as a historical and literary work.
+We do not endorse, demean, nor otherwise express an opinion on relegion. These cards are a respecful way to engage the Bible as a historical and literary work.
 
 __mtg-bible__ is unofficial Fan Content permitted under Wizards' [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). This content is not approved nor endorsed by Wizards. Portions of the materials herein are property of Wizards of the Coast.
 
@@ -12,7 +12,7 @@ This project welcomes any feedback.
 * Place `01.cockatrice_db.xml` into your customsets folder.
 * Optionally, if you want to use our images, place them into your custompics folder.
 
-You can access both of these folders from the Cockatrice UI via the Card Database menu.
+You can access either from the Cockatrice UI via the Card Database menu.
 # Contents
 ## db 
 * `01.cockatrice_db.xml`.
