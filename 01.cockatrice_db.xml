@@ -543,7 +543,7 @@ You gain 2 life.</text>
         </card>
         <card>
             <name>Noah's Blessing</name>
-            <text>Creatures that share a Creature type gain Indestructible until end of turn.
+            <text>Creatures that share a type gain Indestructible until end of turn.
 Put a +1/+1 counter on each of them.</text>
             <prop>
                 <type>Instant</type>
