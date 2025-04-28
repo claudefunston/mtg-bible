@@ -557,7 +557,7 @@ Put a +1/+1 counter on each of them.</text>
         </card>
         <card>
             <name>Absalom, Absalom!</name>
-            <text>If an opponent has commited a crime this turn, this creature enters with a +2/+2 counter on it.</text>
+            <text>If an opponent has committed a crime this turn, this creature enters with a +2/+2 counter on it.</text>
             <prop>
                 <type>Creture - Human</type>
                 <pt>1/2</pt>

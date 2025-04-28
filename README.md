@@ -24,7 +24,7 @@ Once moved to db, cards here are deleted.
 
 ## Images
 ### Recordkeeping and Attribution
-Cards in the db have a non-standard `<imgsrc>` tag to record their sources.
+Cards in the db have a non-standard `<imgsrc>` tag to record their origens.
 
 All images are [CC0](https://creativecommons.org/public-domain/cc0/) licensed.
 
@@ -36,7 +36,7 @@ Images with an NGA source are credited by us as _Courtesy National Gallery of Ar
 
 ### Raw Images
 * `images_raw`
-* These are cropped from the `<imgsrc>` of each card. It is a recordkeeping mechanism.
+* These are cropped from `<imgsrc>`. It is a recordkeeping mechanism.
 ### Images
 * `images`
 * Cards are placed into frames using [Magic Set Editor](https://magicseteditor.boards.net/)
