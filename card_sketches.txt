@@ -1,5 +1,5 @@
 The Burning Bush
-{G}{R}
+{R}{G}
 Enchantment
 When this enchantment enters, scry 3.
 When a creature you control enters, scry 1.
@@ -100,7 +100,7 @@ The Curse of Frogs
 Enchantment - Curse
 {1}{G}{U}
 Vanishing 4
-Enchant targer player. They create a 1/1 Frog Token.
+Enchant targey player. They create a 1/1 Frog Token.
 At the beginning of Enchanted player's upkeep, they put a -1/-1 counter on each creature for every Frog controlled.
 {2} Proliforate.
 
