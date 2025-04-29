@@ -572,8 +572,8 @@ Put a +1/+1 counter on each of them.</text>
         </card>
         <card>
             <name>Boils</name>
-            <text>Vanishing 2
-Creatures your opponents control gain a -1/-1 counter each turn.
+            <text>Vanishing 3
+Enchant target player. That player’s creatures get a -1/-1 counter each turn.
 </text>
         <prop>
             <type>Enchantment</type>
