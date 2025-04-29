@@ -66,7 +66,7 @@ Images with an NGA source are credited by us as _Courtesy National Gallery of Ar
     * This group are giants and you should expect huge creatures here.
 ## The Lands
 Dual lands enter tapped with a stun counter, but they create a treasure token. Dual lands are typed. All ten pairs are represented.
-### מכות מצרים
+## מכות מצרים
 * דָּם
     * The River of Blood
     * Dam
