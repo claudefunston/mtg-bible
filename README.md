@@ -68,36 +68,6 @@ Images with an NGA source are credited by us as _Courtesy National Gallery of Ar
 Dual lands enter tapped with a stun counter, but they create a treasure token. Dual lands are typed. All ten pairs are represented.
 ## מכות מצרים
 These are curses.
-* דָּם
-    * Blood
-    * Dam
-* צְפֵרְדֵּע
-    * Frogs
-    * Tzfardeiya
-* כִּנִים
-    *Lice
-    * Kinim
-* עָרוֹב
-    * Beasts
-    * Arov
-* דֶּבֶר
-    * Pestilence
-    * Dever
-* שְׁחִין
-    * Boils
-    * Shchin
-* בָּרד
-    * Hail
-    * Barad
-* אַרְבֶּה
-    * Locusts
-    * Arbeh
-* חשֶׁךְ
-    * Darkness
-    * Choshech
-* מַכַּת בְּכוֹרוֹת
-    * Slaying of the firstborn
-    * Makat
 # Release Notes
 ## Existing Mechanics
 Finality Counters have returned. When a creature with a Finality Counter on it dies, it is exiled instead of being sent to the graveyard.
