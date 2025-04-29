@@ -570,5 +570,18 @@ Put a +1/+1 counter on each of them.</text>
             <imgsrc>https://www.nga.gov/collection/art-object-page.45781.html</imgsrc>
             <chvs>2 Samuel 13</chvs>
         </card>
+        <card>
+            <name>The Curse of Boils</name>
+            <text>Vanishing 3
+Creatures your opponents control get -1/-1 until end of turn.
+</text>
+        <prop>
+            <type>Enchantment</type>
+            <manacost>2BR</manacost>
+        </prop>
+        </card>
+        <set>BIB</set>
+        <imgsrc>https://en.wikipedia.org/wiki/Plagues_of_Egypt#/media/File:Egyptian_plague_of_boils_in_the_Toggenburg_Bible.jpg</imgsrc>
+        <chvs>Exodus 9:8-10</chvs>
     </cards>
 </cockatrice_carddatabase>
