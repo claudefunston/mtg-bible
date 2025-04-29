@@ -64,8 +64,8 @@ Images with an NGA source are credited by us as _Courtesy National Gallery of Ar
 * RG, tertiary B: The Nephilim
 ## The Lands
 Dual lands enter tapped with a stun counter, but they create a treasure token. Dual lands are typed. All ten pairs are represented.
-## The Curse Cycle
-מכות מצרים
+## The Plague Cycle
+### מכות מצרים
 # Release Notes
 ## Existing Mechanics
 Finality Counters have returned. When a creature with a Finality Counter on it dies, it is exiled instead of being sent to the graveyard.
