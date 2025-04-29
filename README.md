@@ -66,17 +66,38 @@ Images with an NGA source are credited by us as _Courtesy National Gallery of Ar
     * This group are giants and you should expect huge creatures here.
 ## The Lands
 Dual lands enter tapped with a stun counter, but they create a treasure token. Dual lands are typed. All ten pairs are represented.
-## The Plague Cycle
+## מכות מצרים
 ###
-* שְׁחִין
-* צְפַרְדֵּעַ
-* כִּנִּים
+* דָּם
+    * The River of Blood
+    * Dam
+* צְפֵרְדֵּע
+    * The Frogs
+    * Tzfardeiya
+* כִּנִים
+    * The Lice
+    * Kinim
 * עָרוֹב
+    * The Beasts
+    * Arov
 * דֶּבֶר
+    * Pestilence
+    * Dever
 * שְׁחִין
-* בָּרָד
-* חֹשֶׁךְ
+    * Boils
+    * Shchin
+* בָּרד
+    * Hail
+    * Barad
+* אַרְבֶּה
+    * Locusts
+    * Arbeh
+* חשֶׁךְ
+    * Darkness
+    * Choshech
 * מַכַּת בְּכוֹרוֹת
+    * Slaying of the firstborn
+    * Makat
 # Release Notes
 ## Existing Mechanics
 Finality Counters have returned. When a creature with a Finality Counter on it dies, it is exiled instead of being sent to the graveyard.
