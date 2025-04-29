@@ -60,12 +60,23 @@ Images with an NGA source are credited by us as _Courtesy National Gallery of Ar
     * It's just Satan and his minions.
 * WB, tertiary R: 
 * UR, tertiary G: The Essenes
+    * This group are mystics, and embrace colorful sources.
 * BG, tertiary R: 
 * RG, tertiary B: The Nephilim
+    * This group are giants and you should expect huge creatures here.
 ## The Lands
 Dual lands enter tapped with a stun counter, but they create a treasure token. Dual lands are typed. All ten pairs are represented.
 ## The Plague Cycle
-### מכות מצרים
+###
+* שְׁחִין
+* צְפַרְדֵּעַ
+* כִּנִּים
+* עָרוֹב
+* דֶּבֶר
+* שְׁחִין
+* בָּרָד
+* חֹשֶׁךְ
+* מַכַּת בְּכוֹרוֹת
 # Release Notes
 ## Existing Mechanics
 Finality Counters have returned. When a creature with a Finality Counter on it dies, it is exiled instead of being sent to the graveyard.
