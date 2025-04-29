@@ -7,7 +7,7 @@
         <set>
             <name>BIB</name>
             <longname>The Holy Bible</longname>
-            <settype>Expansion</settype>
+            <settype>Custom</settype>
         </set>
     </sets>
     <cards>
@@ -571,9 +571,9 @@ Put a +1/+1 counter on each of them.</text>
             <chvs>2 Samuel 13</chvs>
         </card>
         <card>
-            <name>דhe Curse of Blood</name>
-            <text>Vanishing 3
-Creatures your opponents control get -1/-1 until end of turn. (This effect is cumulative).
+            <name>Boils</name>
+            <text>Vanishing 2
+Creatures your opponents control gain a -1/-1 counter each turn.
 </text>
         <prop>
             <type>Enchantment</type>
