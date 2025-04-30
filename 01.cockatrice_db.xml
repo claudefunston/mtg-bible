@@ -503,15 +503,17 @@ Create a blood token.</text>
         </card>
         <card>
             <name>Crown of Thorns</name>
-            <text>Equipped creature has -1/-1
+            <text>Equip 0
+Equipped creature has -1/-1
 When a creature is equipped with this artifact, draw a card.
-Equip 0</text>
+</text>
         <prop>
-            <type>Artifact</type>
+            <type>Artifact - Equiptment</type>
             <manacost>2</manacost>
         </prop>
             <set>BIB</set>
-            <tablerow>1</tablerow>
+            <tablerow>2</tablerow>
+            <imgsrc>https://commons.wikimedia.org/wiki/File:Odilon_Redon,_Christ_crowned_with_thorns,_1895.jpg</imgsrc>
         </card>
         <card>
             <name>Shofar</name>
@@ -567,7 +569,7 @@ Put a +1/+1 counter on each of them.</text>
             </prop>
             <set>BIB</set>
             <tablerow>2</tablerow>
-            <imgsrc>https://www.nga.gov/collection/art-object-page.45781.html</imgsrc>
+            <imgsrc>https://en.wikipedia.org/wiki/Absalom#/media/File:Weltchronik_Fulda_Aa88_286r_detail.jpg</imgsrc>
             <chvs>2 Samuel 13</chvs>
         </card>
         <card>
