@@ -581,7 +581,7 @@ Enchant target player. That player’s creatures get a -1/-1 counter each turn.
         </prop>
         </card>
         <set>BIB</set>
-        <tablerow>2</tablerow>
+        <tablerow>1</tablerow>
         <imgsrc>https://en.wikipedia.org/wiki/Plagues_of_Egypt#/media/File:Egyptian_plague_of_boils_in_the_Toggenburg_Bible.jpg</imgsrc>
         <chvs>Exodus 9:8-10</chvs>
         <card>

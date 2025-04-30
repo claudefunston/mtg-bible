@@ -1,16 +1,14 @@
 # Overview
 These are Magic: the Gathering cards based upon the Bible.
 
-We do not endorse, demean, nor otherwise express an opinion on relegion. These cards are a respecful way to engage the Bible as a historical and literary work.
+We do not endorse, intentionally demean, nor otherwise express an opinion on relegion. These cards are a respecful way to engage the Bible as a historical and literary work.
 
 __mtg-bible__ is unofficial Fan Content permitted under Wizards' [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). This content is not approved nor endorsed by Wizards. Portions of the materials herein are property of Wizards of the Coast.
-
-This project welcomes any feedback.
 
 # Usage
 * Install [Cockatrice](https://cockatrice.github.io/).
 * Place `01.cockatrice_db.xml` into your customsets folder.
-* Optionally, if you want to use our images, place them into your custompics folder.
+* Optionally, to use our images, place them into your custompics folder.
 
 You can access either from the Cockatrice UI via the Card Database menu.
 # Contents
@@ -18,21 +16,19 @@ You can access either from the Cockatrice UI via the Card Database menu.
 * `01.cockatrice_db.xml`.
 ## Card Sketches
 * `card_sketches.txt`.
-These are Whiteboarded cards envisioned in an ad-hoc, top-down style. They are presented in a non-standardized format, but mimicking WotC's. They are sufficient to communicate the nature, effects, and idea of each card.
+These are whiteboarded cards envisioned in an ad-hoc, top-down style. They are presented in a non-standardized format, but mimicking WotC's. They are sufficient to communicate the nature and effects of each card.
 
 Once moved to db, cards here are deleted.
 
 ## Images
 ### Recordkeeping and Attribution
-Cards in the db have a non-standard `<imgsrc>` tag to record their origens.
+Cards in the db have an `<imgsrc>` tag to record their origens.
 
 All images are [CC0](https://creativecommons.org/public-domain/cc0/) licensed.
 
-We very much enjoy works from [The National Gallery of Art](https://www.nga.gov/collection/collection-search.html).
+Our usual source is [The National Gallery of Art](https://www.nga.gov/collection/collection-search.html), but any other image in the public domain is certainly under consideration.
 
-Images with an NGA source are credited by us as _Courtesy National Gallery of Art, Washington_.
-
-[The Met](https://www.metmuseum.org/art/collection/search) is a good source as well.
+Images from NGA are hereby credited as _Courtesy National Gallery of Art, Washington_.
 
 ### Raw Images
 * `images_raw`
