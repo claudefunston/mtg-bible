@@ -545,7 +545,7 @@ You gain 2 life.</text>
         </card>
         <card>
             <name>Noah's Blessing</name>
-            <text>Creatures that share a type gain Indestructible until end of turn.
+            <text>Creatures that share a type gain indestructible until end of turn.
 Put a +1/+1 counter on each of them.</text>
             <prop>
                 <type>Instant</type>
@@ -600,6 +600,21 @@ III: Creatures you control gain Indestructible until end of turn.
             <tablerow>2</tablerow>
             <set>BIB</set>
             <imgsrc>https://commons.wikimedia.org/wiki/File:Konrad_Witz_-_Abisai_vor_David_-_Heilsspiegelaltar_Basel.jpg</imgsrc>
+        </card>
+        <card>
+            <name>Bathsheba</name>
+            <text>When this creature enters, Goad one creature for each opponent.
+Deathtouch.</text>
+            <prop>
+                <type>Creature - Human</type>
+                <pt>2/2</pt>
+                <manacost>3B</manacost>
+                <colors>B</colors>
+                <cmc>4</cmc>
+            </prop>
+            <set>BIB</set>
+            <imgsrc>https://www.nga.gov/collection/art-object-page.72070.html</imgsrc>
+            <chvs>2 Samuel 11</chvs>
         </card>
     </cards>
 </cockatrice_carddatabase>
