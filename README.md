@@ -20,13 +20,13 @@ These are whiteboarded cards envisioned in an ad-hoc, top-down style. They are p
 
 Once moved to db, cards here are deleted.
 
-## Images
+## Artwork
 ### Recordkeeping and Attribution
 Cards in the db have an `<imgsrc>` tag to record their origens.
 
-All images are [CC0](https://creativecommons.org/public-domain/cc0/) licensed.
+All images are [CC0](https://creativecommons.org/public-domain/cc0/) licensed or in the public domain.
 
-Our usual source is [The National Gallery of Art](https://www.nga.gov/collection/collection-search.html), but any other image in the public domain is certainly under consideration.
+Our preferred source is [The National Gallery of Art](https://www.nga.gov/collection/collection-search.html).
 
 Images from NGA are hereby credited as _Courtesy National Gallery of Art, Washington_.
 
