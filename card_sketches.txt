@@ -146,10 +146,6 @@ Legendary Land - Plains Forest
 {4}, {T}: Create a 3/3 Angel token with Flying
 {T}: Sacrifice CARDNAME. If you have exactly one life, you win the game.
 
-Limbo
-Legendary Land
-{T}: Add {C}.
-
 Breach the Skylight
 Sorcery
 {2}{U}
@@ -166,9 +162,9 @@ Teach the Elders
 Sorcery
 {2}{R}{G}
 Choose one:
-*Deliver a Lesson*: All creatures gain Inspire.
+*Deliver a Lesson*: All creatures you control gain Inspire.
 *Rebuke*: Legendary creatures get -2/-2 until end of turn.
-*Flip the Table*: Destroy target legendary creature. Create 2 food tokens and Treasure Token.
+*Flip the Table*: Destroy target legendary creature. Create 2 food tokens and treasure token.
 
 Michael
 Creature - Angel
@@ -236,13 +232,6 @@ Creature - Human
 1/3
 Protection from Cats.
 When Daniel enters, create a 1/1 token creature cat with lifelink.
-
-Bathsheba
-Creature - Human
-{3}{B}
-2/2
-When this creature enters, Goad one creature for each opponent.
-Deathtouch.
 
 Joseph, Carpenter
 Creature - Human

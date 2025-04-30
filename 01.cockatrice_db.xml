@@ -616,5 +616,15 @@ Deathtouch.</text>
             <imgsrc>https://www.nga.gov/collection/art-object-page.72070.html</imgsrc>
             <chvs>2 Samuel 11</chvs>
         </card>
+        <card>
+            <name>Limbo</name>
+            <text>T: add C
+If Jesus is on the battlefield, this land taps for any color of mana.</text>
+            <prop>
+                <type>Legendary Land</type>
+            </prop>
+            <set>BIB</set>
+            <imgsrc>https://www.nga.gov/collection/art-object-page.41669.html</imgsrc>
+        </card>
     </cards>
 </cockatrice_carddatabase>
