@@ -65,7 +65,7 @@ Dual lands enter tapped with a stun counter, but they create a treasure token. D
 # Release Notes
 ## Existing Mechanics
 * Finality Counters have returned. When a creature with a Finality Counter on it dies, it is exiled instead of being sent to the graveyard.
-* Commiting a crime has returned.
+* Commiting a crime has returned. You commit a crime in Magic whenever you target an opposing player or their objects, defined as their spells on the stack, their permanents on the battlefield, or cards in their graveyard.
 
 ## New Mechanics and Special Creatures
 We have one new mechanic: Inspire: When an Inspired creature dies, its controller creates a food token.
