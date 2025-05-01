@@ -22,6 +22,7 @@ __mtg-bible__ is unofficial Fan Content permitted under Wizards' [Fan Content Po
 These are whiteboarded cards envisioned in an ad-hoc, top-down style. They are presented in a non-standardized format, but mimicking WotC's. They are sufficient to communicate the nature and effects of each card.
 
 Once moved to db, cards here are deleted.
+## Master Image File
 * `mse_db`
 
 ## Artwork
