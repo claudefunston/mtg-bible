@@ -24,7 +24,7 @@ Once moved to db, cards here are deleted.
 ### Recordkeeping and Attribution
 Cards in the db have an `<imgsrc>` tag to record their origens.
 
-All images are [CC0](https://creativecommons.org/public-domain/cc0/) licensed or in the public domain.
+All images are [CC0](https://creativecommons.org/public-domain/cc0/), or licensed or in the public domain. We prefer if public domain images do not have content attribution requirements.
 
 Our preferred source is [The National Gallery of Art](https://www.nga.gov/collection/collection-search.html).
 
@@ -36,7 +36,8 @@ Images from NGA are hereby credited as _Courtesy National Gallery of Art, Washin
 ### Images
 * `images`
 * Cards are placed into frames using [Magic Set Editor](https://magicseteditor.boards.net/)
-### `mse_db`
+### Magic Set Editor
+* `mse_db`
 # Set Design
 ## Color pairs
 * UB, tertiary R: The Sadducees
@@ -64,8 +65,8 @@ Images from NGA are hereby credited as _Courtesy National Gallery of Art, Washin
 Dual lands enter tapped with a stun counter, but they create a treasure token. Dual lands are typed. All ten pairs are represented.
 # Release Notes
 ## Existing Mechanics
-* Finality Counters have returned. When a creature with a Finality Counter on it dies, it is exiled instead of being sent to the graveyard.
-* Commiting a crime has returned. You commit a crime in Magic whenever you target an opposing player or their objects, defined as their spells on the stack, their permanents on the battlefield, or cards in their graveyard.
+* Finality Counters. When a creature with a Finality Counter on it dies, it is exiled instead of being sent to the graveyard.
+* Commiting a crime. You commit a crime in Magic whenever you target an opposing player or their objects, defined as their spells on the stack, their permanents on the battlefield, or cards in their graveyard.
 
 ## New Mechanics and Special Creatures
 We have one new mechanic: Inspire: When an Inspired creature dies, its controller creates a food token.
@@ -74,8 +75,8 @@ The creature names Jesus, Adam and Eve all have cross-referenced rules text. Ass
 
 There are three new creature types:
 * Donkey. In rules text and cardnames, it should be considered synonymous with ass.
-* Infant.
-* Rooster.
+* Infant
+* Rooster
 
 The Deserter creature type has appeared before on tokens. It is present in this set on a proper creature.
 
@@ -84,15 +85,15 @@ Because this set is both Biblical and Trinitarian in nature, yes, you can target
 For now, יהוה is considered too powerful to include.
 
 ## Zones
-There are three new named zones - Heaven, Hell, and Limbo. The Lands naming them needn't be in play for the zones to exist.
+There are three new named zones - Heaven, Hell, and Limbo. There are cards assocated to each, but they needn't be in play for the zones to exist.
 
-Sending a creature to any of these is not an exile effect (unless specified by another card). Creatures do enter the graveyard before they meet their destiny. In general creatures cannot leave these zones.
+Sending a creature to any is not an exile effect (unless specified by another card). Creatures do enter the graveyard before they meet their destiny.  Creatures cannot leave these zones.
 
-As tokens cease to exist when they enter the graveyard, tokens can't reach these.
+As tokens cease to exist when they enter the graveyard, tokens can't reach them.
 
-Creatures in these zones lose all attributes and abilities apart from type. Specifically, they contribute to devotion, and count for the number of creatures you control.
+Creatures here lose all attributes and abilities apart from type. Specifically, they contribute to devotion, and count for the number of creatures you control.
 
-Just as the exile zone operates, each player has their own version of these zones.
+Just as the exile zone operates, each player has their own version of each.
 
 * When a creature is in Heaven, it gains {T}: Add 2 life.
 * When a creature is in Hell, it gains {T}: Add B or R. You lose two life.
@@ -104,8 +105,8 @@ Think of your favorite Biblical hero or event and get cracking.
 
 Some considerations:
 * Absolutely no advocation nor condoning of sexual violence.
-* Smiting sinful individuals and Armogeddening an entire city are acceptable acts and concepts, as are horrible diseases, plagues and Divine mind control.
-* No insulting of Christianity nor Judaism. We are not here to emphasize any negative effects of these traditions. Judas did something bad but he makes for a good card.
+* Smiting sinful individuals and Armogeddening an entire city are acceptable acts and concepts, as are horrible diseases, plagues and divine mind control.
+* Absolutely no insulting of Christianity nor Judaism. We are not here to emphasize any negative effects of these traditions. Judas did something bad but he makes for a good card.
 * Deuterocanonical works are gladly included; Apocrypha are not. Maybe for the expansion.
 * Cards can suggest, imply or compel that a character made a choice not described in the Bible if it makes a better card or produces interesting thought.
 ## Make some Art
