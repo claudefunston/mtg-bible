@@ -26,7 +26,7 @@ Once moved to db, cards here are deleted.
 ### Recordkeeping and Attribution
 Cards in the db have an `<imgsrc>` tag to record their origins.
 
-All images are [CC0](https://creativecommons.org/public-domain/cc0/), or licensed or in the public domain. We prefer if public domain images do not have content attribution requirements.
+All images are [CC0](https://creativecommons.org/public-domain/cc0/), or licensed in the public domain with sufficient permissions. We prefer if public domain images do not have content attribution requirements.
 
 Our preferred source is [The National Gallery of Art](https://www.nga.gov/collection/collection-search.html).
 
