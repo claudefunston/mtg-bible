@@ -619,7 +619,7 @@ Deathtouch.</text>
         <card>
             <name>Limbo</name>
             <text>T: add C
-If Jesus is on the battlefield, this land taps for any color of mana.</text>
+If Jesus is on the battlefield, this land taps for any mana color</text>
             <prop>
                 <type>Legendary Land</type>
             </prop>
