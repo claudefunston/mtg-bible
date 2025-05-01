@@ -11,15 +11,17 @@ __mtg-bible__ is unofficial Fan Content permitted under Wizards' [Fan Content Po
 * Clone me
 * Install [Cockatrice](https://cockatrice.github.io/)
 * Place `01.cockatrice_db.xml` into your customsets folder
-* Optionally, to use our images, place them into your custompics folder. Otherwise, use your own. ADHERE TO OUR LEGAL ATTRIBUTION POLICIES, DESCRIBED BELOW AND ABOVE
+* Optionally, to use our images, place them into your custompics folder. Otherwise, use your own. ADHERE TO OUR LEGAL ATTRIBUTION POLICIES, DESCRIBED BELOW AND ABOVE. 
+    * We believe that artwork should be for the public, but we adhere to the rights their authors intended
     * You can access either folder from the Cockatrice UI via the Card Database menu
 * To edit card images, use [Magic Set Editor](https://magicseteditor.boards.net/)
     * It is best practice to coordinate the Cockatrice db with this file
+* Any imagas that are not on display at their respective galleries are given priority. We believe that the public should have all access and all use to artworks, but understand that creative rights are necessary
 # Contents
 ## db 
-* `01.cockatrice_db.xml`.
+* `01.cockatrice_db.xml`
 ## Card Sketches
-* `card_sketches.txt`.
+* `card_sketches.txt`
 These are whiteboarded cards envisioned in an ad-hoc, top-down style. They are presented in a non-standardized way, but mimicking WotC's closely. The format is sufficient to communicate the nature and effects of each card
 
 Once moved to db, card descriptions are deleted. This folder is intended to be deprecated
