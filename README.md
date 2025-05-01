@@ -106,7 +106,7 @@ Think of your favorite Biblical hero or event and get cracking.
 Some considerations:
 * Absolutely no advocation nor condoning of sexual violence.
 * Smiting sinful individuals and Armogeddening an entire city are acceptable acts and concepts, as are horrible diseases, plagues and divine mind control.
-* Absolutely no insulting of Christianity nor Judaism. We are not here to emphasize any negative effects of these traditions. Judas did something bad but he makes for a good card.
+* Absolutely no insulting of Christianity nor Judaism, nor any other faith. We are not here to emphasize any negative effects of any traditions. Judas did something bad but he makes for a good card.
 * Deuterocanonical works are gladly included; Apocrypha are not. Maybe for the expansion.
 * Cards can suggest, imply or compel that a character made a choice not described in the Bible if it makes a better card or produces interesting thought.
 ## Make some Art
