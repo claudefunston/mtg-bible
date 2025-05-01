@@ -64,7 +64,8 @@ Images from NGA are hereby credited as _Courtesy National Gallery of Art, Washin
 Dual lands enter tapped with a stun counter, but they create a treasure token. Dual lands are typed. All ten pairs are represented.
 # Release Notes
 ## Existing Mechanics
-Finality Counters have returned. When a creature with a Finality Counter on it dies, it is exiled instead of being sent to the graveyard.
+* Finality Counters have returned. When a creature with a Finality Counter on it dies, it is exiled instead of being sent to the graveyard.
+* Commiting a crime has returned.
 
 ## New Mechanics and Special Creatures
 We have one new mechanic: Inspire: When an Inspired creature dies, its controller creates a food token.
@@ -85,7 +86,9 @@ For now, יהוה is considered too powerful to include.
 ## Zones
 There are three new named zones - Heaven, Hell, and Limbo. The Lands naming them needn't be in play for the zones to exist.
 
-Sending a creature to any of these is not an exile effect (unless specified by another card). Creatures do enter the graveyard before they meet their destiny. As tokens cease to exist when they enter the graveyard, tokens can't reach these zones.
+Sending a creature to any of these is not an exile effect (unless specified by another card). Creatures do enter the graveyard before they meet their destiny. In general creatures cannot leave these zones.
+
+As tokens cease to exist when they enter the graveyard, tokens can't reach these.
 
 Creatures in these zones lose all attributes and abilities apart from type. Specifically, they contribute to devotion, and count for the number of creatures you control.
 
@@ -102,12 +105,15 @@ Think of your favorite Biblical hero or event and get cracking.
 Some considerations:
 * Absolutely no advocation nor condoning of sexual violence.
 * Smiting sinful individuals and Armogeddening an entire city are acceptable acts and concepts, as are horrible diseases, plagues and Divine mind control.
+* No insulting of Christianity nor Judaism. We are not here to emphasize horror stories.
 * Deuterocanonical works are gladly included; Apocrypha are not. Maybe for the expansion.
 * Cards can suggest, imply or compel that a character made a choice not described in the Bible if it makes a better card or produces interesting thought.
 ## Make some Art
 Either find a CC0 source, or draw something of your own.
 ## Balance the Wheels
 This set needs organization, and a skeleton to take the cards from isolated ideas into a proper system. Rarity is currently ambiguous.
+
+A system for managing card numbering would be particularly helpful.
 
 # Biblcal Translations
 We are by and large translation agnostic, because meaning can be difficult to decipher if you don't know Hebrew and Greek (&c). The purpose of this set is to produce fun, not communicate Theology.
