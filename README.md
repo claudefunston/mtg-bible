@@ -13,7 +13,8 @@ __mtg-bible__ is unofficial Fan Content permitted under Wizards' [Fan Content Po
 * Place `01.cockatrice_db.xml` into your customsets folder (required).
 * Optionally, to use our images, place them into your custompics folder. Otherwise, use your own.
     * You can access either from the Cockatrice UI via the Card Database menu.
-* To have an alternate method of interface, install [Magic Set Editor](https://magicseteditor.boards.net/) and load the MSE DB.
+* To edit card actual card images, use [Magic Set Editor](https://magicseteditor.boards.net/).
+    * It is best practice to coordinate the Cockatrice db with this file.
 # Contents
 ## db 
 * `01.cockatrice_db.xml`.
