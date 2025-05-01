@@ -575,23 +575,21 @@ Put a +1/+1 counter on each of them.</text>
         <card>
             <name>Boils</name>
             <text>Vanishing 3
-Enchant target player. That player’s creatures get a -1/-1 counter each turn.
-</text>
+Enchant target player. That player’s creatures get a -1/-1 counter each turn.</text>
         <prop>
             <type>Enchantment - Curse</type>
             <manacost>1BR</manacost>
         </prop>
+			<set>BIB</set>
+			<tablerow>1</tablerow>
+			<imgsrc>https://en.wikipedia.org/wiki/Plagues_of_Egypt#/media/File:Egyptian_plague_of_boils_in_the_Toggenburg_Bible.jpg</imgsrc>
+			<chvs>Exodus 9:8-10</chvs>
         </card>
-        <set>BIB</set>
-        <tablerow>1</tablerow>
-        <imgsrc>https://en.wikipedia.org/wiki/Plagues_of_Egypt#/media/File:Egyptian_plague_of_boils_in_the_Toggenburg_Bible.jpg</imgsrc>
-        <chvs>Exodus 9:8-10</chvs>
-        <card>
+		<card>
             <name>David's Mighty Men</name>
             <text>I: Create 3 1/1 Human Soldier Tokens
 II: Choose one: Create a 3/2 Avatar Token named Ishbaal; Create a 1/4 Human Token named Eleazer, or Create a 2/2 Human Druid named Shammah.
-III: Creatures you control gain Indestructible until end of turn.
-</text>
+III: Creatures you control gain Indestructible until end of turn.</text>
             <prop>
                 <type>Enchantment - Saga</type>
                 <manacost>2WW</manacost>
@@ -601,7 +599,7 @@ III: Creatures you control gain Indestructible until end of turn.
             <set>BIB</set>
             <imgsrc>https://commons.wikimedia.org/wiki/File:Konrad_Witz_-_Abisai_vor_David_-_Heilsspiegelaltar_Basel.jpg</imgsrc>
         </card>
-        <card>
+		<card>
             <name>Bathsheba</name>
             <text>When this creature enters, Goad one creature for each opponent.
 Deathtouch.</text>
@@ -616,7 +614,7 @@ Deathtouch.</text>
             <imgsrc>https://www.nga.gov/collection/art-object-page.72070.html</imgsrc>
             <chvs>2 Samuel 11</chvs>
         </card>
-        <card>
+		<card>
             <name>Limbo</name>
             <text>T: add C
 If Jesus is on the battlefield, this land taps for any mana color</text>
@@ -629,7 +627,7 @@ If Jesus is on the battlefield, this land taps for any mana color</text>
         <card>
             <name>Herod the Great</name>
             <text>Flying, trample
-1, {RR}: Destroy all creatures with power 2 or less
+1, RR: Destroy all creatures with power 2 or less
 Creatures your opponents control have hexproof</text>
                 <prop>
                     <type>Creature - King</type>
