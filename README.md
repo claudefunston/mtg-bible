@@ -8,11 +8,12 @@ We strongly discourage any disparaging references to Christianity, Judaism, or a
 __mtg-bible__ is unofficial Fan Content permitted under Wizards' [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). This content is not approved nor endorsed by Wizards. Portions of the materials herein are property of Wizards of the Coast.
 
 # Usage
+* Clone me
 * Install [Cockatrice](https://cockatrice.github.io/).
-* Place `01.cockatrice_db.xml` into your customsets folder.
-* Optionally, to use our images, place them into your custompics folder
-
-You can access either from the Cockatrice UI via the Card Database menu.
+* Place `01.cockatrice_db.xml` into your customsets folder (required).
+* Optionally, to use our images, place them into your custompics folder. Otherwise, use your own.
+    * You can access either from the Cockatrice UI via the Card Database menu.
+* To have an alternate method of interface, install [Magic Set Editor](https://magicseteditor.boards.net/) and load the MSE DB.
 # Contents
 ## db 
 * `01.cockatrice_db.xml`.
@@ -21,6 +22,7 @@ You can access either from the Cockatrice UI via the Card Database menu.
 These are whiteboarded cards envisioned in an ad-hoc, top-down style. They are presented in a non-standardized format, but mimicking WotC's. They are sufficient to communicate the nature and effects of each card.
 
 Once moved to db, cards here are deleted.
+* `mse_db`
 
 ## Artwork
 ### Recordkeeping and Attribution
@@ -112,7 +114,7 @@ Some considerations:
 * Deuterocanonical works are gladly included; Apocrypha are not. Maybe for the expansion.
 * Cards can suggest, imply or compel that a character made a choice not described in the Bible if it makes a better card or produces interesting thought.
 ## Make some Art
-Either find a CC0 source, or draw something of your own.
+Either find a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something of your own and we can talk.
 ## Balance the Wheels
 This set needs organization, and a skeleton to take the cards from isolated ideas into a proper system. Rarity is currently ambiguous.
 
