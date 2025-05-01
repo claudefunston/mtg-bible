@@ -105,7 +105,7 @@ Think of your favorite Biblical hero or event and get cracking.
 Some considerations:
 * Absolutely no advocation nor condoning of sexual violence.
 * Smiting sinful individuals and Armogeddening an entire city are acceptable acts and concepts, as are horrible diseases, plagues and Divine mind control.
-* No insulting of Christianity nor Judaism. We are not here to emphasize horror stories.
+* No insulting of Christianity nor Judaism. We are not here to emphasize any negative effects of these traditions. Judas did something bad but he makes for a good card.
 * Deuterocanonical works are gladly included; Apocrypha are not. Maybe for the expansion.
 * Cards can suggest, imply or compel that a character made a choice not described in the Bible if it makes a better card or produces interesting thought.
 ## Make some Art
@@ -116,10 +116,10 @@ This set needs organization, and a skeleton to take the cards from isolated idea
 A system for managing card numbering would be particularly helpful.
 
 # Biblcal Translations
-We are by and large translation agnostic, because meaning can be difficult to decipher if you don't know Hebrew and Greek (&c). The purpose of this set is to produce fun, not communicate Theology.
+We are by and large translation agnostic, because meaning can be difficult to decipher if you don't know some version of Hebrew or Greek (&c). The purpose of this set is to produce fun, not communicate Theology.
 
-The primary author of this Set uses [RSVCE](https://www.biblegateway.com/versions/Revised-Standard-Version-Catholic-Edition-RSVCE-Bible/).
+The primary author of this set uses [RSVCE](https://www.biblegateway.com/versions/Revised-Standard-Version-Catholic-Edition-RSVCE-Bible/) but is certainly open to discussion.
 
 We adopt the stance that characters adhere to the loosely-defined concept of "what the populace understands about this person or story."
 ## Citations
-Whenever sensible, we attach a custom tag to cards: `<chvs>`. Chapter and verse. Consistency between Acts and the Synoptic Gospels is not always guaranteed. These tags have no gameplay effect.
+Whenever sensible, we attach a tag to cards: `<chvs>`. Chapter and verse. Consistency between Acts and the Synoptic Gospels is not always guaranteed. These tags have no gameplay effect.
