@@ -1,8 +1,10 @@
 # Overview
-These are Magic: the Gathering cards based upon the Bible.
+These are Magic: the Gathering cards based upon the Bible
 
-We do not endorse, intentionally demean, nor otherwise express an opinion on relegion. These cards are a respecful way to engage the Bible as a historical and literary work.
+We do not endorse, intentionally demean, nor otherwise express an opinion on relegion. These cards are a meant as a respecful way to engage the Bible as a historical and literary work
 
+We strongly discourage any disparaging references to Christianity, Judaism, or any other Faith. If you contribute, we reserve the right at our sole discretion to reject any card or concept violating that principle
+ 
 __mtg-bible__ is unofficial Fan Content permitted under Wizards' [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). This content is not approved nor endorsed by Wizards. Portions of the materials herein are property of Wizards of the Coast.
 
 # Usage
@@ -105,8 +107,8 @@ Think of your favorite Biblical hero or event and get cracking.
 
 Some considerations:
 * Absolutely no advocation nor condoning of sexual violence.
-* Smiting sinful individuals and Armogeddening an entire city are acceptable acts and concepts, as are horrible diseases, plagues and divine mind control.
-* Absolutely no insulting of Christianity nor Judaism, nor any other faith. We are not here to emphasize any negative effects of any traditions. Judas did something bad but he makes for a good card.
+* Smiting sinful individuals and Armogeddening an entire city are acceptable acts and concepts, as are horrible diseases, plagues and divine mind control
+* Absolutely no insulting of any faith
 * Deuterocanonical works are gladly included; Apocrypha are not. Maybe for the expansion.
 * Cards can suggest, imply or compel that a character made a choice not described in the Bible if it makes a better card or produces interesting thought.
 ## Make some Art
