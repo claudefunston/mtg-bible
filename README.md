@@ -1,22 +1,22 @@
 # Overview
 These are Magic: the Gathering cards based upon the Bible
 
-We do not endorse, intentionally demean, nor otherwise express an opinion on relegion. These cards are a meant as a respecful way to engage the Bible as a historical and literary work.
+We do not endorse, intentionally demean, nor otherwise express an opinion on any relegion. 
 
-We strongly discourage any disparaging references to Christianity, Judaism, or any other Faith. If you contribute, we reserve the right at our sole discretion to reject any card or concept violating that principle.
+These cards are a meant as a respecful way to engage the Bible as a historical and literary work
+
+We strongly discourage any disparaging references to Christianity, Judaism, or any other Faith. If you contribute, we reserve the right at our sole discretion to reject any card or concept violating that principle
  
 __mtg-bible__ is unofficial Fan Content permitted under Wizards' [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). This content is not approved nor endorsed by Wizards. Portions of the materials herein are property of Wizards of the Coast.
 
 # Usage
-* Clone me
 * Install [Cockatrice](https://cockatrice.github.io/)
 * Place `01.cockatrice_db.xml` into your customsets folder
-* Optionally, to use our images, place them into your custompics folder. Otherwise, use your own. ADHERE TO OUR LEGAL ATTRIBUTION POLICIES, DESCRIBED BELOW AND ABOVE. 
-    * We believe that artwork should be for the public, but we adhere to the rights their authors intended
-    * You can access either folder from the Cockatrice UI via the Card Database menu
+* Optionally, to use our images, place them into your custompics folder. Otherwise, use your own. ADHERE TO OUR LEGAL ATTRIBUTION POLICIES, DESCRIBED BELOW AND ABOVE
+    * We believe that artwork should be free for the public, but we adhere to the rights authors intended and understand that copyright law does not allow us to do so
 * To edit card images, use [Magic Set Editor](https://magicseteditor.boards.net/)
-    * It is best practice to coordinate the Cockatrice db with this file
-* Any imagas that are not on display at their respective galleries are given priority. We believe that the public should have all access and all use to artworks, but understand that creative rights are necessary
+    * Coordinate the Cockatrice db with this file
+    * Any imagas that are not on current display at their respective galleries are given priority, in order to increase publicity. We believe that the public should have access and use to artworks, but we understand that rights are necessary
 # Contents
 ## db 
 * `01.cockatrice_db.xml`
