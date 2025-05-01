@@ -91,7 +91,7 @@ Sending a creature to any is not an exile effect (unless specified by another ca
 
 As tokens cease to exist when they enter the graveyard, tokens can't reach them
 
-Creatures here lose all attributes and abilities apart from type. Specifically, they contribute to devotion, and count for the number of creatures you control
+Creatures in these zones lose all attributes and abilities apart from type. Specifically, they contribute to devotion, and count for the number of creatures you control
 
 Just as the exile zone operates, each player has their own version of each
 
