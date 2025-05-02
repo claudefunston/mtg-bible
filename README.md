@@ -26,7 +26,7 @@ If there's an option, we give priority to works not currently on display at thei
 
 ### Raw Images
 * `images_raw`
-* These are cropped from `<imgsrc>`. It is a recordkeeping mechanism
+* These are details cropped from `<imgsrc>`
 ### Images
 * `images`
 * Cards have been placed into frames using [Magic Set Editor](https://magicseteditor.boards.net/)

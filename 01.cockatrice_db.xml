@@ -587,7 +587,7 @@ Enchant target player. That player’s creatures get a -1/-1 counter each turn.<
         </card>
 		<card>
             <name>David's Mighty Men</name>
-            <text>I: Create 3 1/1 Human Soldier Tokens
+            <text>I: Create 3 1/1 Human Soldier Tokens.
 II: Choose one: Create a 3/2 Avatar Token named Ishbaal; Create a 1/4 Human Token named Eleazer, or Create a 2/2 Human Druid named Shammah.
 III: Creatures you control gain Indestructible until end of turn.</text>
             <prop>
@@ -617,7 +617,7 @@ Deathtouch.</text>
 		<card>
             <name>Limbo</name>
             <text>T: add C
-If Jesus is on the battlefield, this land taps for any mana color</text>
+If Jesus is on the battlefield, this land taps for any mana color.</text>
             <prop>
                 <type>Legendary Land</type>
             </prop>
@@ -628,7 +628,7 @@ If Jesus is on the battlefield, this land taps for any mana color</text>
             <name>Herod the Great</name>
             <text>Trample
 1, RR: Destroy all creatures with power 2 or less. When you activate this ability,
-creatures your opponents control have hexproof until this creature leaves the battlefield</text>
+creatures your opponents control have hexproof until this creature leaves the battlefield.</text>
                 <prop>
                     <type>Legendary Creature - Human Noble</type>
                     <pt>4/5</pt>
@@ -642,7 +642,7 @@ creatures your opponents control have hexproof until this creature leaves the ba
             <name>Satan's Acolyte</name>
             <text>At the beginning of your combat step, create a 1/1 red devil creature tapped and attacking. 
 It deals 1 damage to any target when it enters. 
-Sacrifice that creature at the beginning of your next end step</text>
+Sacrifice that creature at the beginning of your next end step.</text>
             <prop>
                 <type>Creature - Devil</type>
                 <pt>2/2</pt>
@@ -653,10 +653,11 @@ Sacrifice that creature at the beginning of your next end step</text>
         </card>
         <card>
             <name>Frogs</name>
-            <text>Vanishing 2
-Enchant targey player. They create a 1/1 Frog Token.
-At the beginning of Enchanted player's upkeep, they put a -1/-1 counter on each creature for every Frog they control.
-2: Proliforate</text>
+            <text>Vanishing 4
+Enchant target player.
+When this enchantment enters and on enchanted players draw step, they create a 1/1 green frog token with deathtouch.
+On enchanted player’s end step, they lose a life for each frog they control.
+When this enchantment leaves the battlefield, destroy all frogs.
         <prop>
             <type>Enchantment - Curse</type>
             <manacost>BG</manacost>
@@ -664,7 +665,7 @@ At the beginning of Enchanted player's upkeep, they put a -1/-1 counter on each 
         </prop>
             <set>BIB</set>
             <chvs>Exodus 8:1–4</chvs>
-            <imgsrc>https://www.nga.gov/artworks/43812-frog</imgsrc>
+            <imgsrc>https://www.metmuseum.org/art/collection/search/384451</imgsrc>
         </card>
     </cards>
 </cockatrice_carddatabase>
