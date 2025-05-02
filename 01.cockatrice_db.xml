@@ -626,14 +626,14 @@ If Jesus is on the battlefield, this land taps for any mana color</text>
         </card>
         <card>
             <name>Herod the Great</name>
-            <text>Flying, trample
-1, RR: Destroy all creatures with power 2 or less
-Creatures your opponents control have hexproof</text>
+            <text>Trample
+1, RR: Destroy all creatures with power 2 or less. When you activate this ability,
+creatures your opponents control have hexproof until this creature leaves the battlefield</text>
                 <prop>
-                    <type>Creature - King</type>
+                    <type>Legendary Creature - Human Noble</type>
                     <pt>4/5</pt>
-                    <manacost>WURR</manacost>
-                    <colors>WUR</colors>
+                    <manacost>WRR</manacost>
+                    <colors>WR</colors>
                 </prop>
                 <set>BIB</set>
                 <imgsrc>https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_The_Magi_in_the_House_of_Herod_(Les_rois_mages_chez_H%C3%A9rode)_-_James_Tissot.jpg</imgsrc>

@@ -123,7 +123,7 @@ Some considerations:
 Find a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something of your own.
 ## Balance the Wheels
 This set needs a skeleton to take the cards from isolated ideas into a proper system. Rarity is currently ambiguous.
-
+## Edit templating
 # Biblcal Translations
 We are open to many, because meaning can be difficult to decipher if you don't know Hebrew nor Greek of some variety. The purpose of this set is to produce fun, not communicate Theology.
 
