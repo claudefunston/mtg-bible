@@ -113,20 +113,18 @@ Think of your favorite Biblical hero or event
 
 Some considerations:
 * Absolutely no advocation nor condoning of sexual violence
-* Absolutely no direct insults nor advocation of Christianity, Judaism, nor any another Faith. We reserve the right at our sole discrection to enforce this policy
+* Absolutely no direct insults nor advocation of Christianity, Judaism, nor any another faith or creed. We reserve the right at our sole discrection to enforce this policy
 * Smiting sinful individuals and Armogeddening an entire city are acceptable concepts to describe in cards. As are horrible diseases, plagues and divine mind control
-* Deuterocanonical works are gladly included but avoid apocrypha
-* Cards can suggest, imply or compel that a character made a choice not precisely described in the Bible if it makes a better card or produces an interesting thought
-    * For example: Peter can choose to not deny Christ
+* Deuterocanonical works are gladly allowed but Apocrypha are not
 ## Make some Art
 Find a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something of your own.
 ## Balance the Wheels
 This set needs a skeleton to take the cards from isolated ideas into a proper system. Rarity is currently ambiguous.
 ## Edit templating
 # Biblcal Translations
-We are open to many, because meaning can be difficult to decipher if you don't know Hebrew nor Greek of some variety. The purpose of this set is to produce fun, not communicate Theology.
+We are open to any, because meaning can be difficult to decipher if you don't know Hebrew nor Greek. The purpose of this set is to be fun, not communicate theology
 
-The primary author of this set uses [RSVCE](https://www.biblegateway.com/versions/Revised-Standard-Version-Catholic-Edition-RSVCE-Bible/) but is certainly open to discussion.
+The primary author of this set uses [RSVCE](https://www.biblegateway.com/versions/Revised-Standard-Version-Catholic-Edition-RSVCE-Bible/)
 
 ## Citations
- Chapter and Verse: `<chvs>` -  is an optional but preferred tag.
+ Chapter and Verse: `<chvs>`. The primary passage associated with each card. This has no effect on gameplay
