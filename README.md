@@ -17,8 +17,6 @@ __mtg-bible__ is unofficial Fan Content permitted under Wizards' [Fan Content Po
 ## Card Sketches
 * `card_sketches.txt`
 These are whiteboarded cards envisioned in an ad-hoc, top-down style. They are presented in a non-standardized way, but mimicking WotC's closely. The format is sufficient to communicate the nature and effects of each card
-
-Once properly defind in the db, card descriptions are deleted
 ## Master Image File
 * `mse_db`
 
