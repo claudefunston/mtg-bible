@@ -1,35 +1,35 @@
 # Overview
-* Magic: the Gathering cards based upon the Bible
-* We do not endorse, intentionally demean, nor otherwise express an opinion towards any religion
-* These cards are a meant as a respectful way to engage the Bible as a historical and literary work
-* __mtg-bible__ is unofficial Fan Content permitted under Wizards' [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). This content is not approved nor endorsed by Wizards. Portions of the materials herein are property of Wizards of the Coast
+* Magic: the Gathering cards based upon the Bible.
+* We do not endorse, intentionally demean, nor otherwise express an opinion towards any religion.
+* These cards are a meant as a respectful way to engage the Bible as a historical and literary work.
+* __mtg-bible__ is unofficial Fan Content permitted under Wizards' [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). This content is not approved nor endorsed by Wizards. Portions of the materials herein are property of Wizards of the Coast.
 
 # Usage
-* Install [Cockatrice](https://cockatrice.github.io/)
-* Place `01.cockatrice_db.xml` into your customsets folder
-* Optionally, to use our images, place them into your custompics folder
+* Install [Cockatrice](https://cockatrice.github.io/).
+* Place `01.cockatrice_db.xml` into your customsets folder.
+* Optionally, to use our images, place them into your custompics folder.
 # Contents
 ## db 
 * `01.cockatrice_db.xml`
 ## Card Sketches
 * `card_sketches.txt`
-These are whiteboarded cards envisioned in an ad-hoc, top-down style. They are presented in a non-standardized way, but mimicking WotC's closely. The format is sufficient to communicate the nature and effects of each card
+These are whiteboarded cards envisioned in an ad-hoc, top-down style. They are presented in a non-standardized way, but mimicking WotC's closely. The format is sufficient to communicate the nature and effects of each card.
 ## Artwork
 ### Recordkeeping and Attribution
-Cards in the db have an `<imgsrc>` tag to record their origins
+Cards in the db have an `<imgsrc>` tag to record their origins.
 
 All images are [CC0](https://creativecommons.org/public-domain/cc0/) licenced or in the public domain
 
-Our preferred source is [The National Gallery of Art](https://www.nga.gov/collection/collection-search.html). Images used from NGA are hereby credited as _Courtesy National Gallery of Art, Washington_
+Our preferred source is [The National Gallery of Art](https://www.nga.gov/collection/collection-search.html). Images used from NGA are hereby credited as _Courtesy National Gallery of Art, Washington_.
 
-If there's an option, we give priority to works not currently on display at their respective institutions
+If there's an option, we give priority to works not currently on display at their respective institutions.
 
 ### Raw Images
 * `images_raw`
 * These are details cropped from `<imgsrc>`
 ### Images
 * `images`
-* Cards have been placed into frames using [Magic Set Editor](https://magicseteditor.boards.net/)
+* Cards have been placed into frames using [Magic Set Editor](https://magicseteditor.boards.net/).
 ### MSE
 * `mse_db`
 # Set Design
@@ -62,13 +62,13 @@ Dual lands enter tapped with a stun counter, but they create a treasure token. D
 * Frogs - BG
 # Release Notes
 ## Existing Mechanics
-* Finality Counters. When a creature with a Finality Counter on it dies, it is exiled instead of being sent to the graveyard
-* Commiting a crime. You commit a crime in Magic whenever you target an opposing player or their objects, defined as their spells on the stack, their permanents on the battlefield, or cards in their graveyard
+* Finality Counters. When a creature with a Finality Counter on it dies, it is exiled instead of being sent to the graveyard.
+* Commiting a crime. You commit a crime in Magic whenever you target an opposing player or their objects, defined as their spells on the stack, their permanents on the battlefield, or cards in their graveyard.
 
 ## New Mechanics and Special Creatures
-We have one new mechanic: Inspire: When an Inspired creature dies, its controller creates a food token
+We have one new mechanic: Inspire: When an Inspired creature dies, its controller creates a food token.
 
-The creature names Jesus, Adam and Eve all have cross-referenced rules text. Assume that the infant you created and the very powerful grownup Jesus are the same person (Teenager schooling the temple, too)
+The creature names Jesus, Adam and Eve all have cross-referenced rules text. Assume that the infant you created and the very powerful grownup Jesus are the same person (Teenager schooling the temple, too).
 
 There are three new creature types:
 * Donkey. In rules text and cardnames, it should be considered synonymous with ass
@@ -77,36 +77,36 @@ There are three new creature types:
 
 The Deserter creature type has appeared before on tokens. It is present in this set on a proper creature
 
-Because this set is both Biblical and Trinitarian in nature, yes, you can target Jesus with a spell that wants to target the Holy Spirit
+Because this set is both Biblical and Trinitarian in nature, yes, you can target Jesus with a spell that wants to target the Holy Spirit.
 
-For now, יהוה is considered too powerful to include
+For now, יהוה is considered too powerful to include.
 
 ## Zones
-There are three new named zones - Heaven, Hell, and Limbo. There are cards associated to each, but they needn't be in play for the zones to exist
+There are three new named zones - Heaven, Hell, and Limbo. There are cards associated to each, but they needn't be in play for the zones to exist.
 
-Sending a creature to any is not an exile effect (unless specified by another card). Creatures do enter the graveyard before they meet their destiny.  Creatures cannot leave these zones
+Sending a creature to any is not an exile effect (unless specified by another card). Creatures do enter the graveyard before they meet their destiny.  Creatures cannot leave these zones.
 
-As tokens cease to exist at a time just after entering the graveyard, tokens can't reach them
+As tokens cease to exist at a time just after entering the graveyard, tokens can't reach them.
 
-Creatures in these zones lose all attributes and abilities apart from type. Specifically, they contribute to devotion, and count for the number of creatures you control
+Creatures in these zones lose all attributes and abilities apart from type. Specifically, they contribute to devotion, and count for the number of creatures you control.
 
-Just as the exile zone operates, each player has their own version of each
+Just as the exile zone operates, each player has their own version of each.
 
-* When a creature is in Heaven, it gains {T}: Add 2 life
-* When a creature is in Hell, it gains {T}: Add B or R. You lose two life
-* When a creature is in Limbo, it gains {T}: Add {C}
+* When a creature is in Heaven, it gains {T}: Add 2 life.
+* When a creature is in Hell, it gains {T}: Add B or R. You lose two life.
+* When a creature is in Limbo, it gains {T}: Add {C}.
 
 # Contributing
 ## Design a card
 Some considerations:
 * Absolutely no advocation nor condoning of sexual violence
-* Absolutely no direct insults nor advocation of Christianity, Judaism, nor any another faith or creed. We reserve the right at our sole discrection to enforce this policy
-* Smiting sinful individuals and Armogeddening an entire city are acceptable concepts to describe in cards. As are horrible diseases, plagues and divine mind control
-* Deuterocanonical works are gladly allowed but Apocrypha are not
+* Absolutely no direct insults nor advocation of Christianity, Judaism, nor any another faith or creed. We reserve the right at our sole discrection to enforce this policy.
+* Smiting sinful individuals and Armogeddening an entire city are acceptable concepts to describe in cards. As are horrible diseases, plagues and divine mind control.
+* Deuterocanonical works are gladly allowed but Apocrypha are not.
 ## Find some Art
 Find a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something of your own
-
-Refining MSE output would be helpful as well
+## General QC, templating, and consistency
+Magic rules change and so does formatting.
 ## Balance the Wheels
 This set needs a skeleton to take the cards from isolated ideas into a proper set.
 # Biblcal Translations
