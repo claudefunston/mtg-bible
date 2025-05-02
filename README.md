@@ -7,16 +7,13 @@ These cards are a meant as a respecful way to engage the Bible as a historical a
 
 We strongly discourage any disparaging references to Christianity, Judaism, or any other Faith. If you contribute, we reserve the right at our sole discretion to reject any card or concept violating that principle
  
-__mtg-bible__ is unofficial Fan Content permitted under Wizards' [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). This content is not approved nor endorsed by Wizards. Portions of the materials herein are property of Wizards of the Coast.
+__mtg-bible__ is unofficial Fan Content permitted under Wizards' [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). This content is not approved nor endorsed by Wizards. Portions of the materials herein are property of Wizards of the Coast
 
 # Usage
 * Install [Cockatrice](https://cockatrice.github.io/)
 * Place `01.cockatrice_db.xml` into your customsets folder
-* Optionally, to use our images, place them into your custompics folder. Otherwise, use your own. ADHERE TO OUR LEGAL ATTRIBUTION POLICIES, DESCRIBED BELOW AND ABOVE
-    * We believe that artwork should be free for the public, but we adhere to the rights authors intended and understand that copyright law does not allow us to do so
+* Optionally, to use our images, place them into your custompics folder
 * To edit card images, use [Magic Set Editor](https://magicseteditor.boards.net/)
-    * Coordinate the Cockatrice db with this file
-    * Any imagas that are not on current display at their respective galleries are given priority, in order to increase publicity. We believe that the public should have access and use to artworks, but we understand that rights are necessary
 # Contents
 ## db 
 * `01.cockatrice_db.xml`
@@ -24,7 +21,7 @@ __mtg-bible__ is unofficial Fan Content permitted under Wizards' [Fan Content Po
 * `card_sketches.txt`
 These are whiteboarded cards envisioned in an ad-hoc, top-down style. They are presented in a non-standardized way, but mimicking WotC's closely. The format is sufficient to communicate the nature and effects of each card
 
-Once moved to db, card descriptions are deleted. This folder is intended to be deprecated
+Once properly defind in the db, card descriptions are deleted
 ## Master Image File
 * `mse_db`
 
@@ -34,9 +31,9 @@ Cards in the db have an `<imgsrc>` tag to record their origins
 
 All images are [CC0](https://creativecommons.org/public-domain/cc0/), or licensed in the public domain with sufficient permissions. We prefer if public domain images do not have content attribution requirements
 
-Our preferred source is [The National Gallery of Art](https://www.nga.gov/collection/collection-search.html).
+Our preferred source is [The National Gallery of Art](https://www.nga.gov/collection/collection-search.html), and images from NGA are hereby credited as _Courtesy National Gallery of Art, Washington_
 
-Images from NGA are hereby credited as _Courtesy National Gallery of Art, Washington_
+If there's an option, we give priority to works not currently on display
 
 ### Raw Images
 * `images_raw`
@@ -71,6 +68,9 @@ Images from NGA are hereby credited as _Courtesy National Gallery of Art, Washin
     * This group are giants and you should expect huge creatures here.
 ## The Lands
 Dual lands enter tapped with a stun counter, but they create a treasure token. Dual lands are typed. All ten pairs are represented.
+## The Plagues
+* Boils - BR
+* Frogs - BG
 # Release Notes
 ## Existing Mechanics
 * Finality Counters. When a creature with a Finality Counter on it dies, it is exiled instead of being sent to the graveyard

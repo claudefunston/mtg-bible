@@ -651,5 +651,20 @@ Sacrifice that creature at the beginning of your next end step</text>
             <set>BIB</set>
             <imgsrc>https://www.nga.gov/artworks/30288-gloire-et-louange-toi-satan-dans-les-hauteurs-du-ciel-ou-tu-regnas-et-dans-les-profondeurs-de-lenfer</imgsrc>
         </card>
+        <card>
+            <name>Frogs</name>
+            <text>Vanishing 2
+Enchant targey player. They create a 1/1 Frog Token.
+At the beginning of Enchanted player's upkeep, they put a -1/-1 counter on each creature for every Frog they control.
+2: Proliforate</text>
+        <prop>
+            <type>Enchantment - Curse</type>
+            <manacost>BG</manacost>
+            <manavalue>2</manavalue>
+        </prop>
+            <set>BIB</set>
+            <chvs>Exodus 8:1–4</chvs>
+            <imgsrc>https://www.nga.gov/artworks/43812-frog</imgsrc>
+        </card>
     </cards>
 </cockatrice_carddatabase>
