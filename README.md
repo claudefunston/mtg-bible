@@ -1,7 +1,7 @@
 # Overview
 These are Magic: the Gathering cards based upon the Bible
 
-We do not endorse, intentionally demean, nor otherwise express an opinion on any relegion
+We do not endorse, intentionally demean, nor otherwise express an opinion towards any relegion
 
 These cards are a meant as a respecful way to engage the Bible as a historical and literary work
  
@@ -11,7 +11,6 @@ __mtg-bible__ is unofficial Fan Content permitted under Wizards' [Fan Content Po
 * Install [Cockatrice](https://cockatrice.github.io/)
 * Place `01.cockatrice_db.xml` into your customsets folder
 * Optionally, to use our images, place them into your custompics folder
-* To edit card images, use [Magic Set Editor](https://magicseteditor.boards.net/)
 # Contents
 ## db 
 * `01.cockatrice_db.xml`
@@ -38,7 +37,7 @@ If there's an option, we give priority to works not currently on display
 * These are cropped from `<imgsrc>`. It is a recordkeeping mechanism
 ### Images
 * `images`
-* Cards are placed into frames using [Magic Set Editor](https://magicseteditor.boards.net/)
+* Cards have been placed into frames using [Magic Set Editor](https://magicseteditor.boards.net/)
 ### Magic Set Editor
 * `mse_db`
 # Set Design
@@ -107,18 +106,17 @@ Just as the exile zone operates, each player has their own version of each
 
 # Contributing
 ## Design a card
-Think of your favorite Biblical hero or event
-
 Some considerations:
 * Absolutely no advocation nor condoning of sexual violence
 * Absolutely no direct insults nor advocation of Christianity, Judaism, nor any another faith or creed. We reserve the right at our sole discrection to enforce this policy
 * Smiting sinful individuals and Armogeddening an entire city are acceptable concepts to describe in cards. As are horrible diseases, plagues and divine mind control
 * Deuterocanonical works are gladly allowed but Apocrypha are not
-## Make some Art
-Find a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something of your own.
+## Find some Art
+Find a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something of your own
+
+Refining MSE output would be helpful as well
 ## Balance the Wheels
-This set needs a skeleton to take the cards from isolated ideas into a proper system. Rarity is currently ambiguous.
-## Edit templating
+This set needs a skeleton to take the cards from isolated ideas into a proper set.
 # Biblcal Translations
 We are open to any, because meaning can be difficult to decipher if you don't know Hebrew nor Greek. The purpose of this set is to be fun, not communicate theology
 
