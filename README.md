@@ -1,7 +1,7 @@
 # Overview
 * Magic: the Gathering cards based upon the Bible
 * We do not endorse, intentionally demean, nor otherwise express an opinion towards any religion
-* These cards are a meant as a respecful way to engage the Bible as a historical and literary work
+* These cards are a meant as a respectful way to engage the Bible as a historical and literary work
 * __mtg-bible__ is unofficial Fan Content permitted under Wizards' [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). This content is not approved nor endorsed by Wizards. Portions of the materials herein are property of Wizards of the Coast
 
 # Usage
