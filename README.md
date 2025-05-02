@@ -115,8 +115,7 @@ Some considerations:
 * Absolutely no advocation nor condoning of sexual violence
 * Absolutely no direct insults nor advocation of Christianity, Judaism, nor any another Faith. We reserve the right at our sole discrection to enforce this policy
 * Smiting sinful individuals and Armogeddening an entire city are acceptable concepts to describe in cards. As are horrible diseases, plagues and divine mind control
-* Deuterocanonical works are gladly included; Apocrypha are not
-    * For example: Judith and Tobit are fine, Enoch is not
+* Deuterocanonical works are gladly included but avoid apocrypha
 * Cards can suggest, imply or compel that a character made a choice not precisely described in the Bible if it makes a better card or produces an interesting thought
     * For example: Peter can choose to not deny Christ
 ## Make some Art
