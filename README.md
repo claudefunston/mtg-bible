@@ -1,7 +1,7 @@
 # Overview
-These are Magic: the Gathering cards based upon the Bible
+Magic: the Gathering cards based upon the Bible
 
-We do not endorse, intentionally demean, nor otherwise express an opinion towards any relegion
+We do not endorse, intentionally demean, nor otherwise express an opinion towards any religion
 
 These cards are a meant as a respecful way to engage the Bible as a historical and literary work
  
