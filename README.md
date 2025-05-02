@@ -21,11 +21,11 @@ These are whiteboarded cards envisioned in an ad-hoc, top-down style. They are p
 ### Recordkeeping and Attribution
 Cards in the db have an `<imgsrc>` tag to record their origins
 
-All images are [CC0](https://creativecommons.org/public-domain/cc0/), or licensed in the public domain with sufficient permissions. We prefer if public domain images do not have content attribution requirements
+All images are [CC0](https://creativecommons.org/public-domain/cc0/) licenced or in the public domain
 
-Our preferred source is [The National Gallery of Art](https://www.nga.gov/collection/collection-search.html), and images from NGA are hereby credited as _Courtesy National Gallery of Art, Washington_
+Our preferred source is [The National Gallery of Art](https://www.nga.gov/collection/collection-search.html). Images used from NGA are hereby credited as _Courtesy National Gallery of Art, Washington_
 
-If there's an option, we give priority to works not currently on display
+If there's an option, we give priority to works not currently on display at their respective institutions
 
 ### Raw Images
 * `images_raw`
@@ -33,7 +33,7 @@ If there's an option, we give priority to works not currently on display
 ### Images
 * `images`
 * Cards have been placed into frames using [Magic Set Editor](https://magicseteditor.boards.net/)
-### Magic Set Editor
+### MSE
 * `mse_db`
 # Set Design
 ## Color pairs
