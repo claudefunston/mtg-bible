@@ -106,7 +106,11 @@ Some considerations:
 ## Find some Art
 Find a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something of your own
 ## General QC, templating, and consistency
-Magic rules change and so does formatting.
+Magic rules change and so does templating.
+## Suggest a Framework
+This set should be easily deployable, beyond copying files from one folder to another. Let's automate it.
+## MSE API
+This does no exist, and the XML exports from this program are insufficient. Let's link things together.
 ## Balance the Wheels
 This set needs a skeleton to take the cards from isolated ideas into a proper set.
 # Biblcal Translations
