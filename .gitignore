@@ -1,3 +1,4 @@
 mse/
 *.xls
 *.xlsx
+mse_db/*.bak
