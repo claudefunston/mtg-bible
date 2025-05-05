@@ -667,5 +667,20 @@ When this enchantment leaves the battlefield, destroy all frogs.</text>
             <chvs>Exodus 8:1–4</chvs>
             <imgsrc>https://www.metmuseum.org/art/collection/search/384451</imgsrc>
         </card>
+        <card>
+            <name>Hail</name>
+            <text>Vanishing 2
+    When this enchantment enters and on the beginning of enchanted player's draw step, choose one:
+    • Deal 2 damage to any target
+    • Return target creature to its owner's hand
+            </text>
+            <prop>
+                <type>Enchantment - Curse</type>
+                <manacost>1UR</manacost>
+            </prop>
+            <set>BIB</set>
+            <chvs>Exodus 9:22-26</chvs>
+            <imgsrc>https://art.thewalters.org/object/W.106.7R/</imgsrc>
+        </card>
     </cards>
 </cockatrice_carddatabase>
