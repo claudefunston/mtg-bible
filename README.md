@@ -110,11 +110,11 @@ Some considerations:
 * Smiting sinful individuals and Armogeddening an entire city are acceptable concepts. As are horrible diseases, plagues and divine mind control.
 * Deuterocanonical works are gladly allowed but Apocrypha are not.
 ## Find some Art
-Find a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something of your own.
+Look at a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something of your own.
 ## General QC, templating, and consistency
-Edit a card, particularly with respect to changes in standard-preferred language.
+Edit a card.
 ## MSE API
-This does no exist, and the XML exports from this MSE are not of use.
+This does no exist, and the XML exports from MSE are not of use.
 ## Balance the Wheels
 This set needs a skeleton to take the cards from isolated ideas into a proper set.
 # Biblical Translations
@@ -123,4 +123,4 @@ We are open, because meaning can be difficult to decipher if you don't know Hebr
 The primary author of this set uses [RSVCE](https://www.biblegateway.com/versions/Revised-Standard-Version-Catholic-Edition-RSVCE-Bible/)
 
 ## Citations
- Chapter and Verse: `<chvs>`. This has no effect on gameplay, but they might show up as reminder text.
+ Chapter and Verse: `<chvs>`. This tag has no effect on gameplay.
