@@ -13,7 +13,7 @@
 * `01.cockatrice_db.xml`
 ## Card Sketches
 * `card_sketches.txt`
-These are whiteboarded cards envisioned in an ad-hoc, top-down style. They are presented in a non-standardized way, but mimicking WotC's closely. The format is sufficient to communicate the nature and effects of each card.
+These are whiteboarded cards envisioned in an ad-hoc, top-down style. The format is sufficient to communicate the nature and effects of each card, and mimics WotC's release notes.
 ## Artwork
 ### Recordkeeping and Attribution
 Cards in the db have an `<imgsrc>` tag to record their origins.
@@ -29,7 +29,7 @@ If there's an option, we give priority to works not currently on display at thei
 * These are details cropped from `<imgsrc>`
 ### Images
 * `images`
-* Cards have been placed into frames using [Magic Set Editor](https://magicseteditor.boards.net/).
+* Cards placed into frames using [Magic Set Editor](https://magicseteditor.boards.net/).
 ### MSE
 * `mse_db`
 # Set Design
@@ -60,6 +60,7 @@ Dual lands enter tapped with a stun counter, but they create a treasure token. D
 ## The Plagues
 * Boils - BR
 * Frogs - BG
+* Hail - UR
 # Release Notes
 ## Existing Mechanics
 * Finality Counters. When a creature with a Finality Counter on it dies, it is exiled instead of being sent to the graveyard.
@@ -99,16 +100,16 @@ Just as the exile zone operates, each player has their own version of each.
 # Contributing
 ## Design a card
 Some considerations:
-* Absolutely no advocation nor condoning of sexual violence.
-* Absolutely no direct insults nor advocation of Christianity, Judaism, nor any another faith or creed. We reserve the right at our sole discrection to enforce this policy.
-* Smiting sinful individuals and Armogeddening an entire city are acceptable concepts to describe in cards. As are horrible diseases, plagues and divine mind control.
+* Absolutely no advocation nor condoning of sexual violence nor slavery.
+* Absolutely no direct insults nor advocation any faith or creed.
+* Smiting sinful individuals and Armogeddening an entire city are acceptable concepts. As are horrible diseases, plagues and divine mind control.
 * Deuterocanonical works are gladly allowed but Apocrypha are not.
 ## Find some Art
-Take a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something of your own.
+Find a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something of your own.
 ## General QC, templating, and consistency
-Magic rules change and so does templating.
+Edit a card for consistency, particularly with respect to changes in Standard-preffered language.
 ## MSE API
-This does no exist, and the XML exports from this program are insufficient.
+This does no exist, and the XML exports from this MSE are not of use.
 ## Balance the Wheels
 This set needs a skeleton to take the cards from isolated ideas into a proper set.
 # Biblcal Translations
@@ -117,4 +118,4 @@ We are open, because meaning can be difficult to decipher if you don't know Hebr
 The primary author of this set uses [RSVCE](https://www.biblegateway.com/versions/Revised-Standard-Version-Catholic-Edition-RSVCE-Bible/)
 
 ## Citations
- Chapter and Verse: `<chvs>`. The primary passage associated with each card. This has no effect on gameplay.
+ Chapter and Verse is another custom tag: `<chvs>`. This has no effect on gameplay, but they might show up as reminder text.

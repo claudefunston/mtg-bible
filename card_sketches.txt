@@ -4,14 +4,6 @@ Enchantment
 When this enchantment enters, scry 3.
 When a creature you control enters, scry 1.
 
-Herod
-{2}{U}{B}{RR}
-Creature - King
-4/5
-Flying, Trample
-{R}: *Kill the Firstborn*: Destroy all creatures with power 2 or less
-{W}: *Taxation* For each player, vote travel or pay. For each player that votes Taxation, create a treasure token. For each player that votes travel, you may search your library for a land. You may only activate this ability once.
-
 Flood
 Sorcery
 {UUU}
@@ -28,7 +20,6 @@ Legendary Planeswalker
 The Transfiguration
 Instant
 {W}{U}{R}
-As an additional cost to cast this card, sacrifice a creature.
 Create a 2/2 blue Human creature token named Moses, and a 2/3 red human creature token named Elijah.
 Flashback: {3}{W}{U}{R}
 
