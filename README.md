@@ -117,10 +117,10 @@ Edit a card, particularly with respect to changes in standard-preferred language
 This does no exist, and the XML exports from this MSE are not of use.
 ## Balance the Wheels
 This set needs a skeleton to take the cards from isolated ideas into a proper set.
-# Biblcal Translations
+# Biblical Translations
 We are open, because meaning can be difficult to decipher if you don't know Hebrew nor Greek. The purpose of this set is to be fun, not communicate theology.
 
 The primary author of this set uses [RSVCE](https://www.biblegateway.com/versions/Revised-Standard-Version-Catholic-Edition-RSVCE-Bible/)
 
 ## Citations
- Chapter and Verse is another custom tag: `<chvs>`. This has no effect on gameplay, but they might show up as reminder text.
+ Chapter and Verse: `<chvs>`. This has no effect on gameplay, but they might show up as reminder text.
