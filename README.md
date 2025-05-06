@@ -18,11 +18,16 @@ These are whiteboarded cards envisioned in an ad-hoc, top-down style. The format
 ### Recordkeeping and Attribution
 Cards in the db have an `<imgsrc>` tag to record their origins.
 
-All images are [CC0](https://creativecommons.org/public-domain/cc0/) licenced or in the public domain
+All images are [CC0](https://creativecommons.org/public-domain/cc0/) licenced or in the public domain.
 
-Our preferred source is [The National Gallery of Art](https://www.nga.gov/collection/collection-search.html). Images used from NGA are hereby credited as _Courtesy National Gallery of Art, Washington_.
+Some sources are:
+* [The National Gallery of Art](https://www.nga.gov/collection/collection-search.html)
+* [The Walters](https://art.thewalters.org/)
+* [Wiki Commons](https://commons.wikimedia.org/)
 
-If there's an option, we give priority to works not currently on display at their respective institutions.
+Images used from NGA are hereby credited with _Courtesy National Gallery of Art, Washington_.
+
+If there's an option, we give priority to works not currently on display at their institutions.
 
 ### Raw Images
 * `images_raw`
@@ -101,13 +106,13 @@ Just as the exile zone operates, each player has their own version of each.
 ## Design a card
 Some considerations:
 * Absolutely no advocation nor condoning of sexual violence nor slavery.
-* Absolutely no direct insults nor advocation any faith or creed.
+* Absolutely no direct insults nor advocation of any faith or creed.
 * Smiting sinful individuals and Armogeddening an entire city are acceptable concepts. As are horrible diseases, plagues and divine mind control.
 * Deuterocanonical works are gladly allowed but Apocrypha are not.
 ## Find some Art
 Find a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something of your own.
 ## General QC, templating, and consistency
-Edit a card for consistency, particularly with respect to changes in Standard-preffered language.
+Edit a card, particularly with respect to changes in standard-preferred language.
 ## MSE API
 This does no exist, and the XML exports from this MSE are not of use.
 ## Balance the Wheels
