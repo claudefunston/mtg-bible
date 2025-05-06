@@ -503,7 +503,7 @@ Create a blood token.</text>
         </card>
         <card>
             <name>Crown of Thorns</name>
-            <text>Equip 0
+            <text>Equip 1
 Equipped creature has -1/-1
 When a creature is equipped with this artifact, draw a card.
 </text>
@@ -617,7 +617,7 @@ Deathtouch.</text>
 		<card>
             <name>Limbo</name>
             <text>T: add C
-If Jesus is on the battlefield or in Limbo, this land taps for one mana of any colored mana.</text>
+If Jesus is on the battlefield or in Limbo, this land taps for one mana of any mana.</text>
             <prop>
                 <type>Legendary Land</type>
             </prop>
@@ -632,14 +632,14 @@ creatures your opponents control have hexproof until this creature leaves the ba
                 <prop>
                     <type>Legendary Creature - Human Noble</type>
                     <pt>4/5</pt>
-                    <manacost>WRR</manacost>
+                    <manacost>WWRR</manacost>
                     <colors>WR</colors>
                 </prop>
                 <set>BIB</set>
                 <imgsrc>https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_The_Magi_in_the_House_of_Herod_(Les_rois_mages_chez_H%C3%A9rode)_-_James_Tissot.jpg</imgsrc>
         </card>
         <card>
-            <name>Satan's Acolyte</name>
+            <name>Acolyte</name>
             <text>At the beginning of your combat step, create a 1/1 red devil creature tapped and attacking. 
 It deals 1 damage to any target when it enters. 
 Sacrifice that creature at the beginning of your next end step.</text>
