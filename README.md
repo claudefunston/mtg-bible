@@ -30,14 +30,14 @@ Images used from NGA are hereby credited with _Courtesy National Gallery of Art,
 If there's an option, we give priority to works not currently on display at their institutions.
 
 ### Raw Images
-* `images_raw`
-* These are details cropped from `<imgsrc>`
+* Folder: `images_raw`
+* Details cropped from `<imgsrc>`.
 ### Images
-* `images`
-* Cards placed into frames using [Magic Set Editor](https://magicseteditor.boards.net/).
+* Folder: `images`
+* Images placed into [Magic Set Editor](https://magicseteditor.boards.net/).
 ### MSE
-* `mse_db`
-When there are discrepancies between this file and the Cockatrice db, this file is considered authoritative.
+* File: `mse_db`
+* When there are discrepancies between this file and the Cockatrice db, this file is considered authoritative.
 # Set Design
 ## Color pairs
 * UB, tertiary R: The Sadducees
