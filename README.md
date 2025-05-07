@@ -79,7 +79,7 @@ We have one new mechanic: Inspire: When an Inspired creature dies, its controlle
 The creature names Jesus, Adam and Eve all have cross-referenced rules text. Assume that the infant you created and the very powerful grownup Jesus are the same person (Teenager schooling the temple, too).
 
 There are three new creature types:
-* Donkey. (In rules text and cardnames, it should be considered synonymous with ass)
+* Donkey (In rules text and cardnames, it is considered synonymous with ass)
 * Infant
 * Rooster
 
