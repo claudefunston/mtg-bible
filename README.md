@@ -38,11 +38,11 @@ Images from NGA are hereby credited with _Courtesy National Gallery of Art, Wash
 # Set Design
 ## Color pairs
 * UB, tertiary R: The Sadducees
-    * This group strongly rejects predestination, and does not believe in an afterlife.
-    * The law is important, so we use the its colors to enforce it.
+    * This group rejects predestination, and does not believe in an afterlife.
+    * The law is important, so we use its colors to enforce it.
 * UW, tertiary G: The Pharisees
     * This group believes in tradition.
-    * Pharasees are either neutral or positive towards Jesus.
+    * This group are either neutral or positive towards Jesus.
 * WG, tertiary U: The Believers
     * This group will sacrifice their lives to support the message of Christ.
     * Black sacrifice effects are considered off-type for the Believers, despite their willingness to die.
@@ -58,7 +58,7 @@ Images from NGA are hereby credited with _Courtesy National Gallery of Art, Wash
 * BG, tertiary R: 
 * RG, tertiary B: The Nephilim.
 ## The Lands
-Dual lands enter tapped with a stun counter, and create a treasure token. These lands are typed. All ten pairs are represented.
+Dual lands enter tapped with a stun counter, and create a treasure token. The lands are typed. All ten pairs are represented.
 ## The Plagues
 * Boils - BR
 * Frogs - BG
