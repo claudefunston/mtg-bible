@@ -114,7 +114,7 @@ Look at a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw 
 ## General QC and templating
 Edit a card.
 ## MSE API
-This does no exist.
+This does not exist.
 ## Balance the Wheels
 This set needs a skeleton to take the cards from isolated ideas into a proper set.
 # Biblical Translations
