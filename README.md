@@ -31,7 +31,7 @@ Images from NGA are hereby credited with _Courtesy National Gallery of Art, Wash
 * Details cropped from `<imgsrc>`.
 ### Images
 * Folder: `images`
-* Images sourced from [Magic Set Editor](https://magicseteditor.boards.net/).
+* Images are produced by [Magic Set Editor](https://magicseteditor.boards.net/).
 ### MSE
 * File: `mse_db`
 * When there are discrepancies between this file and the Cockatrice db, this file is considered authoritative.
@@ -56,14 +56,14 @@ Images from NGA are hereby credited with _Courtesy National Gallery of Art, Wash
 * UR, tertiary G: The Essenes
     * This group are mystics, and embrace colorful sources.
 * BG, tertiary R: 
-* RG, tertiary B: The Nephilim
-    * This group are giants and you should expect huge creatures here.
+* RG, tertiary B: The Nephilim.
 ## The Lands
-Dual lands enter tapped with a stun counter, but they create a treasure token. Dual lands are typed. All ten pairs are represented.
+Dual lands enter tapped with a stun counter, and create a treasure token. These lands are typed. All ten pairs are represented.
 ## The Plagues
 * Boils - BR
 * Frogs - BG
 * Hail - UR
+* Lice - UB
 # Release Notes
 ## Existing Mechanics
 * Finality
