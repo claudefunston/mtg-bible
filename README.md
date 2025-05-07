@@ -15,7 +15,7 @@
 * `card_sketches.txt`
 These are whiteboarded cards envisioned in an ad-hoc, top-down style. The format is sufficient to communicate the nature and effects of each card, and mimics WotC's release notes.
 ## Artwork
-### Recordkeeping and Attribution
+### Attribution
 Cards in the db have an `<imgsrc>` tag to record their origins.
 
 All images are [CC0](https://creativecommons.org/public-domain/cc0/) licenced or in the public domain.
@@ -37,6 +37,7 @@ If there's an option, we give priority to works not currently on display at thei
 * Cards placed into frames using [Magic Set Editor](https://magicseteditor.boards.net/).
 ### MSE
 * `mse_db`
+When there are discrepancies between this file and the Cockatrice db, this file is considered authoritative.
 # Set Design
 ## Color pairs
 * UB, tertiary R: The Sadducees
@@ -69,7 +70,7 @@ Dual lands enter tapped with a stun counter, but they create a treasure token. D
 # Release Notes
 ## Existing Mechanics
 * Finality Counters. When a creature with a Finality Counter on it dies, it is exiled instead of being sent to the graveyard.
-* Commiting a crime. You commit a crime in Magic whenever you target an opposing player or their objects, defined as their spells on the stack, their permanents on the battlefield, or cards in their graveyard.
+* Commiting a crime. You commit a crime whenever you target an opposing player or their objects, defined as their spells on the stack, their permanents on the battlefield, or cards in their graveyard.
 
 ## New Mechanics and Special Creatures
 We have one new mechanic: Inspire: When an Inspired creature dies, its controller creates a food token.
@@ -77,11 +78,11 @@ We have one new mechanic: Inspire: When an Inspired creature dies, its controlle
 The creature names Jesus, Adam and Eve all have cross-referenced rules text. Assume that the infant you created and the very powerful grownup Jesus are the same person (Teenager schooling the temple, too).
 
 There are three new creature types:
-* Donkey. In rules text and cardnames, it should be considered synonymous with ass
+* Donkey. In rules text and cardnames, it should be considered synonymous with ass.
 * Infant
 * Rooster
 
-The Deserter creature type has appeared before on tokens. It is present in this set on a proper creature
+The Deserter creature type has appeared before on tokens. It is present in this set on a proper creature.
 
 Because this set is both Biblical and Trinitarian in nature, yes, you can target Jesus with a spell that wants to target the Holy Spirit.
 
@@ -109,12 +110,12 @@ Some considerations:
 * Absolutely no direct insults nor advocation of any faith or creed.
 * Smiting sinful individuals and Armogeddening an entire city are acceptable concepts. As are horrible diseases, plagues and divine mind control.
 * Deuterocanonical works are gladly allowed but Apocrypha are not.
-## Find some Art
+## Add Art
 Look at a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something of your own.
-## General QC, templating, and consistency
+## General QC and templating
 Edit a card.
 ## MSE API
-This does no exist, and the XML exports from MSE are not of use.
+This does no exist.
 ## Balance the Wheels
 This set needs a skeleton to take the cards from isolated ideas into a proper set.
 # Biblical Translations

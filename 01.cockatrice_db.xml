@@ -655,8 +655,8 @@ Sacrifice that creature at the beginning of your next end step.</text>
             <name>Frogs</name>
             <text>Vanishing 4
 Enchant target player.
-When this enchantment enters and on enchanted players draw step, they create a 1/1 green frog token with deathtouch.
-On enchanted players' end step, they lose a life for each frog they control.
+When this enchantment enters and on enchanted player's draw step, they create a 1/1 green frog token with deathtouch.
+On enchanted player's end step, they lose a life for each frog they control.
 When this enchantment leaves the battlefield, destroy all frogs.</text>
         <prop>
             <type>Enchantment - Curse</type>
