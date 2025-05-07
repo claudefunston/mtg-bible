@@ -20,7 +20,7 @@ Legendary Planeswalker
 The Transfiguration
 Instant
 {W}{U}{R}
-Create a 2/2 blue Human creature token named Moses, and a 2/3 red human creature token named Elijah.
+Create a 2/2 blue Human creature token named Moses and a 2/3 red human creature token named Elijah.
 Flashback: {3}{W}{U}{R}
 
 The Ass saw the Angel
@@ -87,14 +87,6 @@ Vanishing 2.
 Tap all Islands. Destroy all fish and frogs.
 When this enchantment is in play, destroy one creature each turn.
 
-The Curse of Frogs
-Enchantment - Curse
-{1}{G}{U}
-Vanishing 4
-Enchant targey player. They create a 1/1 Frog Token.
-At the beginning of Enchanted player's upkeep, they put a -1/-1 counter on each creature for every Frog controlled.
-{2} Proliforate.
-
 The Curse of Locusts
 Enchantment - Curse
 {X}{U}{R}
@@ -102,19 +94,7 @@ Vanishing 3
 Enchant target player. You create X 1/1 Locust cretures with Flying and Haste. 
 Enchanted player gets one poison counter for each damage dealt by a creature with power one or less.
 
-The Curse of Lice
-{2}{W}{B}
-Enchantment - Curse
-Vanishing 3
-Enchant target player. That player's creatures enter with a -1/-1 counter.
-
-The Curse of Hail
-Enchantment - Curse
-{1}{U}{B}
-Vanishing 4
-Enchant target player. When that player casts a Blue spell, they sacrifice a land.
-
-Satan, Source of Evil
+Satan
 {U}
 1/1
 {U}{B}{R}, Sacrifice 3 creatures: Transform CARDNAME.
@@ -140,7 +120,7 @@ Legendary Land - Plains Forest
 Breach the Skylight
 Sorcery
 {2}{U}
-Counter target spell. Create a 1/1 White Angel Creature with Indestructible.
+Counter target spell. Create a 1/1 white angel Creature with indestructible.
 
 The Child is Born
 Sorcery

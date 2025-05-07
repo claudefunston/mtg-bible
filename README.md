@@ -39,7 +39,7 @@ Images from NGA are hereby credited with _Courtesy National Gallery of Art, Wash
 ## Color pairs
 * UB, tertiary R: The Sadducees
     * This group strongly rejects predestination, and does not believe in an afterlife.
-    * The law is important, so we use the colors of UB to enforce it.
+    * The law is important, so we use the its colors to enforce it.
 * UW, tertiary G: The Pharisees
     * This group believes in tradition.
     * Pharasees are either neutral or positive towards Jesus.
@@ -49,12 +49,12 @@ Images from NGA are hereby credited with _Courtesy National Gallery of Art, Wash
 * WR, tertiary G: The Government
     * The Government can be neutral, beneficial, or harmful.
 * UG, tertiary B: The Creators
-    * Actors from this tribe can violate the laws of nature.
-* BR, tertiary U: The Free
-    * It's just Satan and his minions.
-* WB, tertiary R: 
+    * This tribe can violate the laws of nature.
+* BR, tertiary G: The Free
+    * Satan and his minions.
+* WB, tertiary R:
 * UR, tertiary G: The Essenes
-    * This group are mystics, and embrace colorful sources.
+    * This group are mystics.
 * BG, tertiary R: 
 * RG, tertiary B: The Nephilim.
 ## The Lands
@@ -69,6 +69,7 @@ Dual lands enter tapped with a stun counter, and create a treasure token. These 
 * Finality
 * Commiting a crime
 * Vansishing
+* Gifting
 
 ## New Mechanics and Special Creatures
 We have one new mechanic: Inspire: When an Inspired creature dies, its controller creates a food token.
@@ -84,10 +85,10 @@ The Deserter creature type has appeared before on tokens. It is present in this 
 
 Because this set is both Biblical and Trinitarian, yes, you can target Jesus with a spell that wants to target the Holy Spirit.
 
-For now, יהוה is considered too powerful.
+For now, יהוה is excluded.
 
 ## Zones
-There are three new named zones - Heaven, Hell, and Limbo. There are cards associated to each, but they needn't be in play for the zones to exist.
+There are three named zones - Heaven, Hell, and Limbo. There are cards associated to each, but they needn't be in play for the zones to exist.
 
 Sending a creature to any is not an exile effect (unless specified by another card). Creatures do enter the graveyard before they meet their destiny.  Creatures cannot leave these zones.
 
@@ -111,7 +112,7 @@ Look at a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw 
 ## General QC and templating
 Edit a card.
 ## MSE API
-This does not exist.
+This does not exist but should.
 ## Balance the Wheels
 This set needs a skeleton to take the cards from isolated ideas into a proper set.
 # Biblical Translations
