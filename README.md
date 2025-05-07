@@ -69,9 +69,9 @@ Dual lands enter tapped with a stun counter, but they create a treasure token. D
 * Hail - UR
 # Release Notes
 ## Existing Mechanics
-* Finality.
-* Commiting a crime.
-* Vansishing.
+* Finality
+* Commiting a crime
+* Vansishing
 
 ## New Mechanics and Special Creatures
 We have one new mechanic: Inspire: When an Inspired creature dies, its controller creates a food token.
@@ -79,22 +79,20 @@ We have one new mechanic: Inspire: When an Inspired creature dies, its controlle
 The creature names Jesus, Adam and Eve all have cross-referenced rules text. Assume that the infant you created and the very powerful grownup Jesus are the same person (Teenager schooling the temple, too).
 
 There are three new creature types:
-* Donkey. In rules text and cardnames, it should be considered synonymous with ass.
+* Donkey. (In rules text and cardnames, it should be considered synonymous with ass)
 * Infant
 * Rooster
 
 The Deserter creature type has appeared before on tokens. It is present in this set on a proper creature.
 
-Because this set is both Biblical and Trinitarian in nature, yes, you can target Jesus with a spell that wants to target the Holy Spirit.
+Because this set is both Biblical and Trinitarian, yes, you can target Jesus with a spell that wants to target the Holy Spirit.
 
-For now, יהוה is considered too powerful to include.
+For now, יהוה is considered too powerful.
 
 ## Zones
 There are three new named zones - Heaven, Hell, and Limbo. There are cards associated to each, but they needn't be in play for the zones to exist.
 
 Sending a creature to any is not an exile effect (unless specified by another card). Creatures do enter the graveyard before they meet their destiny.  Creatures cannot leave these zones.
-
-As tokens cease to exist at a time just after entering the graveyard, tokens can't reach them.
 
 Creatures in these zones lose all attributes and abilities apart from type. Specifically, they contribute to devotion, and count for the number of creatures you control.
 
