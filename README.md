@@ -12,8 +12,7 @@
 ## db 
 * `01.cockatrice_db.xml`
 ## Card Sketches
-* `card_sketches.txt`
-These are whiteboarded cards envisioned in an ad-hoc, top-down style. The format is sufficient to communicate the nature and effects of each card, and mimics WotC's release notes.
+* `card_sketches.txt` Are whiteboarded cards envisioned in an ad-hoc, top-down style. The format is sufficient to communicate the nature and effects of each card, and mimics WotC's release notes.
 ## Artwork
 ### Attribution
 Cards in the db have an `<imgsrc>` tag to record their origins.
@@ -25,7 +24,7 @@ Some sources are:
 * [The Walters](https://art.thewalters.org/)
 * [Wiki Commons](https://commons.wikimedia.org/)
 
-Images used from NGA are hereby credited with _Courtesy National Gallery of Art, Washington_.
+Images from NGA are hereby credited with _Courtesy National Gallery of Art, Washington_.
 
 ### Raw Images
 * Folder: `images_raw`
