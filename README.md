@@ -27,14 +27,12 @@ Some sources are:
 
 Images used from NGA are hereby credited with _Courtesy National Gallery of Art, Washington_.
 
-If there's an option, we give priority to works not currently on display at their institutions.
-
 ### Raw Images
 * Folder: `images_raw`
 * Details cropped from `<imgsrc>`.
 ### Images
 * Folder: `images`
-* Images placed into [Magic Set Editor](https://magicseteditor.boards.net/).
+* Images sourced from [Magic Set Editor](https://magicseteditor.boards.net/).
 ### MSE
 * File: `mse_db`
 * When there are discrepancies between this file and the Cockatrice db, this file is considered authoritative.
