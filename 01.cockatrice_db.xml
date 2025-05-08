@@ -685,7 +685,7 @@ When this enchantment leaves the battlefield, destroy all frogs.</text>
         <card>
             <name>Jesus</name>
             <text>+1: You gain 2 life.
--2: Target creature gains an indestructible counter.
+-2: Target creature returns from your graveyard to the battlefield.
 -8: All creatures go to Heaven.
             </text>
             <prop>
