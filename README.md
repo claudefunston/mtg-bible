@@ -90,7 +90,7 @@ There are three named zones - Heaven, Hell, and Limbo. There are cards associate
 
 Sending a creature to any is not an exile effect (unless specified by another card). Creatures do enter the graveyard before they meet their destiny.  Creatures cannot leave these zones.
 
-Creatures in these zones lose all attributes and abilities apart from type. Specifically, they contribute to devotion, and count for the number of creatures you control.
+Creatures in these zones lose all attributes and abilities apart from type. Specifically, they contribute to devotion, and the number of creatures you control.
 
 Just as the exile zone operates, each player has their own version of each.
 
@@ -102,7 +102,7 @@ Just as the exile zone operates, each player has their own version of each.
 ## Design a card
 Some considerations:
 * Absolutely no advocation nor condoning of sexual violence nor slavery.
-* Absolutely no direct insults nor advocation to any faith or creed.
+* Absolutely no direct insults nor advocation of any faith or creed.
 * Smiting sinful individuals and Armogeddening an entire city are acceptable concepts. As are horrible diseases, plagues and divine mind control.
 * Deuterocanonical works are allowed but Apocrypha are not.
 ## Art
@@ -112,9 +112,9 @@ Edit and standardize.
 ## MSE API
 This does not exist but should.
 ## Balance the Wheels
-This set needs a skeleton to take the cards from isolated ideas into a proper set.
+Propose a framework for these cards to be made into a proper set.
 # Biblical Translations
-We are open, because meaning can be difficult to decipher if you don't know Hebrew nor Greek. The purpose of this set is to be fun, not communicate theology.
+We are flexible. The purpose of this set is to be fun, not communicate theology.
 
 The primary author of this set uses [RSVCE](https://www.biblegateway.com/versions/Revised-Standard-Version-Catholic-Edition-RSVCE-Bible/)
 
