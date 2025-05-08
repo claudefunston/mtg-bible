@@ -110,7 +110,7 @@ Look at a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw 
 ## General QC and templating
 Edit and standardize.
 ## MSE API
-This does not exist but should.
+This does not exist but it should.
 ## Balance the Wheels
 Propose a framework for these cards to be made into a proper set.
 # Biblical Translations

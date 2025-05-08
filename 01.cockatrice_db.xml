@@ -682,5 +682,21 @@ When this enchantment leaves the battlefield, destroy all frogs.</text>
             <chvs>Exodus 9:22-26</chvs>
             <imgsrc>https://art.thewalters.org/object/W.106.7R/</imgsrc>
         </card>
+        <card>
+            <name>Jesus</name>
+            <text>+1: You gain 2 life.
+-2: Target creature gains an indestructible counter.
+-8: All creatures go to Heaven.
+            </text>
+            <prop>
+                <type>Legendary Planeswalker</type>
+                <manacost>WWW</manacost>
+                <manacost>3</manacost>
+                <colors>W</colors>
+            </prop>
+            <set>BIB</set>
+            <imgsrc>https://www.nga.gov/artworks/41617-veil-veronica</imgsrc>
+            <chvs>The New Testament</chvs>
+        </card>
     </cards>
 </cockatrice_carddatabase>
