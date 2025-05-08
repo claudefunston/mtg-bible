@@ -22,16 +22,14 @@ All images are [CC0](https://creativecommons.org/public-domain/cc0/) licenced or
 Some sources are:
 * [The National Gallery of Art](https://www.nga.gov/collection/collection-search.html)
 * [The Walters](https://art.thewalters.org/)
-* [Wiki Commons](https://commons.wikimedia.org/)
+* [Wikimedia Commons](https://commons.wikimedia.org/)
 
 Images from NGA are hereby credited with _Courtesy National Gallery of Art, Washington_.
 
 ### Raw Images
-* Folder: `images_raw`
-* Details cropped from `<imgsrc>`.
+* Details cropped from `<imgsrc>` for each card.
 ### Images
-* Folder: `images`
-* Images are produced by [Magic Set Editor](https://magicseteditor.boards.net/).
+* These are produced by [Magic Set Editor](https://magicseteditor.boards.net/).
 ### MSE
 * File: `mse_db`
 * When there are discrepancies between this file and the Cockatrice db, this file is considered authoritative.
@@ -42,9 +40,9 @@ Images from NGA are hereby credited with _Courtesy National Gallery of Art, Wash
     * The law is important, so we use its colors to enforce it.
 * UW, tertiary G: The Pharisees
     * This group believes in tradition.
-    * This group are either neutral or positive towards Jesus.
+    * This group is either neutral or positive towards Jesus.
 * WG, tertiary U: The Believers
-    * This group will sacrifice their lives to support the message of Christ.
+    * This group will sacrifice their lives to support the message of Jesus.
     * Black sacrifice effects are considered off-type for the Believers, despite their willingness to die.
 * WR, tertiary G: The Government
     * The Government can be neutral, beneficial, or harmful.
@@ -104,13 +102,13 @@ Just as the exile zone operates, each player has their own version of each.
 ## Design a card
 Some considerations:
 * Absolutely no advocation nor condoning of sexual violence nor slavery.
-* Absolutely no direct insults nor advocation of any faith or creed.
+* Absolutely no direct insults nor advocation to any faith or creed.
 * Smiting sinful individuals and Armogeddening an entire city are acceptable concepts. As are horrible diseases, plagues and divine mind control.
-* Deuterocanonical works are gladly allowed but Apocrypha are not.
-## Add Art
+* Deuterocanonical works are allowed but Apocrypha are not.
+## Art
 Look at a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something of your own.
 ## General QC and templating
-Edit a card.
+Edit and standardize.
 ## MSE API
 This does not exist but should.
 ## Balance the Wheels
