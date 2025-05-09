@@ -698,5 +698,20 @@ When this enchantment leaves the battlefield, destroy all frogs.</text>
             <imgsrc>https://www.nga.gov/artworks/41617-veil-veronica</imgsrc>
             <chvs>The New Testament</chvs>
         </card>
+                <card>
+            <name>Satan</name>
+            <text>+1: Deal two damage to any target.
+-2: Send a creature to Hell.
+-7: You get an emblem with “whenever a creature dies, each opponent loses 2 life.”
+            </text>
+            <prop>
+                <type>Legendary Planeswalker</type>
+                <manacost>BBR</manacost>
+                <manacost>3</manacost>
+                <colors>BR</colors>
+            </prop>
+            <set>BIB</set>
+            <imgsrc>https://commons.wikimedia.org/wiki/File:Satan_detail_LCZ.jpg</imgsrc>
+        </card>
     </cards>
 </cockatrice_carddatabase>
