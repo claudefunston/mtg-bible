@@ -712,6 +712,17 @@ When this enchantment leaves the battlefield, destroy all frogs.</text>
             </prop>
             <set>BIB</set>
             <imgsrc>https://commons.wikimedia.org/wiki/File:Satan_detail_LCZ.jpg</imgsrc>
+        </card>            <name>Satan</name>
+            <text>On the beginning of your upkeep, scry 1.
+            </text>
+            <prop>
+                <type>Enchantment</type>
+                <manacost>UU</manacost>
+                <manacost>2</manacost>
+                <colors>U</colors>
+            </prop>
+            <set>BIB</set>
+            <imgsrc>https://www.nga.gov/artworks/153956-moses-and-burning-bushg</imgsrc>
         </card>
     </cards>
 </cockatrice_carddatabase>
