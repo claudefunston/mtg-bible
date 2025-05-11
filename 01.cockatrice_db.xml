@@ -722,7 +722,7 @@ When this enchantment leaves the battlefield, destroy all frogs.</text>
                 <colors>U</colors>
             </prop>
             <set>BIB</set>
-            <imgsrc>https://www.nga.gov/artworks/153956-moses-and-burning-bushg</imgsrc>
+            <imgsrc>https://www.nga.gov/artworks/153956-moses-and-burning-bush</imgsrc>
         </card>
     </cards>
 </cockatrice_carddatabase>
