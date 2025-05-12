@@ -116,7 +116,7 @@ Propose a framework for these cards to be made into a proper set.
 # Biblical Translations
 We are flexible. The purpose of this set is to be fun, not communicate theology.
 
-The primary author of this set uses [RSVCE](https://www.biblegateway.com/versions/Revised-Standard-Version-Catholic-Edition-RSVCE-Bible/)
+The primary author of this set uses [RSVCE](https://www.biblegateway.com/versions/Revised-Standard-Version-Catholic-Edition-RSVCE-Bible/), but some editorial decisions have been made.
 
 ## Citations
  Chapter and Verse: `<chvs>`. This tag has no effect on gameplay.
