@@ -1,8 +1,3 @@
-Flood
-Sorcery
-{UUU}
-Destroy all lands and non-legendary creatures
-
 Paul
 Legendary Planeswalker
 4

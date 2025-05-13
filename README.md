@@ -29,7 +29,7 @@ Images from NGA are hereby credited with _Courtesy National Gallery of Art, Wash
 ### Raw Images
 * Details cropped from `<imgsrc>` for each card.
 ### Images
-* These are produced by [Magic Set Editor](https://magicseteditor.boards.net/).
+* Produced by [Magic Set Editor](https://magicseteditor.boards.net/).
 ### MSE
 * File: `mse_db`
 * When there are discrepancies between this file and the Cockatrice db, this file is considered authoritative.
@@ -61,7 +61,6 @@ Dual lands enter tapped with a stun counter, and create a treasure token. The la
 * Boils - BR
 * Frogs - BG
 * Hail - UR
-* Lice - UB
 # Release Notes
 ## Existing Mechanics
 * Finality
@@ -70,16 +69,16 @@ Dual lands enter tapped with a stun counter, and create a treasure token. The la
 * Gifting
 
 ## New Mechanics and Special Creatures
-We have one new mechanic: Inspire: When an Inspired creature dies, its controller creates a food token.
+We have one new mechanic: Inspire -- When an Inspired creature dies, its controller creates a food token.
 
-The creature names Jesus, Adam and Eve all have cross-referenced rules text. Assume that the infant you created and the very powerful grownup Jesus are the same person (Teenager schooling the temple, too).
+The creature names Jesus, Adam and Eve all have cross-referenced rules text.
 
 There are three new creature types:
 * Donkey (In rules text and cardnames, it is considered synonymous with ass)
 * Infant
 * Rooster
 
-The Deserter creature type has appeared before on tokens. It is present in this set on a proper creature.
+The Deserter type has appeared before on tokens. It is present in this set on a proper creature.
 
 Because this set is both Biblical and Trinitarian, yes, you can target Jesus with a spell that wants to target the Holy Spirit.
 
@@ -103,20 +102,18 @@ Just as the exile zone operates, each player has their own version of each.
 Some considerations:
 * Absolutely no advocation nor condoning of sexual violence nor slavery.
 * Absolutely no direct insults nor advocation of any faith or creed.
-* Smiting sinful individuals and Armogeddening an entire city are acceptable concepts. As are horrible diseases, plagues and divine mind control.
-* Deuterocanonical works are allowed but Apocrypha are not.
+* Smiting sinful individuals and Armogeddening an entire city are acceptable concepts. As are horrible diseases, plagues, and divine mind control.
+* Deuterocanonical works are permitted but Apocrypha are not.
 ## Art
-Look at a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something of your own.
-## General QC and templating
-Edit and standardize.
-## MSE API
-This does not exist but it should.
+Suggest a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something of your own.
+## General QC and Templating
+Any standardization advice is appreciated.
 ## Balance the Wheels
 Propose a framework for these cards to be made into a proper set.
 # Biblical Translations
 We are flexible. The purpose of this set is to be fun, not communicate theology.
 
-The primary author of this set uses [RSVCE](https://www.biblegateway.com/versions/Revised-Standard-Version-Catholic-Edition-RSVCE-Bible/), but some editorial decisions have been made.
+The primary author of this set uses [RSVCE](https://www.biblegateway.com/versions/Revised-Standard-Version-Catholic-Edition-RSVCE-Bible/), wit some editorial flexibility.
 
 ## Citations
  Chapter and Verse: `<chvs>`. This tag has no effect on gameplay.
