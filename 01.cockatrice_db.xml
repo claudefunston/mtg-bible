@@ -531,7 +531,7 @@ When a creature is equipped with this artifact, draw a card.
         </card>
         <card>
             <name>Assumption</name>
-            <text>Target creature goes to Heaven.
+            <text>Send target creature to Heaven.
 You gain 2 life.</text>
             <prop>
                 <type>Instant</type>
@@ -559,10 +559,11 @@ Put a +1/+1 counter on each targeted creature.</text>
         </card>
         <card>
             <name>Absalom, Absalom!</name>
-            <text>If an opponent has committed a crime this turn, this creature enters with a +2/+2 counter on it.</text>
+            <text>Flash.
+If an opponent has committed a crime this turn, destroy target attacking creature.</text>
             <prop>
                 <type>Creture - Human</type>
-                <pt>1/2</pt>
+                <pt>2/3</pt>
                 <manacost>1WB</manacost>
                 <cmc>3</cmc>
                 <colors>WB</colors>
