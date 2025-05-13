@@ -12,7 +12,7 @@
 ## db 
 * `01.cockatrice_db.xml`
 ## Card Sketches
-* `card_sketches.txt` Are whiteboarded cards envisioned in an ad-hoc, top-down style. The format is sufficient to communicate the nature and effects of each card, and mimics WotC's release notes.
+* `card_sketches.txt` describes whiteboarded cards envisioned in an ad-hoc, top-down style. The format is sufficient to communicate the nature and effects of each, and mimics WotC's release notes.
 ## Artwork
 ### Attribution
 Cards in the db have an `<imgsrc>` tag to record their origins.
@@ -35,7 +35,7 @@ Images from NGA are hereby credited with _Courtesy National Gallery of Art, Wash
 * When there are discrepancies between this file and the Cockatrice db, this file is considered authoritative.
 # Set Design
 ## Color pairs
-Under consideration and development.
+Under consideration and in development.
 * UB, tertiary R: The Sadducees
     * This group rejects predestination, and does not believe in an afterlife.
     * The law is important, so we use its colors to enforce it.
@@ -86,13 +86,13 @@ This set is both Biblical and Trinitarian so yes, you can target Jesus with a sp
 For now, יהוה is excluded.
 
 ## Zones
-There are three named zones - Heaven, Hell, and Limbo. There are cards associated to each, but they needn't be in play for the zones to exist.
+There are three named zones - Heaven, Hell, and Limbo. There are lands with the same names, but they needn't be in play for the zones to exist.
 
-Sending a creature to any is not an exile effect (unless specified by another card). Creatures do enter the graveyard before they meet their destiny.  Creatures cannot leave these zones.
+Sending a creature to any is not an exile effect (unless specified by another card). Creatures do enter the graveyard before they meet their destiny.
 
-Creatures in these zones lose all attributes and abilities apart from type. Specifically, they contribute to devotion, and the number of creatures you control.
+Creatures here lose all attributes and abilities apart from type and mana value. Specifically, they contribute to devotion and the number of creatures you control.
 
-Just as the exile zone operates, each player has their own version of each.
+Just as the exile zone, each player has their own version of each.
 
 * When a creature is in Heaven, it gains {T}: Add 2 life.
 * When a creature is in Hell, it gains {T}: Add B or R. You lose two life.
@@ -102,17 +102,16 @@ Just as the exile zone operates, each player has their own version of each.
 ## Design a card
 Some considerations:
 * Absolutely no advocation nor condoning of sexual violence nor slavery.
-* Absolutely no direct insults nor advocation of any faith or creed.
+* Absolutely no insults nor advocation of any faith or creed.
 * Smiting sinful individuals and Armogeddening an entire city are acceptable concepts. As are horrible diseases, plagues, and divine mind control.
 * Deuterocanonical works are permitted but Apocrypha are not.
 ## Art
-Suggest a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something of your own.
-## General QC and Templating
-Any standardization advice is appreciated.
+Suggest a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something.
+## QC and Templating
 ## Balance the Wheels
-Propose a framework for these cards to be organized into a proper set.
+Propose a framework for these cards to be become a proper set.
 # Biblical Translations
-We are flexible. The purpose of this set is to be fun, not communicate theology.
+The aim of this set is to contribute to Magic, not communicate theology.
 
 The primary author of this set uses [RSVCE](https://www.biblegateway.com/versions/Revised-Standard-Version-Catholic-Edition-RSVCE-Bible/).
 
