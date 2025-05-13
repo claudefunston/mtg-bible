@@ -74,43 +74,38 @@ We have a new mechanic: Inspire - When an Inspired creature dies, its controller
 
 The creature names Jesus, Adam and Eve all have cross-referenced rules text.
 
-There are three new creature types:
-* Donkey (In rules text and cardnames, it is considered synonymous with ass)
-* Infant
-* Rooster
-
 The Deserter type has appeared before on tokens. It is present in this set on a proper creature.
 
-This set is both Biblical and Trinitarian so yes, you can target Jesus with a spell that intends to target the Holy Spirit.
+This set is both biblical and Trinitarian so yes, you can target Jesus with a spell that intends to target the Holy Spirit.
 
-For now, יהוה is excluded.
+For now, יהוה is not represented.
 
 ## Zones
 There are three named zones - Heaven, Hell, and Limbo. There are lands with the same names, but they needn't be in play for the zones to exist.
 
-Sending a creature to any is not an exile effect (unless specified by another card). Creatures do enter the graveyard before they meet their destiny.
+Sending a creature to any is not an exile effect (unless specified by another card). Creatures _do_ enter the graveyard before they meet their destiny.
 
-Creatures here lose all attributes and abilities apart from type and mana value. Specifically, they contribute to devotion and the number of creatures you control.
+Creatures lose all attributes and abilities when they are sent to these zones apart from type and mana value. Specifically, they contribute to devotion and the number of creatures you control.
 
-Just as the exile zone, each player has their own version of each.
+Just as the exile zone operates, each player has their own version of each.
 
-* When a creature is in Heaven, it gains {T}: Add 2 life.
+* When a creature is in Heaven, it gains {T}: You gain 2 life.
 * When a creature is in Hell, it gains {T}: Add B or R. You lose two life.
 * When a creature is in Limbo, it gains {T}: Add {C}.
 
 # Contributing
 ## Design a card
-Some considerations:
+Considerations:
 * Absolutely no advocation nor condoning of sexual violence nor slavery.
 * Absolutely no insults nor advocation of any faith or creed.
 * Smiting sinful individuals and Armogeddening an entire city are acceptable concepts. As are horrible diseases, plagues, and divine mind control.
-* Deuterocanonical works are permitted but Apocrypha are not.
+* Deuterocanonical works are accepted sources but Apocrypha are not.
 ## Art
 Suggest a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something.
 ## QC and Templating
 ## Balance the Wheels
 Propose a framework for these cards to be become a proper set.
-# Biblical Translations
+# Translations
 The aim of this set is to contribute to Magic, not communicate theology.
 
 The primary author of this set uses [RSVCE](https://www.biblegateway.com/versions/Revised-Standard-Version-Catholic-Edition-RSVCE-Bible/).
