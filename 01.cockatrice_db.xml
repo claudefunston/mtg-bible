@@ -725,5 +725,19 @@ When this enchantment leaves the battlefield, destroy all frogs.</text>
             <set>BIB</set>
             <imgsrc>https://www.nga.gov/artworks/153956-moses-and-burning-bush</imgsrc>
         </card>
+        <card>
+            <name>Flight into Egypt</name>
+            <text>Prevent all damage done to creatures you control with power 3 or less.
+If Jesus is on the battlefield, your creatures gain indestructible for the next two turns.</text>
+            <prop>
+                <type>Instant</type>
+                <manacost>1WG</manacost>
+                <manacost>3</manacost>
+                <colors>WG</colors>
+            </prop>
+            <set>BIB</set>
+            <imgsrc>https://commons.wikimedia.org/wiki/File:Flight_into_Egypt_-_Capella_dei_Scrovegni_-_Padua_2016.jpg</imgsrc>
+            <chvs>Matthew 2:13</chvs>
+        </card>
     </cards>
 </cockatrice_carddatabase>

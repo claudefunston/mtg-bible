@@ -1,9 +1,3 @@
-The Burning Bush
-{R}{G}
-Enchantment
-When this enchantment enters, scry 3.
-When a creature you control enters, scry 1.
-
 Flood
 Sorcery
 {UUU}
@@ -109,7 +103,7 @@ Hell
 Legendary Land
 {1}, {T}: Add {B} or {R}
 {1}, {T}: Create a 1/1 Devil Token with haste. Sacrifice it at the beginning of the next end step. Untap Hell.
-{4}, {T}: Sacrifice CARDNAME. Deal 5 damage to each creature.
+{4}, {T}: Sacrifice Hell. Deal 5 damage to any creature.
 
 Heaven
 Legendary Land - Plains Forest
@@ -215,8 +209,3 @@ Enchantment - Saga
 {2}{U}
 I,II: Scry 2
 III: Return target instant or sorcery card from your graveyard to your hand.
-
-Flight to Egypt
-Instant
-{1}{G}
-Prevent all damage done to creatures you control with power 3 or less.
