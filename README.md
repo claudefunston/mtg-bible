@@ -35,6 +35,7 @@ Images from NGA are hereby credited with _Courtesy National Gallery of Art, Wash
 * When there are discrepancies between this file and the Cockatrice db, this file is considered authoritative.
 # Set Design
 ## Color pairs
+Under consideration and development.
 * UB, tertiary R: The Sadducees
     * This group rejects predestination, and does not believe in an afterlife.
     * The law is important, so we use its colors to enforce it.
@@ -69,7 +70,7 @@ Dual lands enter tapped with a stun counter, and create a treasure token. The la
 * Gifting
 
 ## New Mechanics and Special Creatures
-We have one new mechanic: Inspire -- When an Inspired creature dies, its controller creates a food token.
+We have a new mechanic: Inspire - When an Inspired creature dies, its controller creates a food token.
 
 The creature names Jesus, Adam and Eve all have cross-referenced rules text.
 
@@ -80,7 +81,7 @@ There are three new creature types:
 
 The Deserter type has appeared before on tokens. It is present in this set on a proper creature.
 
-Because this set is both Biblical and Trinitarian, yes, you can target Jesus with a spell that wants to target the Holy Spirit.
+This set is both Biblical and Trinitarian so yes, you can target Jesus with a spell that intends to target the Holy Spirit.
 
 For now, יהוה is excluded.
 
@@ -109,7 +110,7 @@ Suggest a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw 
 ## General QC and Templating
 Any standardization advice is appreciated.
 ## Balance the Wheels
-Propose a framework for these cards to be made into a proper set.
+Propose a framework for these cards to be organized into a proper set.
 # Biblical Translations
 We are flexible. The purpose of this set is to be fun, not communicate theology.
 
