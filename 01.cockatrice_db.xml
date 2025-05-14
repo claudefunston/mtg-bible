@@ -622,7 +622,7 @@ Deathtouch.</text>
             <text>T: add C
 If Jesus is on the battlefield or in Limbo, this land taps for one mana of any mana.</text>
             <prop>
-                <type>Legendary Land</type>
+                <type>Token</type>
             </prop>
             <set>BIB</set>
             <imgsrc>https://www.nga.gov/collection/art-object-page.41669.html</imgsrc>
@@ -740,6 +740,14 @@ If Jesus is on the battlefield, your creatures gain indestructible for the next 
             <set>BIB</set>
             <imgsrc>https://commons.wikimedia.org/wiki/File:Flight_into_Egypt_-_Capella_dei_Scrovegni_-_Padua_2016.jpg</imgsrc>
             <chvs>Matthew 2:13</chvs>
+        </card>
+        <name>Heaven</name>
+            <text>If a creature is in heaven, it gains {T}: you gain one life.</text>
+            <prop>
+                <type>Token</type>
+            </prop>
+            <set>BIB</set>
+            <imgsrc>https://commons.wikimedia.org/wiki/File:Last_Judgement_(Michelangelo).jpg</imgsrc>
         </card>
     </cards>
 </cockatrice_carddatabase>

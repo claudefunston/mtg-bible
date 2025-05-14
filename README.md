@@ -38,7 +38,7 @@ Images from NGA are hereby credited with _Courtesy National Gallery of Art, Wash
 Under consideration and in development.
 * UB, tertiary R: The Sadducees
     * This group rejects predestination, and does not believe in an afterlife.
-    * The law is important; its colors to enforce it.
+    * The law is important; its colors enforce it.
 * UW, tertiary G: The Pharisees
     * This group believes in tradition.
     * This group is either neutral or positive towards Jesus.
@@ -79,11 +79,11 @@ This set is both biblical and trinitarian so yes, you can target Jesus with a sp
 For now, יהוה is not represented.
 
 ## Zones
-There are three named zones - Heaven, Hell, and Limbo. There are lands with the same names, but they needn't be in play for the zones to exist.
+There are three named zones - Heaven, Hell, and Limbo.
 
 Sending a creature to any is not an exile effect (unless specified by another card). Creatures _do_ enter the graveyard before they meet their destiny.
 
-Creatures lose all attributes and abilities when they are sent to these zones apart from type and mana value. Specifically, creatures still contribute to devotion and the number of creatures you control.
+Creatures lose all attributes and abilities when they are in these zones apart from type and mana value. Specifically, creatures still contribute to devotion and the number of creatures you control.
 
 Just as the exile zone operates, each player has their own version of each.
 
