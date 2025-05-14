@@ -619,8 +619,7 @@ Deathtouch.</text>
         </card>
 		<card>
             <name>Limbo</name>
-            <text>T: add C
-If Jesus is on the battlefield or in Limbo, this land taps for one mana of any mana.</text>
+            <text>When a creature is in Limbo, it gains {T}: Add {C}.</text>
             <prop>
                 <type>Token</type>
             </prop>
