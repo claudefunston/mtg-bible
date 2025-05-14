@@ -741,6 +741,7 @@ If Jesus is on the battlefield, your creatures gain indestructible for the next 
             <imgsrc>https://commons.wikimedia.org/wiki/File:Flight_into_Egypt_-_Capella_dei_Scrovegni_-_Padua_2016.jpg</imgsrc>
             <chvs>Matthew 2:13</chvs>
         </card>
+        <card>
         <name>Heaven</name>
             <text>If a creature is in heaven, it gains {T}: you gain one life.</text>
             <prop>
