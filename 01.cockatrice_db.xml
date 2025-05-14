@@ -743,7 +743,7 @@ If Jesus is on the battlefield, your creatures gain indestructible for the next 
         </card>
         <card>
         <name>Heaven</name>
-            <text>If a creature is in heaven, it gains {T}: you gain one life.</text>
+            <text>If a creature is in heaven, it gains {T}: you gain 2 life.</text>
             <prop>
                 <type>Token</type>
             </prop>
