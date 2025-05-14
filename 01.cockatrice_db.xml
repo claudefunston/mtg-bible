@@ -195,6 +195,7 @@ When this creature dies, send it to Limbo.</text>
             <set>BIB</set>
             <tablerow>2</tablerow>
             <imgsrc>https://commons.wikimedia.org/wiki/File:Bonnat01.jpg</imgsrc>
+            <chvs>John 11:23</chvs>
         </card>
         <card>
             <name>Sermon on the Mount</name>

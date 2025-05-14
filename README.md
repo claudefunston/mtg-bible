@@ -2,7 +2,7 @@
 * Magic: the Gathering cards based upon the Bible.
 * We do not endorse, intentionally demean, nor otherwise express an opinion towards any religion.
 * These cards are a meant as a respectful way to engage the Bible as a historical and literary work.
-* __mtg-bible__ is unofficial Fan Content permitted under Wizards' [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). This content is not approved nor endorsed by Wizards. Portions of the materials herein are property of Wizards of the Coast.
+* __mtg-bible__ is unofficial Fan Content permitted under Wizards' [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). This content is neither approved nor endorsed by Wizards. Portions of the materials herein are property of Wizards of the Coast.
 
 # Usage
 * Install [Cockatrice](https://cockatrice.github.io/).
@@ -12,7 +12,7 @@
 ## db 
 * `01.cockatrice_db.xml`
 ## Card Sketches
-* `card_sketches.txt` describes whiteboarded cards envisioned in an ad-hoc, top-down style. The format is sufficient to communicate the nature and effects of each, and mimics WotC's release notes.
+* `card_sketches.txt` describes whiteboarded cards envisioned in an ad-hoc, top-down style. The format is sufficient to communicate the nature and effects of each, and mimics WotC's release notes.    
 ## Artwork
 ### Attribution
 Cards in the db have an `<imgsrc>` tag to record their origins.
@@ -108,7 +108,7 @@ Propose a framework for these cards to be become a proper set.
 # Translations
 The aim of this set is to contribute to Magic, not communicate theology.
 
-The primary author of this set references [RSVCE](https://www.biblegateway.com/versions/Revised-Standard-Version-Catholic-Edition-RSVCE-Bible/).
+The primary author of this set references [NRSVCE](https://www.biblegateway.com/versions/New-Revised-Standard-Version-Catholic-Edition-NRSVCE-Bible).
 
 ## Citations
  Chapter and Verse: `<chvs>`. This tag has no effect on gameplay.

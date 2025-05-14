@@ -9,7 +9,7 @@ Legendary Planeswalker
 The Transfiguration
 Instant
 {W}{U}{R}
-Create a 2/2 blue Human creature token named Moses and a 2/3 red human creature token named Elijah.
+Create a 2/2 blue human creature token named Moses and a 2/3 red human creature token named Elijah.
 Flashback: {3}{W}{U}{R}
 
 The Ass saw the Angel
@@ -27,25 +27,19 @@ Creature - Human Druid
 The Fruit
 Artifact - Food
 {2}
-{1}, {T}: Add one mana of any color. Lose 2 life.
+{1}, {T}: Add one mana of any color. You lose 2 life.
 {4}, {T}: Create a food token.
-{T}: Create a 1/1 black Snake token with deathtouch.
+{T}: Create a 1/1 black snake creature token with deathtouch.
 
 Palm Sunday
 Enchantment
 {2}{W}{G}
 On your upkeep, create a 1/1 White Donkey Creature. If you control a Donkey, create an additional Donkey token.
 
-Enter the Eucharist
-Sorcery
-{3}{WWW}
-Create 3 4/4 Angel Creature tokens with Vigilance and Flying.
-Flashback: {5}{WW}
-
 Fishers of Men
 Instant
 {1}{U}
-Gift a tapped fish. Draw a card. If the gift was given, counter target spell.
+Gift a tapped fish. Draw a card. If the gift was given, counter target spell and create a 1/1 human token with lifelink.
 
 Uriah the Hittite
 Creature - Human
