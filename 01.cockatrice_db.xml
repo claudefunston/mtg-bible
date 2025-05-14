@@ -645,7 +645,7 @@ creatures your opponents control have hexproof until this creature leaves the ba
             <name>Acolyte</name>
             <text>At the beginning of your combat step, create a 1/1 red devil creature tapped and attacking. 
 It deals 1 damage to any target when it enters. 
-Sacrifice that creature at the beginning of your next end step.</text>
+Sacrifice that creature at the beginning of your end step.</text>
             <prop>
                 <type>Creature - Devil</type>https://commons.wikimedia.org/
                 <pt>2/2</pt>
