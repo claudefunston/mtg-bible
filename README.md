@@ -85,7 +85,7 @@ There are three named zones - Heaven, Hell, and Limbo. There are lands with the 
 
 Sending a creature to any is not an exile effect (unless specified by another card). Creatures _do_ enter the graveyard before they meet their destiny.
 
-Creatures lose all attributes and abilities when they are sent to these zones apart from type and mana value. Specifically, they contribute to devotion and the number of creatures you control.
+Creatures lose all attributes and abilities when they are sent to these zones apart from type and mana value. Specifically, creatures in these zones contribute to devotion and the number of creatures you control.
 
 Just as the exile zone operates, each player has their own version of each.
 
@@ -108,7 +108,7 @@ Propose a framework for these cards to be become a proper set.
 # Translations
 The aim of this set is to contribute to Magic, not communicate theology.
 
-The primary author of this set uses [RSVCE](https://www.biblegateway.com/versions/Revised-Standard-Version-Catholic-Edition-RSVCE-Bible/).
+The primary author of this set references [RSVCE](https://www.biblegateway.com/versions/Revised-Standard-Version-Catholic-Edition-RSVCE-Bible/).
 
 ## Citations
  Chapter and Verse: `<chvs>`. This tag has no effect on gameplay.
