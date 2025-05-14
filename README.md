@@ -76,7 +76,7 @@ Dual lands enter tapped with a stun counter and create a treasure token. The lan
 
 This set is both biblical and trinitarian so yes, you can target Jesus with a spell meant to target the Holy Spirit.
 
-יהוה is not represented.
+For now, יהוה is not represented.
 
 ## Zones
 There are three named zones - Heaven, Hell, and Limbo. There are lands with the same names, but they needn't be in play for the zones to exist.
