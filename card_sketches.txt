@@ -26,9 +26,8 @@ Creature - Human Druid
 
 The Fruit
 Artifact - Food
-{2}
 {1}, {T}: Add one mana of any color. You lose 2 life.
-{4}, {T}: Create a food token.
+{3}, {T}: Create a food token.
 {T}: Create a 1/1 black snake creature token with deathtouch.
 
 Palm Sunday
@@ -65,6 +64,7 @@ Enchantment - Curse
 Vanishing 3
 Enchant target player. You create X 1/1 Locust cretures with Flying and Haste. 
 Enchanted player gets one poison counter for each damage dealt by a creature with power one or less.
+When this enchantment leaves the battlefield, destroy all locusts.
 
 Satan
 {U}

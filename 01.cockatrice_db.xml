@@ -440,7 +440,7 @@ If you can't target an opponent's creature, gain a life.</text>
             <name>Goliath</name>
             <text>When this creature enters, it deals 1 damage to each non-giant creature.
 Trample, haste.
-If damage is dealt to this creature by a creature with power 1 or less, destroy it and send it to Limbo.
+If damage is dealt to this creature by a creature with power 1 or less, send it to Limbo.
 </text>
             <prop>
                 <type>Creature - Giant</type>
@@ -451,6 +451,7 @@ If damage is dealt to this creature by a creature with power 1 or less, destroy 
             <set>BIB</set>
             <tablerow>2</tablerow>
             <chvs>1 Samuel 17:4</chvs>
+            <imgsrc>https://www.nga.gov/artworks/27735-david-and-goliath-marionette</imgsrc>
         </card>
         <card>
             <name>Enter Nephilim</name>
