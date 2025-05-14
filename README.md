@@ -38,13 +38,13 @@ Images from NGA are hereby credited with _Courtesy National Gallery of Art, Wash
 Under consideration and in development.
 * UB, tertiary R: The Sadducees
     * This group rejects predestination, and does not believe in an afterlife.
-    * The law is important, so we use its colors to enforce it.
+    * The law is important; its colors to enforce it.
 * UW, tertiary G: The Pharisees
     * This group believes in tradition.
     * This group is either neutral or positive towards Jesus.
 * WG, tertiary U: The Believers
     * This group will sacrifice their lives to support the message of Jesus.
-    * Black sacrifice effects are considered off-type for the Believers, despite their willingness to die.
+    * Black sacrifice effects are considered off-type for the believers, despite their willingness to die.
 * WR, tertiary G: The Government
     * The Government can be neutral, beneficial, or harmful.
 * UG, tertiary B: The Creators
@@ -53,11 +53,11 @@ Under consideration and in development.
     * Satan and his minions.
 * WB, tertiary R:
 * UR, tertiary G: The Essenes
-    * This group are mystics.
+    * Mystics.
 * BG, tertiary R: 
 * RG, tertiary B: The Nephilim.
 ## The Lands
-Dual lands enter tapped with a stun counter, and create a treasure token. The lands are typed. All ten pairs are represented.
+Dual lands enter tapped with a stun counter and create a treasure token. The lands are typed. All ten pairs are represented.
 ## The Plagues
 * Boils - BR
 * Frogs - BG
@@ -70,22 +70,20 @@ Dual lands enter tapped with a stun counter, and create a treasure token. The la
 * Gifting
 
 ## New Mechanics and Special Creatures
-We have a new mechanic: Inspire - When an Inspired creature dies, its controller creates a food token.
+* Inspire - When an Inspired creature dies, its controller creates a food token.
+* The creature names Jesus, Adam and Eve all have cross-referenced rules text.
+* The Deserter type has appeared on tokens. It is present in this set on a proper creature.
 
-The creature names Jesus, Adam and Eve all have cross-referenced rules text.
+This set is both biblical and trinitarian so yes, you can target Jesus with a spell meant to target the Holy Spirit.
 
-The Deserter type has appeared before on tokens. It is present in this set on a proper creature.
-
-This set is both biblical and Trinitarian so yes, you can target Jesus with a spell that intends to target the Holy Spirit.
-
-For now, יהוה is not represented.
+יהוה is not represented.
 
 ## Zones
 There are three named zones - Heaven, Hell, and Limbo. There are lands with the same names, but they needn't be in play for the zones to exist.
 
 Sending a creature to any is not an exile effect (unless specified by another card). Creatures _do_ enter the graveyard before they meet their destiny.
 
-Creatures lose all attributes and abilities when they are sent to these zones apart from type and mana value. Specifically, creatures in these zones contribute to devotion and the number of creatures you control.
+Creatures lose all attributes and abilities when they are sent to these zones apart from type and mana value. Specifically, creatures still contribute to devotion and the number of creatures you control.
 
 Just as the exile zone operates, each player has their own version of each.
 
@@ -99,14 +97,13 @@ Considerations:
 * Absolutely no advocation nor condoning of sexual violence nor slavery.
 * Absolutely no insults nor advocation of any faith or creed.
 * Smiting sinful individuals and Armogeddening an entire city are acceptable concepts. As are horrible diseases, plagues, and divine mind control.
-* Deuterocanonical works are accepted sources but Apocrypha are not.
 ## Art
 Suggest a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something.
 ## QC and Templating
 ## Balance the Wheels
 Propose a framework for these cards to be become a proper set.
 # Translations
-The aim of this set is to contribute to Magic, not communicate theology.
+The aim of this set is to contribute to Magic and its community, not communicate theology, so there is no strict rule.
 
 The primary author of this set references [NRSVCE](https://www.biblegateway.com/versions/New-Revised-Standard-Version-Catholic-Edition-NRSVCE-Bible).
 
