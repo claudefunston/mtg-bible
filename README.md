@@ -27,7 +27,7 @@ Some sources are:
 Images from NGA are hereby credited with _Courtesy National Gallery of Art, Washington_.
 
 ### Raw Images
-* Details cropped from `<imgsrc>` for each card.
+* Details cropped from `<imgsrc>`.
 ### Images
 * Produced by [Magic Set Editor](https://magicseteditor.boards.net/).
 ### MSE
@@ -68,6 +68,7 @@ Dual lands enter tapped with a stun counter and create a treasure token. The lan
 * Commiting a crime
 * Vansishing
 * Gifting
+* Blood tokens
 
 ## New Mechanics and Special Creatures
 * Inspire - When an Inspired creature dies, its controller creates a food token.
@@ -96,16 +97,18 @@ Just as the exile zone operates, each player has their own version of each.
 Considerations:
 * Absolutely no advocation nor condoning of sexual violence nor slavery.
 * Absolutely no insults nor advocation of any faith or creed.
-* Smiting sinful individuals and Armogeddening an entire city are acceptable concepts. As are horrible diseases, plagues, and divine mind control.
+* Smiting and Armogeddening a city are acceptable concepts. As are horrible diseases, plagues, and divine mind control.
 ## Art
 Suggest a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something.
+Some images in the set are slightly distorted, and we do not have the expertise to correct that.
 ## QC and Templating
 ## Balance the Wheels
 Propose a framework for these cards to be become a proper set.
+## Set Symbol
 # Translations
-The aim of this set is to contribute to Magic and its community, not communicate theology, so there is no strict rule.
+The aim is to contribute to Magic and its community, not communicate theology.
 
-The primary author of this set references [NRSVCE](https://www.biblegateway.com/versions/New-Revised-Standard-Version-Catholic-Edition-NRSVCE-Bible).
+The primary author references [NRSVCE](https://www.biblegateway.com/versions/New-Revised-Standard-Version-Catholic-Edition-NRSVCE-Bible).
 
 ## Citations
- Chapter and Verse: `<chvs>`. This tag has no effect on gameplay.
+ Chapter and verse: `<chvs>`. This tag has no effect on gameplay.
