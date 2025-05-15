@@ -1,11 +1,3 @@
-Paul
-Legendary Planeswalker
-4
-{3}{G}{U}
-+1 Target creature gains Inspire
--1: {G} Search your library for target forest, place it on to the battlefiled tapped, then shuffle.
--6:
-
 The Transfiguration
 Instant
 {W}{U}{R}
@@ -46,10 +38,10 @@ Creature - Human
 
 David's Mighty Men
 Enchantment - Saga
-{2}{WW}
+{2}{BW}
 I: Create 3 1/1 Human Soldier Tokens
 II: Choose one: Create a 3/2 avatar creatire token named Ishbaal, a 1/4 human token named Eleazer, or a 2/2 human druid token named Shammah.
-III: Creatures you control gain Indestructible until end of turn.
+III: Creatures you control gain indestructible until end of turn.
 
 Blood
 Enchantment - Curse

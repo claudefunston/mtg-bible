@@ -444,7 +444,7 @@ If damage is dealt to this creature by a creature with power 1 or less, send it 
 </text>
             <prop>
                 <type>Creature - Giant</type>
-                <manacost>2RG</manacost>
+                <manacost>3RG</manacost>
                 <colors>RG</colors>
                 <pt>5/5</pt>
             </prop>
