@@ -691,7 +691,7 @@ When this enchantment leaves the battlefield, destroy all frogs.</text>
 -8: All creatures go to Heaven.
             </text>
             <prop>
-                <type>Legendary Planeswalker</type>
+                <type>Legendary Planeswalker - Jesus</type>
                 <manacost>WWW</manacost>
                 <manacost>3</manacost>
                 <colors>W</colors>
@@ -706,7 +706,7 @@ When this enchantment leaves the battlefield, destroy all frogs.</text>
 -7: You get an emblem with "whenever a creature dies, each opponent loses 2 life".
             </text>
             <prop>
-                <type>Legendary Planeswalker</type>
+                <type>Legendary Planeswalker - Satan</type>
                 <manacost>BBR</manacost>
                 <manacost>3</manacost>
                 <colors>BR</colors>
