@@ -100,15 +100,15 @@ Considerations:
 * Smiting and Armogeddening a city are acceptable concepts. As are horrible diseases, plagues, and divine mind control.
 ## Art
 Suggest a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something.
-Some images in the set are slightly distorted, and we do not have the expertise to correct that.
+Some images in the set are slightly distorted, and we do not have the expertise to correct it.
 ## QC and Templating
 ## Balance the Wheels
 Propose a framework for these cards to be become a proper set.
 ## Set Symbol
 # Translations
-The aim is to contribute to Magic and its community, not communicate theology.
+The aim is to contribute to Magic and its community, not to communicate theology.
 
-The primary author references [NRSVCE](https://www.biblegateway.com/versions/New-Revised-Standard-Version-Catholic-Edition-NRSVCE-Bible).
+The primary author references [NRSVCE](https://www.biblegateway.com/versions/New-Revised-Standard-Version-Catholic-Edition-NRSVCE-Bible), with exceptions.
 
 ## Citations
  Chapter and verse: `<chvs>`. This tag has no effect on gameplay.

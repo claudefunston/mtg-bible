@@ -749,5 +749,20 @@ If Jesus is on the battlefield, your creatures gain indestructible for the next 
             <set>BIB</set>
             <imgsrc>https://commons.wikimedia.org/wiki/File:Last_Judgement_(Michelangelo).jpg</imgsrc>
         </card>
+        <card>
+            <name>The Fruit</name>
+            <text> When this artifact enters, exile all creatures you control.
+{T}: Add one mana of any color.
+{2}, {T}: Create a food token.</text>
+            <prop>
+                <type>Artifact</type>
+                <manacost>3</manacost>
+                <tablerow>1</tablerow>
+            </prop>
+            <set>BIB</set>
+            <tablerow>1</tablerow>
+            <imgsrc>https://www.nga.gov/artworks/116675-galo-bayeux</imgsrc>
+            <chvs>Genesis 1:29</chvs>
+        </card>
     </cards>
 </cockatrice_carddatabase>
