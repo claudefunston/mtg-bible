@@ -715,7 +715,7 @@ When this enchantment leaves the battlefield, destroy all frogs.</text>
             <imgsrc>https://commons.wikimedia.org/wiki/File:Satan_detail_LCZ.jpg</imgsrc>
         </card>
         <card>
-            <name>The Burning Bush</name>
+            <name>Burning Bush</name>
             <text>On the beginning of your upkeep, scry 1.</text>
             <prop>
                 <type>Enchantment</type>
