@@ -161,7 +161,7 @@ Sacrifice this artifact: Create a 2/2 Green and White Human Token named Eve.</te
 If that creature is legendary, add RRR.
 When this creature dies, send it to Limbo.</text>
             <prop>
-                <type>Creature - Human Soldier</type>
+                <type>Creature - Human Noble</type>
                 <pt>1/4</pt>
                 <manacost>1WRR</manacost>
                 <cmc>4</cmc>

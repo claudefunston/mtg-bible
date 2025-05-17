@@ -24,7 +24,7 @@ Some sources are:
 * [The Walters](https://art.thewalters.org/)
 * [Wikimedia Commons](https://commons.wikimedia.org/)
 
-Images from NGA are hereby credited with _Courtesy National Gallery of Art, Washington_.
+Images from NGA are hereby credited as _Courtesy National Gallery of Art, Washington_.
 
 ### Raw Images
 * Details cropped from `<imgsrc>`.
@@ -35,7 +35,6 @@ Images from NGA are hereby credited with _Courtesy National Gallery of Art, Wash
 * When there are discrepancies between this file and the Cockatrice db, this file is considered authoritative.
 # Set Design
 ## Color pairs
-Under consideration and in development.
 * UB, tertiary R: The Sadducees
     * This group rejects predestination, and does not believe in an afterlife.
     * The law is important; its colors enforce it.
@@ -56,8 +55,8 @@ Under consideration and in development.
     * Mystics.
 * BG, tertiary R: 
 * RG, tertiary B: The Nephilim.
-## The Lands
-Dual lands enter tapped with a stun counter and create a treasure token. The lands are typed. All ten pairs are represented.
+## Lands
+Dual lands enter tapped with a stun counter and create a treasure token when they enter. Lands are typed, and all ten pairs are represented.
 ## The Plagues
 * Boils - BR
 * Frogs - BG
@@ -80,13 +79,11 @@ This set is both biblical and trinitarian so yes, you can target Jesus with a sp
 For now, יהוה is not represented.
 
 ## Zones
-There are three named zones - Heaven, Hell, and Limbo.
+There are three new named zones - Heaven, Hell, and Limbo.
 
 Sending a creature to any is not an exile effect (unless specified by another card). Creatures _do_ enter the graveyard before they meet their destiny.
 
-Creatures lose all attributes and abilities when they are in these zones apart from type and mana value. Specifically, creatures still contribute to devotion and the number of creatures you control.
-
-Just as the exile zone operates, each player has their own version of each.
+Objects lose all attributes and abilities when they are in these zones apart from type and mana value. Specifically, they still contribute to devotion and the number of creatures you control.
 
 * When a creature is in Heaven, it gains {T}: You gain 2 life.
 * When a creature is in Hell, it gains {T}: Add B or R. You lose two life.
@@ -96,19 +93,19 @@ Just as the exile zone operates, each player has their own version of each.
 ## Design a card
 Considerations:
 * Absolutely no advocation nor condoning of sexual violence nor slavery.
-* Absolutely no insults nor advocation of any faith or creed.
+* Absolutely no insults nor advocation of any faith nor creed.
 * Smiting and Armogeddening a city are acceptable concepts. As are horrible diseases, plagues, and divine mind control.
 ## Art
 Suggest a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something.
-Some images in the set are slightly distorted, and we do not have the expertise to correct it.
-## QC and Templating
-## Balance the Wheels
-Propose a framework for these cards to be become a proper set.
+Some images in the set are slightly distorted, and we do not have the expertise to correct for it and appreciate any help.
+## QC, templating, and balancing the wheels
+* These cards should be a proper set.
+* Inconsistencies in design elements should be aligned.
 ## Set Symbol
-# Translations
-The aim is to contribute to Magic and its community, not to communicate theology.
+# Bible translations
+Our aim is to contribute to Magic and its community, not to otherwise communicate theology.
 
-The primary author references [NRSVCE](https://www.biblegateway.com/versions/New-Revised-Standard-Version-Catholic-Edition-NRSVCE-Bible), with exceptions.
+The primary author references [NRSVCE](https://www.biblegateway.com/versions/New-Revised-Standard-Version-Catholic-Edition-NRSVCE-Bible), with reasonable editorial modifications.
 
 ## Citations
  Chapter and verse: `<chvs>`. This tag has no effect on gameplay.
