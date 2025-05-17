@@ -37,18 +37,18 @@ Images from NGA are hereby credited as _Courtesy National Gallery of Art, Washin
 ## Color pairs
 * UB, tertiary R: The Sadducees
     * This group rejects predestination, and does not believe in an afterlife.
-    * The law is important; its colors enforce it.
+    * The law is enforced by this group's colors.
 * UW, tertiary G: The Pharisees
     * This group believes in tradition.
-    * This group is either neutral or positive towards Jesus.
+    * This group is neutral or positive towards Jesus.
 * WG, tertiary U: The Believers
-    * This group will sacrifice their lives to support the message of Jesus.
-    * Black sacrifice effects are considered off-type for the believers, despite their willingness to die.
+    * This group will take actions to support Jesus.
+    * Black sacrifice effects are considered off-type for the believers.
 * WR, tertiary G: The Government
-    * The Government can be neutral, beneficial, or harmful.
+    * This group can be neutral, beneficial, or harmful.
 * UG, tertiary B: The Creators
-    * This tribe can violate the laws of nature.
-* BR, tertiary G: The Free
+    * This group can violate the laws of nature.
+* BR tertiary G: The Free
     * Satan and his minions.
 * WB, tertiary R:
 * UR, tertiary G: The Essenes
@@ -56,7 +56,7 @@ Images from NGA are hereby credited as _Courtesy National Gallery of Art, Washin
 * BG, tertiary R: 
 * RG, tertiary B: The Nephilim.
 ## Lands
-Dual lands enter tapped with a stun counter and create a treasure token when they enter. Lands are typed, and all ten pairs are represented.
+Dual lands enter tapped with a stun counter but create a treasure token when they enter. These lands are typed. All ten pairs are represented.
 ## The Plagues
 * Boils - BR
 * Frogs - BG
@@ -68,13 +68,14 @@ Dual lands enter tapped with a stun counter and create a treasure token when the
 * Vansishing
 * Gifting
 * Blood tokens
+* Stun counters
 
 ## New Mechanics and Special Creatures
 * Inspire - When an Inspired creature dies, its controller creates a food token.
 * The creature names Jesus, Adam and Eve all have cross-referenced rules text.
 * The Deserter type has appeared on tokens. It is present in this set on a proper creature.
 
-This set is both biblical and trinitarian so yes, you can target Jesus with a spell meant to target the Holy Spirit.
+This set is trinitarian so yes, you can target Jesus with a spell meant to target the Holy Spirit.
 
 For now, יהוה is not represented.
 
@@ -94,10 +95,11 @@ Objects lose all attributes and abilities when they are in these zones apart fro
 Considerations:
 * Absolutely no advocation nor condoning of sexual violence nor slavery.
 * Absolutely no insults nor advocation of any faith nor creed.
-* Smiting and Armogeddening a city are acceptable concepts. As are horrible diseases, plagues, and divine mind control.
+* Smiting and Armogeddening are acceptable concepts. As are horrible diseases, plagues, and divine mind control.
 ## Art
 Suggest a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something.
-Some images in the set are slightly distorted, and we do not have the expertise to correct for it and appreciate any help.
+
+Some images are slightly distorted, and we do not have the expertise to correct and appreciate any help.
 ## QC, templating, and balancing the wheels
 * These cards should be a proper set.
 * Inconsistencies in design elements should be aligned.
@@ -105,7 +107,7 @@ Some images in the set are slightly distorted, and we do not have the expertise 
 # Bible translations
 Our aim is to contribute to Magic and its community, not to otherwise communicate theology.
 
-The primary author references [NRSVCE](https://www.biblegateway.com/versions/New-Revised-Standard-Version-Catholic-Edition-NRSVCE-Bible), with reasonable editorial modifications.
+The primary author typically references [NRSVCE](https://www.biblegateway.com/versions/New-Revised-Standard-Version-Catholic-Edition-NRSVCE-Bible), with reasonable editorial modifications.
 
 ## Citations
  Chapter and verse: `<chvs>`. This tag has no effect on gameplay.
