@@ -90,20 +90,6 @@ Objects lose all attributes and abilities when they are in these zones apart fro
 * When a creature is in Hell, it gains {T}: Add B or R. You lose two life.
 * When a creature is in Limbo, it gains {T}: Add {C}.
 
-# Contributing
-## Design a card
-Considerations:
-* Absolutely no advocation nor condoning of sexual violence nor slavery.
-* Absolutely no insults nor advocation of any faith nor creed.
-* Smiting and Armogeddening are acceptable concepts. As are horrible diseases, plagues, and divine mind control.
-## Art
-Suggest a [CC0](https://creativecommons.org/public-domain/cc0/) source, or draw something.
-
-Some images are slightly distorted, and we do not have the expertise to correct and appreciate any help.
-## QC, templating, and balancing the wheels
-* These cards should be a proper set.
-* Inconsistencies in design elements should be aligned.
-## Set Symbol
 # Bible translations
 Our aim is to contribute to Magic and its community, not to otherwise communicate theology.
 
