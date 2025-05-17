@@ -83,7 +83,7 @@ There are three new named zones - Heaven, Hell, and Limbo.
 
 Sending a creature to any is not an exile effect (unless specified by another card). Creatures _do_ enter the graveyard before they meet their destiny.
 
-Objects lose all attributes and abilities when they are in these zones apart from type and mana value. Specifically, they still contribute to devotion and the number of creatures you control.
+Objects lose all attributes and abilities when they are in these zones apart from type and mana cost. Specifically, they still contribute to devotion and the number of creatures you control.
 
 * When a creature is in Heaven, it gains {T}: You gain 2 life.
 * When a creature is in Hell, it gains {T}: Add B or R. You lose two life.
