@@ -306,7 +306,7 @@ If you can't target an opponent's creature, gain a life.</text>
         </card>
         <card>
             <name>Resolve Fate</name>
-            <text>Send Target Creature to Heaven or Hell.</text>
+            <text>Send target creature to Heaven, Hell or Limbo.</text>
             <prop>
                 <type>Sorcery</type>
                 <manacost>1B</manacost>
@@ -590,8 +590,8 @@ Enchant target player. That player’s creatures get a -1/-1 counter each turn.<
         </card>
 		<card>
             <name>David's Mighty Men</name>
-            <text>I: Create 3 1/1 Human Soldier Tokens.
-II: Choose one: Create a 3/2 Avatar Token named Ishbaal; Create a 1/4 Human Token named Eleazer, or Create a 2/2 Human Druid named Shammah.
+            <text>I: Create 3 2/2 human warrior tokens.
+II: Creatures you control get +1/+1 until end of turn.
 III: Creatures you control gain Indestructible until end of turn.</text>
             <prop>
                 <type>Enchantment - Saga</type>

@@ -16,12 +16,6 @@ Creature - Human Druid
 1/3
 {T}, Pay 2 life: Deal 5 damage to target creature with power 4 or greater.
 
-The Fruit
-Artifact - Food
-{1}, {T}: Add one mana of any color. You lose 2 life.
-{3}, {T}: Create a food token.
-{T}: Create a 1/1 black snake creature token with deathtouch.
-
 Palm Sunday
 Enchantment
 {2}{W}{G}
@@ -35,13 +29,6 @@ Gift a tapped fish. Draw a card. If the gift was given, counter target spell and
 Uriah the Hittite
 Creature - Human
 1/3
-
-David's Mighty Men
-Enchantment - Saga
-{2}{BW}
-I: Create 3 1/1 Human Soldier Tokens
-II: Choose one: Create a 3/2 avatar creatire token named Ishbaal, a 1/4 human token named Eleazer, or a 2/2 human druid token named Shammah.
-III: Creatures you control gain indestructible until end of turn.
 
 Blood
 Enchantment - Curse
@@ -68,18 +55,6 @@ Satan - Legendary Planeswalker
 +1: Deal 3 damage to any target
 -2: Create 2 1/1 Devil Token creatures with haste.
 -7: Exile all creatures. Send them to your Hell zone. You gain an emblem with "You may cast cards cards from Hell as 1/1 colorless token Creatures with deathtouch."
-
-Hell
-Legendary Land
-{1}, {T}: Add {B} or {R}
-{1}, {T}: Create a 1/1 Devil Token with haste. Sacrifice it at the beginning of the next end step. Untap Hell.
-{4}, {T}: Sacrifice Hell. Deal 5 damage to any creature.
-
-Heaven
-Legendary Land - Plains Forest
-{1}, {T}: Add {W} or {G}
-{4}, {T}: Create a 3/3 Angel token with Flying
-{T}: Sacrifice CARDNAME. If you have exactly one life, you win the game.
 
 Breach the Skylight
 Sorcery
