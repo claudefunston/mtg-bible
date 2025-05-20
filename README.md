@@ -15,7 +15,7 @@
 * `card_sketches.txt` describes whiteboarded cards envisioned in an ad-hoc, top-down style. The format is sufficient to communicate the nature and effects of each, and mimics WotC's release notes.    
 ## Artwork
 ### Attribution
-Cards in the db have an `<imgsrc>` tag to record their origins.
+Cards in the db have a custom `<imgsrc>` tag to record their origins.
 
 All images are [CC0](https://creativecommons.org/public-domain/cc0/) licenced or in the public domain.
 
@@ -23,8 +23,6 @@ Some sources are:
 * [The National Gallery of Art](https://www.nga.gov/collection/collection-search.html)
 * [The Walters](https://art.thewalters.org/)
 * [Wikimedia Commons](https://commons.wikimedia.org/)
-
-Images from NGA are hereby credited as _Courtesy National Gallery of Art, Washington_.
 
 ### Raw Images
 * Details cropped from `<imgsrc>`.
@@ -90,10 +88,9 @@ Objects lose all attributes and abilities when they are in these zones apart fro
 * When a creature is in Hell, it gains {T}: Add B or R. You lose two life.
 * When a creature is in Limbo, it gains {T}: Add {C}.
 
-# Bible translations
-Our aim is to contribute to Magic and its community, not to otherwise communicate theology.
-
-The primary author typically references [NRSVCE](https://www.biblegateway.com/versions/New-Revised-Standard-Version-Catholic-Edition-NRSVCE-Bible), with reasonable editorial modifications.
-
 ## Citations
- Chapter and verse: `<chvs>`. This tag has no effect on gameplay.
+ * Our aim is to contribute to Magic and its community, not to otherwise communicate theology.
+ * The primary author of this set references [NRSVCE](https://www.biblegateway.com/versions/New-Revised-Standard-Version-Catholic-Edition-NRSVCE-Bible).
+ * Images from NGA are hereby credited as _Courtesy National Gallery of Art, Washington_.
+ * The author apprciates the input of his parents.
+ * Chapter and verse: `<chvs>`. This tag has no effect on gameplay.

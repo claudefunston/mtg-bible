@@ -756,7 +756,7 @@ If Jesus is on the battlefield, your creatures gain indestructible for the next 
 {2}, {T}: Create a food token.</text>
             <prop>
                 <type>Artifact</type>
-                <manacost>2</manacost>
+                <manacost>1</manacost>
                 <tablerow>1</tablerow>
             </prop>
             <set>BIB</set>
