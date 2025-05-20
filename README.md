@@ -92,5 +92,5 @@ Objects lose all attributes and abilities when they are in these zones apart fro
  * Our aim is to contribute to Magic and its community, not to otherwise communicate theology.
  * The primary author of this set references [NRSVCE](https://www.biblegateway.com/versions/New-Revised-Standard-Version-Catholic-Edition-NRSVCE-Bible).
  * Images from NGA are hereby credited as _Courtesy National Gallery of Art, Washington_.
- * The author apprcciates the input of his parents.
+ * The primary author apprcciates the input of his parents.
  * Chapter and verse: `<chvs>`. This tag has no effect on gameplay.
