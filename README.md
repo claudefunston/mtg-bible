@@ -15,9 +15,9 @@
 * `card_sketches.txt` describes whiteboarded cards envisioned in an ad-hoc, top-down style. The format is sufficient to communicate the nature and effects of each, and mimics WotC's release notes.    
 ## Artwork
 ### Attribution
-Cards in the db have a custom `<imgsrc>` tag to record their origins.
+Cards in the db have a custom `<imgsrc>` tag.
 
-All images are [CC0](https://creativecommons.org/public-domain/cc0/) licenced or in the public domain.
+All images are [CC0](https://creativecommons.org/public-domain/cc0/) or in the public domain.
 
 Some sources are:
 * [The National Gallery of Art](https://www.nga.gov/collection/collection-search.html)
@@ -65,8 +65,6 @@ Dual lands enter tapped with a stun counter but create a treasure token when the
 * Commiting a crime
 * Vansishing
 * Gifting
-* Blood tokens
-* Stun counters
 
 ## New Mechanics and Special Creatures
 * Inspire - When an Inspired creature dies, its controller creates a food token.
@@ -89,7 +87,6 @@ Objects lose all attributes and abilities when they are in these zones apart fro
 * When a creature is in Limbo, it gains {T}: Add {C}.
 
 ## Citations
- * Our aim is to contribute to Magic and its community, not to otherwise communicate theology.
  * The primary author of this set references [NRSVCE](https://www.biblegateway.com/versions/New-Revised-Standard-Version-Catholic-Edition-NRSVCE-Bible).
  * Images from NGA are hereby credited as _Courtesy National Gallery of Art, Washington_.
  * Chapter and verse: `<chvs>`. This tag has no effect on gameplay.
