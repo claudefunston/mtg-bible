@@ -19,7 +19,7 @@ Cards in the db have a custom `<imgsrc>` tag.
 
 All images are [CC0](https://creativecommons.org/public-domain/cc0/) or in the public domain.
 
-Some sources are:
+Some cited sources:
 * [The National Gallery of Art](https://www.nga.gov/collection/collection-search.html)
 * [The Walters](https://art.thewalters.org/)
 * [Wikimedia Commons](https://commons.wikimedia.org/)
@@ -59,6 +59,7 @@ Dual lands enter tapped with a stun counter but create a treasure token when the
 * Boils - BR
 * Frogs - BG
 * Hail - UR
+* ...
 # Release Notes
 ## Existing Mechanics
 * Finality

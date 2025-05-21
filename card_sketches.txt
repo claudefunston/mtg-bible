@@ -19,7 +19,7 @@ Creature - Human Druid
 Palm Sunday
 Enchantment
 {2}{W}{G}
-On your upkeep, create a 1/1 White Donkey Creature. If you control a Donkey, create an additional Donkey token.
+On your upkeep, create a 1/1 White Donkey Creature.
 
 Fishers of Men
 Instant
@@ -55,11 +55,6 @@ Satan - Legendary Planeswalker
 +1: Deal 3 damage to any target
 -2: Create 2 1/1 Devil Token creatures with haste.
 -7: Exile all creatures. Send them to your Hell zone. You gain an emblem with "You may cast cards cards from Hell as 1/1 colorless token Creatures with deathtouch."
-
-Breach the Skylight
-Sorcery
-{2}{U}
-Counter target spell. Create a 1/1 white angel Creature with indestructible.
 
 The Child is Born
 Sorcery
