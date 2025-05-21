@@ -766,5 +766,18 @@ If Jesus is on the battlefield, your creatures gain indestructible for the next 
             <imgsrc>https://www.nga.gov/artworks/116675-galo-bayeux</imgsrc>
             <chvs>Genesis 3:3</chvs>
         </card>
+               <card>
+            <name>The Death of St Joseph</name>
+            <text>When a creature you control dies, send it to Heaven or Limbo.</text>
+            <prop>
+                <type>Enchantment</type>
+                <manacost>UG</manacost>
+                <tablerow>1</tablerow>
+            </prop>
+            <set>BIB</set>
+            <tablerow>1</tablerow>
+            <imgsrc>https://www.nga.gov/artworks/72093-death-saint-joseph</imgsrc>
+            <chvs>Genesis 3:3</chvs>
+        </card>
     </cards>
 </cockatrice_carddatabase>
