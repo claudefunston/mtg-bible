@@ -90,4 +90,4 @@ Objects lose all attributes and abilities when they are in these zones apart fro
 ## Citations
  * The primary author of this set references [NRSVCE](https://www.biblegateway.com/versions/New-Revised-Standard-Version-Catholic-Edition-NRSVCE-Bible).
  * Images from NGA are hereby credited as _Courtesy National Gallery of Art, Washington_.
- * Chapter and verse: `<chvs>`. This tag has no effect on gameplay.
+ * Chapter and verse on each card when possible: `<chvs>`. This tag has no effect on gameplay.
