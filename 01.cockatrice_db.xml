@@ -424,7 +424,7 @@ If you can't target an opponent's creature, gain a life.</text>
             <cipt>1</cipt>
         </card>   
         <card>
-            <name>Forget the LORD</name>
+            <name>Forget יהוה </name>
             <text>All creatures get -2/-2 until end of turn. Each player gets 1 poison counter.</text>
             <prop>
                 <type>Sorcery</type>

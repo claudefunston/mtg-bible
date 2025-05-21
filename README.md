@@ -66,6 +66,7 @@ Dual lands enter tapped with a stun counter but create a treasure token when the
 * Commiting a crime
 * Vansishing
 * Gifting
+* Poison
 
 ## New Mechanics and Special Creatures
 * Inspire - When an Inspired creature dies, its controller creates a food token.
