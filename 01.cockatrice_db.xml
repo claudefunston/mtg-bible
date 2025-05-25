@@ -781,7 +781,7 @@ If Jesus is on the battlefield, your creatures gain indestructible for the next 
         </card>
         <card>
             <name>The Pearl of Great Price</name>
-            <text>Sacrifice an artifact. 
+            <text>As an additional cost to cast this card, sacrifice an artifact. 
 Send target creature you control to Heaven or Limbo.</text>
             <prop>
                 <type>Instant</type>
