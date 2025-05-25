@@ -78,7 +78,7 @@ This set is trinitarian so yes, you can target Jesus with a spell meant to targe
 For now, יהוה is not represented.
 
 ## Zones
-There are three new named zones - Heaven, Hell, and Limbo.
+There are three named zones - Heaven, Hell, and Limbo.
 
 Sending a creature to any is not an exile effect (unless specified by another card). Creatures _do_ enter the graveyard before they meet their destiny.
 

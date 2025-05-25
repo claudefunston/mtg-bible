@@ -779,5 +779,17 @@ If Jesus is on the battlefield, your creatures gain indestructible for the next 
             <imgsrc>https://www.nga.gov/artworks/72093-death-saint-joseph</imgsrc>
             <chvs>Genesis 3:3</chvs>
         </card>
+        <card>
+            <name>The Pearl of Great Price</name>
+            <text>Sacrifice an artifact. 
+Send target creature you control to Heaven or Limbo.</text>
+            <prop>
+                <type>Instant</type>
+                <manacost>U</manacost>
+            </prop>
+            <set>BIB</set>
+            <imgsrc>https://commons.wikimedia.org/wiki/File:Werkstatt_des_Domenico_Fetti_%E2%80%94_Gleichnis_von_der_k%C3%B6stlichen_Perle.jpg</imgsrc>
+            <tablerow>3</tablerow>
+        </card>
     </cards>
 </cockatrice_carddatabase>
