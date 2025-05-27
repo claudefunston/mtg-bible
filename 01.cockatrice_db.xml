@@ -787,9 +787,10 @@ Send target creature you control to Heaven or Limbo.</text>
                 <type>Instant</type>
                 <manacost>U</manacost>
             </prop>
+            <tablerow>3</tablerow>
             <set>BIB</set>
             <imgsrc>https://commons.wikimedia.org/wiki/File:Werkstatt_des_Domenico_Fetti_%E2%80%94_Gleichnis_von_der_k%C3%B6stlichen_Perle.jpg</imgsrc>
-            <tablerow>3</tablerow>
+            <chvs>Matthew 13:45-46</chvs>
         </card>
     </cards>
 </cockatrice_carddatabase>

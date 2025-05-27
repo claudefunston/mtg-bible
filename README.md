@@ -6,8 +6,8 @@
 
 # Usage
 * Install [Cockatrice](https://cockatrice.github.io/).
-* Place `01.cockatrice_db.xml` into your customsets folder.
-* Optionally, to use our images, place them into your custompics folder.
+* Place `01.cockatrice_db.xml` into your __customsets__ folder.
+* Optionally, to use our images, place them into your __custompics__ folder.
 # Contents
 ## db 
 * `01.cockatrice_db.xml`
@@ -19,11 +19,11 @@ Cards in the db have a custom `<imgsrc>` tag.
 
 All images are [CC0](https://creativecommons.org/public-domain/cc0/) or in the public domain.
 
-Some cited sources:
+Sources:
 * [The National Gallery of Art](https://www.nga.gov/collection/collection-search.html)
+    * Images from NGA are hereby credited as _Courtesy National Gallery of Art, Washington_.
 * [The Walters](https://art.thewalters.org/)
 * [Wikimedia Commons](https://commons.wikimedia.org/)
-
 ### Raw Images
 * Details cropped from `<imgsrc>`.
 ### Images
@@ -88,7 +88,6 @@ Objects lose all attributes and abilities when they are in these zones apart fro
 * When a creature is in Hell, it gains {T}: Add B or R. You lose two life.
 * When a creature is in Limbo, it gains {T}: Add {C}.
 
-## Citations
+## Biblical Citations
  * The primary author of this set references [NRSVCE](https://www.biblegateway.com/versions/New-Revised-Standard-Version-Catholic-Edition-NRSVCE-Bible).
- * Images from NGA are hereby credited as _Courtesy National Gallery of Art, Washington_.
  * Chapter and verse on each card when possible: `<chvs>`. This tag has no effect on gameplay.
