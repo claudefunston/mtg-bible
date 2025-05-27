@@ -48,11 +48,14 @@ Produced by [Magic Set Editor](https://magicseteditor.boards.net/).
     * This group can violate the laws of nature.
 * BR tertiary G: The Free
     * Satan and his minions.
-* WB, tertiary R:
+* WB, tertiary R: The Spiritualists
+    * Emphasis on the afterlife.
 * UR, tertiary G: The Essenes
     * Mystics.
-* BG, tertiary R: 
+* BG, tertiary R: The Ressurectionsists
+    * Jesus is of interest to this group.
 * RG, tertiary B: The Nephilim.
+    * These are large giant creatures.
 ## Lands
 Dual lands enter tapped with a stun counter but create a treasure token when they enter. These lands are typed. All ten pairs are represented.
 ## The Plagues
