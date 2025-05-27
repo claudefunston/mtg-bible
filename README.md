@@ -25,9 +25,9 @@ Sources:
 * [The Walters](https://art.thewalters.org/)
 * [Wikimedia Commons](https://commons.wikimedia.org/)
 ### Raw Images
-* Details cropped from `<imgsrc>`.
+Details cropped from `<imgsrc>`.
 ### Images
-* Produced by [Magic Set Editor](https://magicseteditor.boards.net/).
+Produced by [Magic Set Editor](https://magicseteditor.boards.net/).
 ### MSE
 * File: `mse_db`
 * When there are discrepancies between this file and the Cockatrice db, this file is considered authoritative.
