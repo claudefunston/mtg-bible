@@ -57,7 +57,7 @@ Produced by [Magic Set Editor](https://magicseteditor.boards.net/).
 * RG, tertiary B: The Nephilim.
     * These are large giant creatures.
 ## Lands
-Dual lands enter tapped with a stun counter but create a treasure token when they enter. These lands are typed. All ten pairs are represented.
+Duals enter tapped with a stun counter but create a treasure token when they enter. They are typed. All ten pairs are represented.
 ## The Plagues
 * Boils - BR
 * Frogs - BG
@@ -66,26 +66,28 @@ Dual lands enter tapped with a stun counter but create a treasure token when the
 # Release Notes
 ## Existing Mechanics
 * Finality
-* Commiting a crime
+* Crime
 * Vansishing
 * Gifting
 * Poison
 
 ## New Mechanics and Special Creatures
-* Inspire - When an Inspired creature dies, its controller creates a food token.
-* The creature names Jesus, Adam and Eve all have cross-referenced rules text.
-* The Deserter type has appeared on tokens. It is present in this set on a proper creature.
+* Inspire: When an Inspired creature dies, its controller creates a food token.
+* Divinity: if a creature or Planeswalker is divine, it has Ward 4.
+    * Jesus, Adam, Eve, and the Holy Spirit are divine. (For now, יהוה is not represented.)
+    * Artifacts and enchantments representing divine creatures are not divine.
+* The Deserter subtype has appeared on tokens in previous sets. It is present here on a proper creature.
 
-This set is trinitarian so yes, you can target Jesus with a spell meant to target the Holy Spirit.
+If you control a token named Jesus and a Planeswalker named Jesus, the legend rule applies.
 
-For now, יהוה is not represented.
+We are trinitarian so yes, you can target Jesus with a spell meant to target the Holy Spirit.
 
 ## Zones
-There are three named zones - Heaven, Hell, and Limbo.
+There are three named zones: Heaven, Hell, and Limbo.
 
 Sending a creature to any is not an exile effect (unless specified by another card). Creatures _do_ enter the graveyard before they meet their destiny.
 
-Objects lose all attributes and abilities when they are in these zones apart from type and mana cost. Specifically, they still contribute to devotion and the number of creatures you control.
+Creatures in these zones retain type and mana cost, and lose all abilities. Specifically, they still contribute to devotion and the number of creatures you control.
 
 * When a creature is in Heaven, it gains {T}: You gain 2 life.
 * When a creature is in Hell, it gains {T}: Add B or R. You lose two life.
