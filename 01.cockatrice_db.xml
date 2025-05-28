@@ -687,13 +687,14 @@ When this enchantment leaves the battlefield, destroy all frogs.</text>
             <imgsrc>https://art.thewalters.org/object/W.106.7R</imgsrc>
         </card>
         <card>
-            <name>Jesus</name>
+            <name>Christ the Caregiver</name>
             <text>+1: You gain 2 life.
--2: Return target creature from your graveyard to the battlefield.
++1: Inspire target creature.
+-2: Return target creature with mana value 2 or less from your graveyard to the battlefield.
 -8: All creatures go to Heaven.
             </text>
             <prop>
-                <type>Legendary Planeswalker - Jesus</type>
+                <type>Legendary Divine Planeswalker - Jesus</type>
                 <manacost>WWW</manacost>
                 <manacost>3</manacost>
                 <colors>W</colors>

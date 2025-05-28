@@ -89,6 +89,8 @@ Sending a creature to any is not an exile effect (unless specified by another ca
 
 Creatures in these zones retain type and mana cost, and lose all abilities. Specifically, they still contribute to devotion and the number of creatures you control.
 
+You may activate each of these abilities only once each turn as a sorcery.
+
 * When a creature is in Heaven, it gains {T}: You gain 2 life.
 * When a creature is in Hell, it gains {T}: Add B or R. You lose two life.
 * When a creature is in Limbo, it gains {T}: Add {C}.
